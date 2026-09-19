@@ -1,3 +1,18 @@
+## [2026-09-20 01:56] - Git Deposu Kurulumu & GitHub'a İlk Push (asujai/kesit)
+
+* **Model:** Antigravity
+* **Etkilenen Dosyalar:**
+  * `[GÜNCELLENDİ]` `.gitignore` (Cache, video, ses, görsel ve geçici dosyaların sızmasını önleyecek filtreler güçlendirildi)
+  * `[YENİ]` `.git/` (Git yerel deposu başlatıldı, `main` dalı ve `origin` uzak deposu bağlandı)
+* **Yapılan İşlem:**
+  1. `.gitignore` yapılandırması güncellendi (`.cache/`, `*.cache_key`, `*.pyc`, `*.webm`, `*.mov`, `*.flac` vb. eklendi).
+  2. Git deposu başlatıldı (`git init`, `git branch -M main`).
+  3. Tüm kaynak kodlar, konfigürasyonlar, testler, transkriptler ve dokümantasyon (320 dosya) evreye alınarak `[antigravity] feat: initial repository setup and video automation pipeline` başlığıyla commit'lendi (`1c3a1df`).
+  4. Uzak depo olarak `https://github.com/asujai/kesit.git` tanımlandı ve `main` dalı GitHub'a başarıyla push'landı.
+* **Doğrulama:** `git push -u origin main` başarıyla tamamlandı; `branch 'main' set up to track 'origin/main'`.
+* **Bilinen Sorunlar:** Yok.
+* **Sonraki Öneri:** Gün 13 video üretim hazırlıklarına devam edilmesi.
+
 ## [2026-09-19 18:35] - Gün 12 Altyazı Revizyonu: Kelime Kelime Ses Senkronizasyonu & "Konuşmacı Çeşitliliği / Ardışık Tekrar Yasağı" Kuralının Anayasaya Eklenmesi
 
 * **Model:** Antigravity
