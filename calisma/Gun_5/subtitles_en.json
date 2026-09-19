@@ -1,0 +1,128 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.2,
+    "end": 2.8,
+    "text": "The smartphone is very interesting",
+    "highlight": "smartphone"
+  },
+  {
+    "id": "sub_02",
+    "start": 2.95,
+    "end": 5.95,
+    "text": "for dopamine in light of this.",
+    "highlight": "for dopamine"
+  },
+  {
+    "id": "sub_03",
+    "start": 6.15,
+    "end": 8.6,
+    "text": "It's extremely common nowadays",
+    "highlight": "extremely common"
+  },
+  {
+    "id": "sub_04",
+    "start": 8.75,
+    "end": 10.8,
+    "text": "to see texting and selfies,",
+    "highlight": "texting and selfies"
+  },
+  {
+    "id": "sub_05",
+    "start": 10.95,
+    "end": 13.0,
+    "text": "communicating in various ways,",
+    "highlight": "various ways"
+  },
+  {
+    "id": "sub_06",
+    "start": 13.15,
+    "end": 15.0,
+    "text": "listening to podcasts or music,",
+    "highlight": "podcasts or music"
+  },
+  {
+    "id": "sub_07",
+    "start": 15.15,
+    "end": 17.6,
+    "text": "doing all sorts of things",
+    "highlight": "all sorts of things"
+  },
+  {
+    "id": "sub_08",
+    "start": 17.75,
+    "end": 19.5,
+    "text": "while doing other activities.",
+    "highlight": "other activities"
+  },
+  {
+    "id": "sub_09",
+    "start": 19.65,
+    "end": 22.0,
+    "text": "Going to dinner and texting,",
+    "highlight": "dinner and texting"
+  },
+  {
+    "id": "sub_10",
+    "start": 22.15,
+    "end": 24.5,
+    "text": "sharing constant information.",
+    "highlight": "constant information"
+  },
+  {
+    "id": "sub_11",
+    "start": 24.65,
+    "end": 26.8,
+    "text": "That's all wonderful,",
+    "highlight": "all wonderful"
+  },
+  {
+    "id": "sub_12",
+    "start": 26.95,
+    "end": 29.5,
+    "text": "gives richness and color to life.",
+    "highlight": "richness and color"
+  },
+  {
+    "id": "sub_13",
+    "start": 29.65,
+    "end": 31.8,
+    "text": "But it isn't just about",
+    "highlight": "isn't just about"
+  },
+  {
+    "id": "sub_14",
+    "start": 31.95,
+    "end": 33.8,
+    "text": "being distracted with your phone,",
+    "highlight": "being distracted"
+  },
+  {
+    "id": "sub_15",
+    "start": 33.95,
+    "end": 36.8,
+    "text": "it's a way of layering dopamine!",
+    "highlight": "layering dopamine"
+  },
+  {
+    "id": "sub_16",
+    "start": 36.95,
+    "end": 38.4,
+    "text": "And the result...",
+    "highlight": "And the result"
+  },
+  {
+    "id": "sub_17",
+    "start": 38.55,
+    "end": 41.2,
+    "text": "Depression and lack of motivation",
+    "highlight": "lack of motivation"
+  },
+  {
+    "id": "sub_18",
+    "start": 41.35,
+    "end": 43.5,
+    "text": "are heavily on the increase.",
+    "highlight": "on the increase"
+  }
+]

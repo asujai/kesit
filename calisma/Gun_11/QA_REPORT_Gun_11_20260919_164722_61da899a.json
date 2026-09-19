@@ -1,0 +1,50 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.000s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 5 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_11\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.0 LUFS, True Peak: -3.1 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_11_20260919_164722_61da899a",
+  "sha256": "61da899abd39c3f8e0ff20a60e91d0ef9cffd4fcd01a87704296d8a3b9c37441",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_procrastinating_desk_student",
+      "interval": "4.50s - 8.50s",
+      "media_type": "video",
+      "pixel_diff": 34.1074
+    },
+    {
+      "cut_id": "c02_putting_phone_away",
+      "interval": "13.00s - 17.00s",
+      "media_type": "video",
+      "pixel_diff": 58.4703
+    },
+    {
+      "cut_id": "c03_staring_at_blank_wall",
+      "interval": "20.00s - 24.50s",
+      "media_type": "video",
+      "pixel_diff": 13.1257
+    },
+    {
+      "cut_id": "c04_brain_dopamine_neurons",
+      "interval": "24.50s - 28.50s",
+      "media_type": "video",
+      "pixel_diff": 24.0503
+    },
+    {
+      "cut_id": "c05_deep_focus_work_flow",
+      "interval": "28.50s - 32.00s",
+      "media_type": "video",
+      "pixel_diff": 16.2773
+    }
+  ],
+  "timestamp": "2026-09-19T16:47:30.402666",
+  "language": "tr",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

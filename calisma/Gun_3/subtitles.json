@@ -1,0 +1,142 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.15,
+    "end": 2.2,
+    "text": "Hareketli bir hayatı",
+    "highlight": "Hareketli"
+  },
+  {
+    "id": "sub_02",
+    "start": 2.2,
+    "end": 4.4,
+    "text": "çok engelleyen yeni rutinlerimiz var.",
+    "highlight": "yeni rutinlerimiz"
+  },
+  {
+    "id": "sub_03",
+    "start": 4.4,
+    "end": 6.2,
+    "text": "Her şeyi oturarak,",
+    "highlight": "oturarak"
+  },
+  {
+    "id": "sub_04",
+    "start": 6.2,
+    "end": 8.4,
+    "text": "her şeyi ekranlara böyle",
+    "highlight": "ekranlara"
+  },
+  {
+    "id": "sub_05",
+    "start": 8.4,
+    "end": 11.2,
+    "text": "parmağımızla basarak yapabiliyoruz ya...",
+    "highlight": "parmağımızla basarak"
+  },
+  {
+    "id": "sub_06",
+    "start": 11.2,
+    "end": 13.1,
+    "text": "Her şeyin en hareketsiz",
+    "highlight": "en hareketsiz"
+  },
+  {
+    "id": "sub_07",
+    "start": 13.1,
+    "end": 15.6,
+    "text": "tüketilebilir biçimi artık daha makbul!",
+    "highlight": "daha makbul!"
+  },
+  {
+    "id": "sub_08",
+    "start": 15.6,
+    "end": 17.5,
+    "text": "'Ya sen bir parmakla,",
+    "highlight": "bir parmakla"
+  },
+  {
+    "id": "sub_09",
+    "start": 17.5,
+    "end": 19.8,
+    "text": "bir tıklamayla neler yapacaksın' diyor;",
+    "highlight": "neler yapacaksın"
+  },
+  {
+    "id": "sub_10",
+    "start": 19.8,
+    "end": 21.6,
+    "text": "ama bizim gerçekten",
+    "highlight": "gerçekten"
+  },
+  {
+    "id": "sub_11",
+    "start": 21.6,
+    "end": 24.3,
+    "text": "bir tıklamayla çalışacak sistemimiz yok!",
+    "highlight": "sistemimiz yok!"
+  },
+  {
+    "id": "sub_12",
+    "start": 24.3,
+    "end": 26.5,
+    "text": "Biz bir lokma ekmek için",
+    "highlight": "lokma ekmek"
+  },
+  {
+    "id": "sub_13",
+    "start": 26.5,
+    "end": 28.7,
+    "text": "bile atalarımız kilometrelerce yol",
+    "highlight": "kilometrelerce yol"
+  },
+  {
+    "id": "sub_14",
+    "start": 28.7,
+    "end": 31.0,
+    "text": "gitmek zorunda kalmışlar bir kere.",
+    "highlight": "zorunda kalmışlar"
+  },
+  {
+    "id": "sub_15",
+    "start": 31.0,
+    "end": 33.4,
+    "text": "Bedenen zaten harekete ihtiyacımız olduğu",
+    "highlight": "harekete ihtiyacımız"
+  },
+  {
+    "id": "sub_16",
+    "start": 33.4,
+    "end": 35.1,
+    "text": "artık izahtan vareste;",
+    "highlight": "izahtan vareste"
+  },
+  {
+    "id": "sub_17",
+    "start": 35.1,
+    "end": 36.3,
+    "text": "açıklamaya gerek yok.",
+    "highlight": "açıklamaya gerek yok"
+  },
+  {
+    "id": "sub_18",
+    "start": 36.3,
+    "end": 37.3,
+    "text": "Peki ya zihnimiz?",
+    "highlight": "zihnimiz?"
+  },
+  {
+    "id": "sub_19",
+    "start": 37.3,
+    "end": 38.3,
+    "text": "Ya duygularımız?",
+    "highlight": "duygularımız?"
+  },
+  {
+    "id": "sub_20",
+    "start": 38.3,
+    "end": 39.4,
+    "text": "Ya anlam dünyamız?",
+    "highlight": "anlam dünyamız?"
+  }
+]

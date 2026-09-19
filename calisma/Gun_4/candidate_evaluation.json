@@ -1,0 +1,96 @@
+{
+  "campaign_goal": "viral_awareness",
+  "selected_candidate": "cand_8.0_37.9",
+  "candidates": [
+    {
+      "id": "cand_8.0_37.9",
+      "start": 7.96,
+      "end": 37.92,
+      "duration": 29.96,
+      "hook_text": "sana çok önemli bir konudan bahsetmek",
+      "punchline_text": "sana şöyle bir soru sormak istiyorum.",
+      "scores": {
+        "hook_power": 9.0,
+        "punchline_power": 6.5,
+        "standalone_context": 6.5,
+        "niche_alignment": 5.8
+      },
+      "composite_score": 7.27,
+      "full_text_sample": "sana çok önemli bir konudan bahsetmek istiyorum. Ucuz dopamin, pahalı dopamin. Bu mevzular bizim hayatımızı nasıl etkiliyor? Farkında olmada...",
+      "status": "ACCEPTED",
+      "rationale": "Top-ranked segment with highest combined hook (9.0/10) and punchline (6.5/10) score from transcript."
+    },
+    {
+      "id": "cand_319.7_357.9",
+      "start": 319.68,
+      "end": 357.92,
+      "duration": 38.24,
+      "hook_text": "dedikten sonra nedir bu ucuz dopamin?",
+      "punchline_text": "bunu bilinçli olarak düşünmüyorsun.",
+      "scores": {
+        "hook_power": 9.0,
+        "punchline_power": 6.5,
+        "standalone_context": 6.5,
+        "niche_alignment": 5.8
+      },
+      "composite_score": 7.27,
+      "full_text_sample": "dedikten sonra nedir bu ucuz dopamin? Ucuz dopamin aslında çok az çaba gerektiren ve anında sana böyle tatmin veren, keyif veren eylemler bü...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (7.27 vs 7.27)."
+    },
+    {
+      "id": "cand_729.0_771.6",
+      "start": 729.0,
+      "end": 771.64,
+      "duration": 42.64,
+      "hook_text": "aslında bir ihtiyacı olmadığı halde",
+      "punchline_text": "bugün aslında eskiden eee şöyleydi",
+      "scores": {
+        "hook_power": 9.0,
+        "punchline_power": 7.5,
+        "standalone_context": 5.0,
+        "niche_alignment": 5.8
+      },
+      "composite_score": 7.27,
+      "full_text_sample": "aslında bir ihtiyacı olmadığı halde devamlı alışveriş siteleri geziyor musun? gezenler yorumlarda kendini göstersin. Bu çok yaygın bir şey v...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (7.27 vs 7.27)."
+    },
+    {
+      "id": "cand_1066.5_1104.8",
+      "start": 1066.52,
+      "end": 1104.8,
+      "duration": 38.28,
+      "hook_text": "birisi hatta en iyisi bugüne kadar",
+      "punchline_text": "artık saklama gereği bile duymuyorlar.",
+      "scores": {
+        "hook_power": 7.5,
+        "punchline_power": 7.5,
+        "standalone_context": 7.5,
+        "niche_alignment": 5.8
+      },
+      "composite_score": 7.25,
+      "full_text_sample": "birisi hatta en iyisi bugüne kadar yapılmış bütün araştırmalarda nedir biliyor musun? İlişkilerdir, dostluktur. Yani yakın o yan yana yürüme...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (7.25 vs 7.27)."
+    },
+    {
+      "id": "cand_154.8_204.2",
+      "start": 154.84,
+      "end": 204.2,
+      "duration": 49.36,
+      "hook_text": "mesela 50 sene önceki sen standart bir",
+      "punchline_text": "seviyemizi gitgide aşağıya çekiyor.",
+      "scores": {
+        "hook_power": 7.5,
+        "punchline_power": 6.5,
+        "standalone_context": 7.5,
+        "niche_alignment": 7.4
+      },
+      "composite_score": 7.19,
+      "full_text_sample": "mesela 50 sene önceki sen standart bir hayat yaşıyorsun. Sabah kalktığında depon belli bir seviyede dolu aslında. Dopamin seviyen eee ölçüsü...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (7.19 vs 7.27)."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.010s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 3 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_12\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.1 LUFS, True Peak: -1.4 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [
+    "Showcase deployment transaction failed; previous files restored via rollback"
+  ],
+  "build_id": "Gun_12_20260919_182817_972f75fd",
+  "sha256": "972f75fd68fc4d945ba6eb4a26767c8b6310df9204c88977858de0fcd8206742",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_fog_walking",
+      "interval": "4.50s - 11.50s",
+      "media_type": "video",
+      "pixel_diff": 29.8537
+    },
+    {
+      "cut_id": "c02_writing_strategy",
+      "interval": "16.20s - 22.20s",
+      "media_type": "video",
+      "pixel_diff": 44.6963
+    },
+    {
+      "cut_id": "c03_clock_timelapse",
+      "interval": "28.20s - 34.40s",
+      "media_type": "video",
+      "pixel_diff": 12.0297
+    }
+  ],
+  "timestamp": "2026-09-19T18:28:23.823625",
+  "language": "tr",
+  "delivery_status": "ROLLED_BACK",
+  "overall_status": "FAILED"
+}

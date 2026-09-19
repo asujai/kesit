@@ -1,0 +1,128 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.2,
+    "end": 2.8,
+    "text": "Akıllı telefon, dopamin için",
+    "highlight": "Akıllı telefon"
+  },
+  {
+    "id": "sub_02",
+    "start": 2.95,
+    "end": 5.95,
+    "text": "oldukça ilginç bir araçtır.",
+    "highlight": "ilginç bir araçtır"
+  },
+  {
+    "id": "sub_03",
+    "start": 6.15,
+    "end": 8.6,
+    "text": "Bugünlerde insanların sürekli",
+    "highlight": "Bugünlerde"
+  },
+  {
+    "id": "sub_04",
+    "start": 8.75,
+    "end": 10.8,
+    "text": "mesajlaştığını ve selfie çektiğini",
+    "highlight": "mesajlaştığını"
+  },
+  {
+    "id": "sub_05",
+    "start": 10.95,
+    "end": 13.0,
+    "text": "görmek son derece yaygın.",
+    "highlight": "son derece yaygın"
+  },
+  {
+    "id": "sub_06",
+    "start": 13.15,
+    "end": 15.0,
+    "text": "Podcast veya müzik dinlemek,",
+    "highlight": "müzik dinlemek"
+  },
+  {
+    "id": "sub_07",
+    "start": 15.15,
+    "end": 17.6,
+    "text": "bir işle uğraşırken",
+    "highlight": "bir işle uğraşırken"
+  },
+  {
+    "id": "sub_08",
+    "start": 17.75,
+    "end": 19.5,
+    "text": "aynı anda her şeyi yapmak...",
+    "highlight": "aynı anda"
+  },
+  {
+    "id": "sub_09",
+    "start": 19.65,
+    "end": 22.0,
+    "text": "Akşam yemeğinde bile",
+    "highlight": "Akşam yemeğinde"
+  },
+  {
+    "id": "sub_10",
+    "start": 22.15,
+    "end": 24.5,
+    "text": "telefona kilitlenip yazışmak...",
+    "highlight": "telefona kilitlenip"
+  },
+  {
+    "id": "sub_11",
+    "start": 24.65,
+    "end": 26.8,
+    "text": "Tüm bunlar harika görünür,",
+    "highlight": "harika görünür"
+  },
+  {
+    "id": "sub_12",
+    "start": 26.95,
+    "end": 29.5,
+    "text": "hayata renk ve zenginlik katar.",
+    "highlight": "renk ve zenginlik"
+  },
+  {
+    "id": "sub_13",
+    "start": 29.65,
+    "end": 31.8,
+    "text": "Fakat mesele sadece",
+    "highlight": "Fakat mesele"
+  },
+  {
+    "id": "sub_14",
+    "start": 31.95,
+    "end": 33.8,
+    "text": "dikkatin dağılması değildir;",
+    "highlight": "dikkatin dağılması"
+  },
+  {
+    "id": "sub_15",
+    "start": 33.95,
+    "end": 36.8,
+    "text": "bu, dopamini üst üste bindirir!",
+    "highlight": "dopamini üst üste"
+  },
+  {
+    "id": "sub_16",
+    "start": 36.95,
+    "end": 38.4,
+    "text": "Ve sonuç olarak...",
+    "highlight": "Ve sonuç olarak"
+  },
+  {
+    "id": "sub_17",
+    "start": 38.55,
+    "end": 41.2,
+    "text": "Depresyon ve motivasyon kaybının",
+    "highlight": "motivasyon kaybının"
+  },
+  {
+    "id": "sub_18",
+    "start": 41.35,
+    "end": 43.5,
+    "text": "artması hiç de sürpriz değil.",
+    "highlight": "hiç de sürpriz değil"
+  }
+]

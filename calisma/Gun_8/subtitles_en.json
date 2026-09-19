@@ -1,0 +1,100 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.2,
+    "end": 3.8,
+    "text": "In a competitive 21st century economy,",
+    "highlight": "competitive 21st century"
+  },
+  {
+    "id": "sub_02",
+    "start": 4.0,
+    "end": 6.5,
+    "text": "what the market values",
+    "highlight": "market values"
+  },
+  {
+    "id": "sub_03",
+    "start": 6.6,
+    "end": 10.8,
+    "text": "is the ability to produce things that are rare and valuable.",
+    "highlight": "rare and valuable"
+  },
+  {
+    "id": "sub_04",
+    "start": 11.5,
+    "end": 15.2,
+    "text": "If you produce something rare and valuable, the market will value that.",
+    "highlight": "market will value that"
+  },
+  {
+    "id": "sub_05",
+    "start": 15.5,
+    "end": 18.2,
+    "text": "What the market dismisses, for the most part,",
+    "highlight": "market dismisses"
+  },
+  {
+    "id": "sub_06",
+    "start": 18.3,
+    "end": 22.8,
+    "text": "are activities that are easy to replicate and produce little value.",
+    "highlight": "easy to replicate"
+  },
+  {
+    "id": "sub_07",
+    "start": 23.0,
+    "end": 26.5,
+    "text": "Well, social media use is the epitome of that:",
+    "highlight": "social media use"
+  },
+  {
+    "id": "sub_08",
+    "start": 26.6,
+    "end": 29.5,
+    "text": "an easy to replicate activity that produces almost no value;",
+    "highlight": "almost no value"
+  },
+  {
+    "id": "sub_09",
+    "start": 29.6,
+    "end": 32.8,
+    "text": "something any six-year-old with a smartphone can do.",
+    "highlight": "six-year-old with a smartphone"
+  },
+  {
+    "id": "sub_10",
+    "start": 33.0,
+    "end": 36.8,
+    "text": "By definition, the market will not give value to those behaviors.",
+    "highlight": "not give value"
+  },
+  {
+    "id": "sub_11",
+    "start": 37.0,
+    "end": 40.8,
+    "text": "It's instead going to reward the deep, concentrated work",
+    "highlight": "deep, concentrated work"
+  },
+  {
+    "id": "sub_12",
+    "start": 41.0,
+    "end": 44.2,
+    "text": "required to build real skills and produce things,",
+    "highlight": "real skills"
+  },
+  {
+    "id": "sub_13",
+    "start": 44.4,
+    "end": 46.0,
+    "text": "like a craftsman,",
+    "highlight": "craftsman"
+  },
+  {
+    "id": "sub_14",
+    "start": 46.1,
+    "end": 47.8,
+    "text": "that are rare and that are valuable.",
+    "highlight": "rare and valuable"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.20,
+    "end": 2.50,
+    "text": "Genelde bağımlılığı bu işaretlerle tanımlarız.",
+    "highlight": "işaretlerle tanımlarız"
+  },
+  {
+    "id": "sub_02",
+    "start": 2.65,
+    "end": 5.10,
+    "text": "Sayın bakalım sizde kaç tanesi var:",
+    "highlight": "kaç tanesi var"
+  },
+  {
+    "id": "sub_03",
+    "start": 5.25,
+    "end": 7.50,
+    "text": "Tehlikeli kullanım; araba sürerken",
+    "highlight": "araba sürerken"
+  },
+  {
+    "id": "sub_04",
+    "start": 7.65,
+    "end": 9.80,
+    "text": "veya riskli anlarda telefona bakmak,",
+    "highlight": "riskli anlarda"
+  },
+  {
+    "id": "sub_05",
+    "start": 9.95,
+    "end": 12.30,
+    "text": "Bozulan sosyal ilişkiler; kendini izole etmek",
+    "highlight": "kendini izole etmek"
+  },
+  {
+    "id": "sub_06",
+    "start": 12.45,
+    "end": 14.50,
+    "text": "ve çevrendeki insanlardan kopmak,",
+    "highlight": "insanlardan kopmak"
+  },
+  {
+    "id": "sub_07",
+    "start": 14.65,
+    "end": 16.50,
+    "text": "Telefon yokken gelen yoksunluk krizi,",
+    "highlight": "yoksunluk krizi"
+  },
+  {
+    "id": "sub_08",
+    "start": 16.65,
+    "end": 18.40,
+    "text": "sürekli telefona aşerme dürtüsü,",
+    "highlight": "aşerme dürtüsü"
+  },
+  {
+    "id": "sub_09",
+    "start": 18.55,
+    "end": 21.60,
+    "text": "Artan tolerans; ekran sürenizin sinsice tırmanması,",
+    "highlight": "ekran sürenizin"
+  },
+  {
+    "id": "sub_10",
+    "start": 21.75,
+    "end": 24.50,
+    "text": "Kullanımı azaltmaya çalışıp bir türlü başaramamak,",
+    "highlight": "bir türlü başaramamak"
+  },
+  {
+    "id": "sub_11",
+    "start": 24.65,
+    "end": 27.80,
+    "text": "Planladığınızdan saatlerce fazla ekrana gömülmek,",
+    "highlight": "saatlerce fazla"
+  },
+  {
+    "id": "sub_12",
+    "start": 27.95,
+    "end": 31.50,
+    "text": "ve telefon için hobilerinizden vazgeçmek.",
+    "highlight": "hobilerinizden vazgeçmek"
+  },
+  {
+    "id": "sub_13",
+    "start": 31.65,
+    "end": 34.00,
+    "text": "İçinizden kaç kişi",
+    "highlight": "kaç kişi"
+  },
+  {
+    "id": "sub_14",
+    "start": 34.15,
+    "end": 36.80,
+    "text": "\"Eyvah, bu tam olarak benim\" hissini yaşadı?",
+    "highlight": "tam olarak benim"
+  },
+  {
+    "id": "sub_15",
+    "start": 36.95,
+    "end": 39.50,
+    "text": "Kendinizde görmüyorsanız bile,",
+    "highlight": "Kendinizde görmüyorsanız"
+  },
+  {
+    "id": "sub_16",
+    "start": 39.65,
+    "end": 42.40,
+    "text": "etrafınızdaki kaç kişide bu işaretleri görüyorsunuz?",
+    "highlight": "kaç kişide"
+  }
+]

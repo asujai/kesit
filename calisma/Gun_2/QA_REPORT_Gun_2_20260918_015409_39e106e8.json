@@ -1,0 +1,95 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.000s)",
+  "motion_anti_freeze": "PASSED (All 16 cuts verified dynamic with active motion)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.3 LUFS, True Peak: None dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "overall_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_2_20260918_015409_39e106e8",
+  "sha256": "39e106e87ff2a8ddf5bf4c23f85a0fa231bd6f45b23077c6cb18d6cd17a767a8",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_bed_dark",
+      "interval": "2.00s - 3.70s",
+      "pixel_diff": 0.7892
+    },
+    {
+      "cut_id": "c02_bed_screen",
+      "interval": "3.70s - 5.50s",
+      "pixel_diff": 7.8049
+    },
+    {
+      "cut_id": "c03_bus_passenger",
+      "interval": "5.50s - 7.10s",
+      "pixel_diff": 47.9488
+    },
+    {
+      "cut_id": "c04_red_light",
+      "interval": "7.10s - 8.80s",
+      "pixel_diff": 2.2985
+    },
+    {
+      "cut_id": "c05_car_hand",
+      "interval": "8.80s - 10.50s",
+      "pixel_diff": 36.34
+    },
+    {
+      "cut_id": "c06_driver_look",
+      "interval": "12.10s - 13.80s",
+      "pixel_diff": 15.8451
+    },
+    {
+      "cut_id": "c07_cafe1",
+      "interval": "13.80s - 15.50s",
+      "pixel_diff": 19.049
+    },
+    {
+      "cut_id": "c08_notif_phone",
+      "interval": "15.50s - 17.00s",
+      "pixel_diff": 7.2317
+    },
+    {
+      "cut_id": "c09_cafe2",
+      "interval": "17.00s - 18.60s",
+      "pixel_diff": 26.9491
+    },
+    {
+      "cut_id": "c10_night_dark",
+      "interval": "20.10s - 21.80s",
+      "pixel_diff": 0.708
+    },
+    {
+      "cut_id": "c11_pillow_screen",
+      "interval": "21.80s - 23.50s",
+      "pixel_diff": 0.8727
+    },
+    {
+      "cut_id": "c12_blue_face",
+      "interval": "23.50s - 25.20s",
+      "pixel_diff": 22.9937
+    },
+    {
+      "cut_id": "c13_phone_chains",
+      "interval": "33.35s - 35.15s",
+      "pixel_diff": 6.4038
+    },
+    {
+      "cut_id": "c14_scroll_fast1",
+      "interval": "35.15s - 36.95s",
+      "pixel_diff": 8.9281
+    },
+    {
+      "cut_id": "c15_scroll_feed",
+      "interval": "36.95s - 38.55s",
+      "pixel_diff": 14.3308
+    },
+    {
+      "cut_id": "c16_scroll_fast2",
+      "interval": "38.55s - 40.35s",
+      "pixel_diff": 10.4351
+    }
+  ],
+  "timestamp": "2026-09-18T01:54:17.315476"
+}

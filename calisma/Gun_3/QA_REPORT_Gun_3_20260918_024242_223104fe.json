@@ -1,0 +1,43 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.020s)",
+  "motion_anti_freeze": "PASSED (All 4 cuts verified dynamic/valid)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "FAILED",
+  "failures": [
+    "Loudness out of spec: -16.2 LUFS (target -14.0 +/- 0.5)"
+  ],
+  "build_id": "Gun_3_20260918_024242_223104fe",
+  "sha256": "223104fe7bc313d9b9aaf8ee6cdd74502e4ca098f367b73c9e920e1fb8a32dfe",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_couch",
+      "interval": "5.00s - 11.20s",
+      "media_type": "video",
+      "pixel_diff": 32.787
+    },
+    {
+      "cut_id": "c02_tap",
+      "interval": "11.20s - 16.00s",
+      "media_type": "video",
+      "pixel_diff": 9.4353
+    },
+    {
+      "cut_id": "c03_phone_glow",
+      "interval": "19.80s - 25.00s",
+      "media_type": "video",
+      "pixel_diff": 34.1896
+    },
+    {
+      "cut_id": "c04_hiking",
+      "interval": "25.00s - 31.00s",
+      "media_type": "video",
+      "pixel_diff": 22.5186
+    }
+  ],
+  "timestamp": "2026-09-18T02:42:46.850416",
+  "delivery_status": "ABORTED",
+  "overall_status": "FAILED"
+}

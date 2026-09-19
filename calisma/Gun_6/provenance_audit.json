@@ -1,0 +1,75 @@
+{
+  "build_id": "Gun_6_20260918_161550_0e6ac2d3",
+  "day": "Gun_6",
+  "source_video": "calisma/Gun_6/clean_raw_romano.mp4",
+  "in_point": 0.0,
+  "out_point": 42.44,
+  "duration": null,
+  "provenance": {
+    "source_video": {
+      "raw_video_path": "calisma/Gun_6/clean_raw_romano.mp4",
+      "in_point": 0.0,
+      "out_point": 42.44,
+      "duration": 42.44
+    },
+    "candidate": {
+      "selection_mode": "agent_editorial",
+      "in_point": 0.0,
+      "out_point": 42.44,
+      "duration": 42.44,
+      "rationale": "Global TEDx speaker and psychiatrist Dr. Justin Romano outlines the 8 universal diagnostic signs of smartphone/screen addiction with a viral punchline."
+    }
+  },
+  "cuts_provenance": [
+    {
+      "id": "c01_hazardous_driving",
+      "media_type": "video",
+      "start_t": 5.2,
+      "end_t": 9.8,
+      "duration": 4.6,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c01_hazardous_driving.mp4",
+      "content_hash": "d34f1195019b29893c1240bae9e6c87a3d1a8c7ed70ae0116915fd7c0a8d2963"
+    },
+    {
+      "id": "c02_social_isolation",
+      "media_type": "video",
+      "start_t": 9.8,
+      "end_t": 14.6,
+      "duration": 4.8,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c02_social_isolation.mp4",
+      "content_hash": "6c875918e12d9d177db1d4a1e4011c4282981c9d095b23adf3f42a26493a42b2"
+    },
+    {
+      "id": "c03_screentime_tolerance",
+      "media_type": "video",
+      "start_t": 18.5,
+      "end_t": 21.7,
+      "duration": 3.2,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c03_screentime_tolerance.mp4",
+      "content_hash": "b3159fabb653e584b6a4375ed96ddeb3da35df20b606759c03ca16b2e1d0e49e"
+    },
+    {
+      "id": "c04_doomscroll_night",
+      "media_type": "video",
+      "start_t": 21.7,
+      "end_t": 27.8,
+      "duration": 6.1,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c04_doomscroll_night.mp4",
+      "content_hash": "10f2516a2f89ee3b1555ed42563be4b4944f6c84111bbddcda0fd69e5f3d0ac1"
+    },
+    {
+      "id": "c05_abandoned_hobbies",
+      "media_type": "video",
+      "start_t": 27.8,
+      "end_t": 31.6,
+      "duration": 3.8,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c05_abandoned_hobbies.mp4",
+      "content_hash": "15fb5533d249b7a21b0a30b5690dcbbfa1e3f84d6090daa9bf284b6ed835fd30"
+    }
+  ]
+}

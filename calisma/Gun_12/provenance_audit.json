@@ -1,0 +1,55 @@
+{
+  "build_id": "Gun_12_20260919_183105_972f75fd",
+  "day": "Gun_12",
+  "source_video": "calisma/Gun_12/base_source.mp4",
+  "in_point": 4.0,
+  "out_point": 43.15,
+  "duration": null,
+  "provenance": {
+    "source_video": {
+      "raw_video_path": "calisma/Gun_12/base_source.mp4",
+      "in_point": 4.0,
+      "out_point": 43.15,
+      "duration": 39.15
+    },
+    "candidate": {
+      "selection_mode": "agent_editorial",
+      "in_point": 4.0,
+      "out_point": 43.15,
+      "duration": 39.15,
+      "rationale": "Beyhan Budak explains Colin Powell's 40/70 decision-making rule to stop overthinking: If you have less than 40% information, you are guessing blindly. But once you have between 40% and 70%, that is the sweet spot to act. Waiting for more than 70% is a trap where opportunities and life slip away."
+    }
+  },
+  "cuts_provenance": [
+    {
+      "id": "c01_fog_walking",
+      "media_type": "video",
+      "start_t": 4.5,
+      "end_t": 11.5,
+      "duration": 7.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_12/dynamic_brolls/broll_01_fog_walking.mp4",
+      "content_hash": "6842a4613e7ab1bed1defd276bfe202ecfbf6038a7bf5bb1f7df0a02c4308e95"
+    },
+    {
+      "id": "c02_writing_strategy",
+      "media_type": "video",
+      "start_t": 16.2,
+      "end_t": 22.2,
+      "duration": 6.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_12/dynamic_brolls/broll_02_writing_strategy.mp4",
+      "content_hash": "5f8bb5f22500dbb644522e20e33f12acafe3266ac44ad30e567266ba92f3b5c4"
+    },
+    {
+      "id": "c03_clock_timelapse",
+      "media_type": "video",
+      "start_t": 28.2,
+      "end_t": 34.4,
+      "duration": 6.2,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_12/dynamic_brolls/broll_03_clock_timelapse.mp4",
+      "content_hash": "4648e9dd459140f85ca358fa4d370ec20f9341e66234ae2b9c93b76579c72a65"
+    }
+  ]
+}

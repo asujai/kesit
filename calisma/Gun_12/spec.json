@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "id": "gun_12_beyhan_budak_40_70_kurali",
+    "day": "Gun_12",
+    "title": "Aşırı Düşünmeyi ve Kararsızlığı Bitiren Yöntem: Colin Powell'ın %40-%70 Kuralı | Beyhan Budak",
+    "topic": "Aşırı Düşünme (Overthinking), Karar Verme Teknikleri, Colin Powell 40-70 Kuralı",
+    "speaker": "Uzman Klinik Psikolog Beyhan Budak",
+    "transcript_path": "calisma/Gun_12/subtitles.json",
+    "provenance": {
+      "source_video": {
+        "raw_video_path": "calisma/Gun_12/base_source.mp4",
+        "in_point": 4.00,
+        "out_point": 43.15,
+        "duration": 39.15
+      },
+      "candidate": {
+        "selection_mode": "agent_editorial",
+        "in_point": 4.00,
+        "out_point": 43.15,
+        "duration": 39.15,
+        "rationale": "Beyhan Budak explains Colin Powell's 40/70 decision-making rule to stop overthinking: If you have less than 40% information, you are guessing blindly. But once you have between 40% and 70%, that is the sweet spot to act. Waiting for more than 70% is a trap where opportunities and life slip away."
+      }
+    }
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_12/base_source.mp4",
+    "crop_filter": "crop=608:1080:700:0,scale=1080:1920",
+    "in_point": 4.00,
+    "out_point": 43.15,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music1_eternity.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.16,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.60
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_fog_walking",
+      "source_file": "calisma/Gun_12/dynamic_brolls/broll_01_fog_walking.mp4",
+      "provider": "pexels",
+      "asset_id": "15019286",
+      "in_point": 1.0,
+      "start_t": 4.50,
+      "end_t": 11.50,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_writing_strategy",
+      "source_file": "calisma/Gun_12/dynamic_brolls/broll_02_writing_strategy.mp4",
+      "provider": "pexels",
+      "asset_id": "7252715",
+      "in_point": 1.0,
+      "start_t": 16.20,
+      "end_t": 22.20,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_clock_timelapse",
+      "source_file": "calisma/Gun_12/dynamic_brolls/broll_03_clock_timelapse.mp4",
+      "provider": "pexels",
+      "asset_id": "13566476",
+      "in_point": 1.0,
+      "start_t": 28.20,
+      "end_t": 34.40,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.00,
+      "end": 2.20,
+      "text": "İşte Colin Powell\nburada şey diyor:",
+      "highlight": "şey diyor"
+    },
+    {
+      "id": "sub_02",
+      "start": 2.20,
+      "end": 4.50,
+      "text": "Onun kuralı aslında\n40'a 70 kuralı gibi.",
+      "highlight": "40'a 70 kuralı"
+    },
+    {
+      "id": "sub_03",
+      "start": 4.50,
+      "end": 7.20,
+      "text": "İddiası şu, diyor ki:\n%40'ın altında bir...",
+      "highlight": "%40'ın altında"
+    },
+    {
+      "id": "sub_04",
+      "start": 7.20,
+      "end": 10.30,
+      "text": "...veriye sahipsen,\no karar vermek istediğin konuda,",
+      "highlight": "veriye sahipsen"
+    },
+    {
+      "id": "sub_05",
+      "start": 10.30,
+      "end": 13.00,
+      "text": "o konuda eğer karar verirsen,\naz veriyle...",
+      "highlight": "eğer karar verirsen"
+    },
+    {
+      "id": "sub_06",
+      "start": 13.00,
+      "end": 16.20,
+      "text": "...körlemesine bir atış\nyapmış olabilirsin.",
+      "highlight": "körlemesine bir atış"
+    },
+    {
+      "id": "sub_07",
+      "start": 16.20,
+      "end": 19.40,
+      "text": "Ve kötü bir karar alma\nihtimalin yüksek olacaktır.",
+      "highlight": "kötü bir karar"
+    },
+    {
+      "id": "sub_08",
+      "start": 19.40,
+      "end": 22.20,
+      "text": "Ama %70'e gelene kadar\no kararı verirsen,",
+      "highlight": "%70'e gelene kadar"
+    },
+    {
+      "id": "sub_09",
+      "start": 22.20,
+      "end": 24.80,
+      "text": "%40'ı geçtikten sonra...",
+      "highlight": "%40'ı geçtikten sonra"
+    },
+    {
+      "id": "sub_10",
+      "start": 24.80,
+      "end": 28.20,
+      "text": "...çok büyük ihtimalle\ndoğru bir karar vermiş olursun!",
+      "highlight": "doğru bir karar"
+    },
+    {
+      "id": "sub_11",
+      "start": 28.20,
+      "end": 31.40,
+      "text": "Ama %70'i geçersen,\n%80'leri, 90'ları beklersen;",
+      "highlight": "%70'i geçersen"
+    },
+    {
+      "id": "sub_12",
+      "start": 31.40,
+      "end": 34.40,
+      "text": "biraz önce söylediğim\ntuzağa düşüyorsun:",
+      "highlight": "tuzağa düşüyorsun"
+    },
+    {
+      "id": "sub_13",
+      "start": 34.40,
+      "end": 36.60,
+      "text": "Fırsat kaçıyor,\nhayat kaçıyor!",
+      "highlight": "hayat kaçıyor"
+    },
+    {
+      "id": "sub_14",
+      "start": 36.60,
+      "end": 39.15,
+      "text": "Ve sen o kararın üzerindeki\nkontrolü kaybetmiş oluyorsun!",
+      "highlight": "kontrolü kaybetmiş"
+    }
+  ],
+  "cover": {
+    "image_path": "calisma/Gun_12/Gun_12_Shorts_Kapak.jpg",
+    "badge": "KARAR VERME KURALI",
+    "title_line1": "AŞIRI DÜŞÜNMEYİ BİTİREN",
+    "title_line2": "\"%40 - %70 KURALI!\""
+  },
+  "publish": {
+    "youtube": {
+      "title_1": "Aşırı Düşünmeyi ve Kararsızlığı Bitiren Yöntem: %40 - %70 Kuralı | Beyhan Budak",
+      "title_2": "Karar Veremiyor musun? Colin Powell'ın 40/70 Kuralını Uygula! (Psikolojik Çözüm)",
+      "title_3": "Sürekli Erteleyen ve Fazla Düşünenlerin Kurtarıcı Formülü | Beyhan Budak",
+      "description": "Uzman Klinik Psikolog Beyhan Budak, aşırı düşünme (overthinking) ve karar verememe krizine karşı Colin Powell'ın meşhur 40/70 kuralını anlatıyor:\n\nBir konuda karar verirken elinizdeki bilgi %40'ın altındaysa körlemesine hareket edersiniz. Ancak %70'i aşana kadar beklemek en büyük tuzaktır; fırsatlar ve hayat kaçar! En doğru kararlar %40 ile %70 bilgi aralığında cesaretle alınır.\n\n🎙️ Konuşmacı: Uzman Klinik Psikolog Beyhan Budak\n📌 Kaynak: Aşırı Düşünmenin Çözümü, %70 Kuralı\n\n#beyhanbudak #aşırıdüşünmek #overthinking #kararverme #psikoloji #kişiselgelişim #motivasyon #shorts",
+      "tags": [
+        "beyhan budak",
+        "aşırı düşünmek",
+        "overthinking",
+        "karar verme teknikleri",
+        "40 70 kuralı",
+        "colin powell",
+        "psikoloji",
+        "kişisel gelişim",
+        "erteleme",
+        "shorts"
+      ],
+      "pinned_comment": "Bir karar verirken günlerce düşünüp fırsatları kaçırdığınız oldu mu? Yorumlarda buluşalım 👇"
+    },
+    "instagram": {
+      "hook": "Bir kararı %70'ten fazla beklersen hayat kaçar!",
+      "caption": "Uzman Klinik Psikolog Beyhan Budak (@beyhanbudak), aşırı düşünme (overthinking) tuzağına düşenler için Colin Powell'ın 40/70 kuralını açıklıyor:\n\n'Bir karar vermek istediğin konuda eğer elinde %40'ın altında veri varsa, az veriyle körlemesine bir atış yapmış olursun ve hata payın artar.\n\nAma %40'ı geçtikten sonra %70'e kadar o kararı verirsen çok büyük ihtimalle doğru kararı vermiş olursun.\n\nEğer %70'i geçip %80'leri, 90'ları, mükemmel anı beklersen en büyük tuzağa düşersin: Fırsat kaçar, hayat kaçar ve kontrolü kaybedersin!'\n\nMükemmel anı bekleme, %70 ile yola çık.",
+      "hashtags": "#beyhanbudak #aşırıdüşünmek #overthinking #kararverme #psikoloji #kişiselgelişim #motivasyon #zihin #keşfet #reels #shorts #üretkenlik",
+      "cta": "Karar verirken aşırı düşünen ve fırsatları kaçıran bir arkadaşına gönder! 📲"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "campaign_goal": "viral_awareness",
+  "selected_candidate": "cand_13.7_46.8",
+  "candidates": [
+    {
+      "id": "cand_13.7_46.8",
+      "start": 13.68,
+      "end": 46.82,
+      "duration": 33.14,
+      "hook_text": "bir arkadaşınla sohbet ediyorsun gözün onda yeni bir şeyler var mı diye bakıyorsun",
+      "punchline_text": "bu öyle bir hale geliyor ki telefon artık hayatımızın en büyük bağımlılıklarından birisi",
+      "scores": {
+        "hook_power": 10.0,
+        "punchline_power": 8.5,
+        "standalone_context": 5.0,
+        "niche_alignment": 6.6
+      },
+      "composite_score": 8.04,
+      "full_text_sample": "bir arkadaşınla sohbet ediyorsun gözün onda yeni bir şeyler var mı diye bakıyorsun gece hatta tuvalete kalkıyorsun geri döndüğünde yatağa uz...",
+      "status": "ACCEPTED",
+      "rationale": "Top-ranked segment with highest combined hook (10.0/10) and punchline (8.5/10) score from transcript."
+    },
+    {
+      "id": "cand_62.8_94.2",
+      "start": 62.8,
+      "end": 94.18,
+      "duration": 31.38,
+      "hook_text": "bu videoda sana telefon bağımlılığından akıllı telefon bağımlılığından nasıl kurtulabilirsin bunu anlatıcam",
+      "punchline_text": "aslında telefon artık bırakabileceği bir şey olmaktan noktasından çıkmış durumda o olmadığı zaman",
+      "scores": {
+        "hook_power": 10.0,
+        "punchline_power": 6.0,
+        "standalone_context": 5.0,
+        "niche_alignment": 5.8
+      },
+      "composite_score": 7.17,
+      "full_text_sample": "bu videoda sana telefon bağımlılığından akıllı telefon bağımlılığından nasıl kurtulabilirsin bunu anlatıcam bütün bu bağımlılıklarda ana kur...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (7.17 vs 8.04)."
+    },
+    {
+      "id": "cand_200.7_249.5",
+      "start": 200.72,
+      "end": 249.5,
+      "duration": 48.78,
+      "hook_text": "nasıl hissediyorsun telefonu neden özlüyorsun",
+      "punchline_text": "yatağa telefonla mı giriyorsun gece uyurken telefonun yastığının altında mı yastığının kenarında mı ilk iş",
+      "scores": {
+        "hook_power": 9.0,
+        "punchline_power": 5.0,
+        "standalone_context": 5.0,
+        "niche_alignment": 7.4
+      },
+      "composite_score": 6.76,
+      "full_text_sample": "nasıl hissediyorsun telefonu neden özlüyorsun şöyle düşünsene gün içinde toplamda ne kadar vaktini telefonda harcıyorsun ben senin yerinde o...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (6.76 vs 8.04)."
+    },
+    {
+      "id": "cand_114.7_161.1",
+      "start": 114.74,
+      "end": 161.14,
+      "duration": 46.4,
+      "hook_text": "telefon yastığının kenarındaysa gece sen uyurken tuvalete banyoya giderken dahi telefonunu yanına",
+      "punchline_text": "ve bir bağımlılıktan kurtulmanın ilk adımı bağımlı olduğunu kabul etmektir",
+      "scores": {
+        "hook_power": 7.5,
+        "punchline_power": 7.5,
+        "standalone_context": 3.5,
+        "niche_alignment": 7.4
+      },
+      "composite_score": 6.69,
+      "full_text_sample": "telefon yastığının kenarındaysa gece sen uyurken tuvalete banyoya giderken dahi telefonunu yanına alıyor musun takıntılı bir şekilde durmada...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (6.69 vs 8.04)."
+    },
+    {
+      "id": "cand_398.5_443.6",
+      "start": 398.52,
+      "end": 443.58,
+      "duration": 45.06,
+      "hook_text": "psikologlarla yapay zeka algoritmalarıyla",
+      "punchline_text": "telefon kullanmalısın yeter ki bu bağımlılıktan kurtul",
+      "scores": {
+        "hook_power": 6.5,
+        "punchline_power": 8.5,
+        "standalone_context": 5.0,
+        "niche_alignment": 5.8
+      },
+      "composite_score": 6.69,
+      "full_text_sample": "psikologlarla yapay zeka algoritmalarıyla hepsi bir araya geliyor ve tek bir amaç var orda çok daha fazla zaman geçirmen ne oluyor böyle olu...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (6.69 vs 8.04)."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.00,
+    "end": 2.20,
+    "text": "İşte Colin Powell\nburada şey diyor:",
+    "highlight": "şey diyor"
+  },
+  {
+    "id": "sub_02",
+    "start": 2.20,
+    "end": 4.50,
+    "text": "Onun kuralı aslında\n40'a 70 kuralı gibi.",
+    "highlight": "40'a 70 kuralı"
+  },
+  {
+    "id": "sub_03",
+    "start": 4.50,
+    "end": 7.20,
+    "text": "İddiası şu, diyor ki:\n%40'ın altında bir...",
+    "highlight": "%40'ın altında"
+  },
+  {
+    "id": "sub_04",
+    "start": 7.20,
+    "end": 10.30,
+    "text": "...veriye sahipsen,\no karar vermek istediğin konuda,",
+    "highlight": "veriye sahipsen"
+  },
+  {
+    "id": "sub_05",
+    "start": 10.30,
+    "end": 13.00,
+    "text": "o konuda eğer karar verirsen,\naz veriyle...",
+    "highlight": "eğer karar verirsen"
+  },
+  {
+    "id": "sub_06",
+    "start": 13.00,
+    "end": 16.20,
+    "text": "...körlemesine bir atış\nyapmış olabilirsin.",
+    "highlight": "körlemesine bir atış"
+  },
+  {
+    "id": "sub_07",
+    "start": 16.20,
+    "end": 19.40,
+    "text": "Ve kötü bir karar alma\nihtimalin yüksek olacaktır.",
+    "highlight": "kötü bir karar"
+  },
+  {
+    "id": "sub_08",
+    "start": 19.40,
+    "end": 22.20,
+    "text": "Ama %70'e gelene kadar\no kararı verirsen,",
+    "highlight": "%70'e gelene kadar"
+  },
+  {
+    "id": "sub_09",
+    "start": 22.20,
+    "end": 24.80,
+    "text": "%40'ı geçtikten sonra...",
+    "highlight": "%40'ı geçtikten sonra"
+  },
+  {
+    "id": "sub_10",
+    "start": 24.80,
+    "end": 28.20,
+    "text": "...çok büyük ihtimalle\ndoğru bir karar vermiş olursun!",
+    "highlight": "doğru bir karar"
+  },
+  {
+    "id": "sub_11",
+    "start": 28.20,
+    "end": 31.40,
+    "text": "Ama %70'i geçersen,\n%80'leri, 90'ları beklersen;",
+    "highlight": "%70'i geçersen"
+  },
+  {
+    "id": "sub_12",
+    "start": 31.40,
+    "end": 34.40,
+    "text": "biraz önce söylediğim\ntuzağa düşüyorsun:",
+    "highlight": "tuzağa düşüyorsun"
+  },
+  {
+    "id": "sub_13",
+    "start": 34.40,
+    "end": 36.60,
+    "text": "Fırsat kaçıyor,\nhayat kaçıyor!",
+    "highlight": "hayat kaçıyor"
+  },
+  {
+    "id": "sub_14",
+    "start": 36.60,
+    "end": 39.15,
+    "text": "Ve sen o kararın üzerindeki\nkontrolü kaybetmiş oluyorsun!",
+    "highlight": "kontrolü kaybetmiş"
+  }
+]

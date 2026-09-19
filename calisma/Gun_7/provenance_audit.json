@@ -1,0 +1,65 @@
+{
+  "build_id": "Gun_7_20260918_191556_6b99deab",
+  "day": "Gun_7",
+  "source_video": "calisma/Gun_7/clean_raw_sinek.mp4",
+  "in_point": 0.0,
+  "out_point": 44.8,
+  "duration": null,
+  "provenance": {
+    "source_video": {
+      "raw_video_path": "calisma/Gun_7/clean_raw_sinek.mp4",
+      "in_point": 0.0,
+      "out_point": 44.8,
+      "duration": 44.8
+    },
+    "candidate": {
+      "selection_mode": "agent_editorial",
+      "in_point": 0.0,
+      "out_point": 44.8,
+      "duration": 44.8,
+      "rationale": "Simon Sinek demonstrates the psychological signal of having a smartphone visible on the table, ending with the viral punchline that putting it upside down is not more polite."
+    }
+  },
+  "cuts_provenance": [
+    {
+      "id": "c01_talking_holding_phone",
+      "media_type": "video",
+      "start_t": 7.0,
+      "end_t": 11.0,
+      "duration": 4.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_7/dynamic_brolls/c01_talking_holding_phone.mp4",
+      "content_hash": "afea8fae9092a0f0730438375ef71cee003cd10846d1322d001c31eb283c8206"
+    },
+    {
+      "id": "c02_silent_phone_hand",
+      "media_type": "video",
+      "start_t": 11.0,
+      "end_t": 16.5,
+      "duration": 5.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_7/dynamic_brolls/c02_silent_phone_hand.mp4",
+      "content_hash": "252809472dfbfb9f97ad76726706025a6cdddebacfd2a15b7ccbdaa2580db00d"
+    },
+    {
+      "id": "c03_dinner_table_phone",
+      "media_type": "video",
+      "start_t": 27.2,
+      "end_t": 32.4,
+      "duration": 5.2,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_7/dynamic_brolls/c03_dinner_table_phone.mp4",
+      "content_hash": "6e08b2a8ced615a8328a24fb0bef32041cad5893749a22e49905bbf4fb39a2ab"
+    },
+    {
+      "id": "c04_phone_on_table",
+      "media_type": "video",
+      "start_t": 32.4,
+      "end_t": 40.8,
+      "duration": 8.4,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_7/dynamic_brolls/c04_phone_on_table.mp4",
+      "content_hash": "4a0e74a0ca271a74f212edf721c68858ed2a74a23c1bc0e95a47269c252d0950"
+    }
+  ]
+}

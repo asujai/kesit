@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "id": "gun_4_beyhan_budak",
+    "day": "Gun_4",
+    "title": "Ucuz Dopamin Tuzağı: Neden Hiçbir Şey Yapmak İstemiyorsun? | Klinik Psk. Beyhan Budak",
+    "topic": "Ucuz Dopamin, Ekran Bağımlılığı ve Zihinsel Tükenmişlik",
+    "speaker": "Klinik Psk. Beyhan Budak",
+    "transcript_path": "calisma/Gun_4/sub_beyhan.tr.vtt"
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_4/clean_raw_beyhan.mp4",
+    "in_point": 0.0,
+    "out_point": 51.4,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music2_ambient.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.14,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.73
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_fast_scroll",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c01_fast_scroll.mp4",
+      "provider": "pexels",
+      "asset_id": "7310864",
+      "in_point": 1.0,
+      "start_t": 2.1,
+      "end_t": 6.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_notification_tap",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c02_notification_tap.mp4",
+      "provider": "pexels",
+      "asset_id": "17808481",
+      "in_point": 0.5,
+      "start_t": 6.5,
+      "end_t": 10.7,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_screen_excitement",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c03_screen_excitement.mp4",
+      "provider": "pexels",
+      "asset_id": "3625771",
+      "in_point": 1.0,
+      "start_t": 17.0,
+      "end_t": 23.1,
+      "speed": 1.0
+    },
+    {
+      "id": "c04_burnout_crash",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c04_burnout_crash.mp4",
+      "provider": "pexels",
+      "asset_id": "6388409",
+      "in_point": 2.0,
+      "start_t": 29.8,
+      "end_t": 34.6,
+      "speed": 1.0
+    },
+    {
+      "id": "c05_night_bed_phone",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c05_night_bed_phone.mp4",
+      "provider": "pexels",
+      "asset_id": "28048582",
+      "in_point": 2.0,
+      "start_t": 39.3,
+      "end_t": 44.1,
+      "speed": 1.0
+    },
+    {
+      "id": "c06_clock_timelapse",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c06_clock_timelapse.mp4",
+      "provider": "pexels",
+      "asset_id": "11267667",
+      "in_point": 0.0,
+      "start_t": 44.1,
+      "end_t": 48.4,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.1,
+      "end": 2.05,
+      "text": "Nedir bu ucuz dopamin?",
+      "highlight": "ucuz dopamin"
+    },
+    {
+      "id": "sub_02",
+      "start": 2.25,
+      "end": 4.45,
+      "text": "Ucuz dopamin aslında",
+      "highlight": "ucuz dopamin"
+    },
+    {
+      "id": "sub_03",
+      "start": 4.45,
+      "end": 6.45,
+      "text": "çok az çaba gerektiren",
+      "highlight": "çok"
+    },
+    {
+      "id": "sub_04",
+      "start": 6.65,
+      "end": 8.85,
+      "text": "ve anında sana böyle tatmin veren,",
+      "highlight": "tatmin"
+    },
+    {
+      "id": "sub_05",
+      "start": 8.85,
+      "end": 10.75,
+      "text": "keyif veren eylemler bütünü.",
+      "highlight": "keyif"
+    },
+    {
+      "id": "sub_06",
+      "start": 10.85,
+      "end": 12.85,
+      "text": "Ucuz dopamin eylemleri.",
+      "highlight": "ucuz dopamin"
+    },
+    {
+      "id": "sub_07",
+      "start": 13.05,
+      "end": 15.15,
+      "text": "Yani birazdan örneklerini de vereceğim",
+      "highlight": "Yani"
+    },
+    {
+      "id": "sub_08",
+      "start": 15.15,
+      "end": 17.05,
+      "text": "ama öyle oluyor.",
+      "highlight": "ama"
+    },
+    {
+      "id": "sub_09",
+      "start": 17.15,
+      "end": 19.25,
+      "text": "Sen ucuz dopamin kaynağına",
+      "highlight": "ucuz dopamin"
+    },
+    {
+      "id": "sub_10",
+      "start": 19.25,
+      "end": 21.05,
+      "text": "maruz kaldığın zaman",
+      "highlight": "maruz"
+    },
+    {
+      "id": "sub_11",
+      "start": 21.15,
+      "end": 23.15,
+      "text": "birden aşırı haz yaşıyorsun.",
+      "highlight": "aşırı haz"
+    },
+    {
+      "id": "sub_12",
+      "start": 23.25,
+      "end": 25.15,
+      "text": "Böyle zirveye çıkıyorsun ama",
+      "highlight": "zirveye"
+    },
+    {
+      "id": "sub_13",
+      "start": 25.25,
+      "end": 27.45,
+      "text": "sonrasında o gerçek bir karşılığı olmadığı için,",
+      "highlight": "sonrasında"
+    },
+    {
+      "id": "sub_14",
+      "start": 27.65,
+      "end": 29.85,
+      "text": "sürdürülebilir bir şey olmadığı için",
+      "highlight": "sürdürülebilir"
+    },
+    {
+      "id": "sub_15",
+      "start": 29.95,
+      "end": 32.25,
+      "text": "birden dibe çökmeye başlıyor.",
+      "highlight": "dibe çökmeye"
+    },
+    {
+      "id": "sub_16",
+      "start": 32.45,
+      "end": 34.65,
+      "text": "Ve sen biraz önceki hazzı yaşamış",
+      "highlight": "Ve"
+    },
+    {
+      "id": "sub_17",
+      "start": 34.65,
+      "end": 36.85,
+      "text": "insan olarak diyorsun ki: bu çok keyifliydi.",
+      "highlight": "çok keyifliydi"
+    },
+    {
+      "id": "sub_18",
+      "start": 37.05,
+      "end": 39.25,
+      "text": "Belki bunu bilinçli olarak düşünmüyorsun.",
+      "highlight": "Belki"
+    },
+    {
+      "id": "sub_19",
+      "start": 39.45,
+      "end": 41.85,
+      "text": "Sonrasında aynı hazzı tekrar elde etmek için",
+      "highlight": "Sonrasında"
+    },
+    {
+      "id": "sub_20",
+      "start": 41.95,
+      "end": 44.15,
+      "text": "ucuz dopamin kaynaklarına",
+      "highlight": "ucuz dopamin"
+    },
+    {
+      "id": "sub_21",
+      "start": 44.25,
+      "end": 46.45,
+      "text": "eskiden 1 saat ayırırken",
+      "highlight": "3 saat"
+    },
+    {
+      "id": "sub_22",
+      "start": 46.55,
+      "end": 48.45,
+      "text": "2 saat, 3 saat ayırıyorsun...",
+      "highlight": "3 saat"
+    },
+    {
+      "id": "sub_23",
+      "start": 48.55,
+      "end": 49.95,
+      "text": "Gitgide artmaya başlıyor",
+      "highlight": "Gitgide"
+    },
+    {
+      "id": "sub_24",
+      "start": 49.95,
+      "end": 51.3,
+      "text": "ve hayatını ele geçiren bir noktaya geliyor.",
+      "highlight": "hayatını ele geçiren"
+    }
+  ],
+  "publish": {
+    "youtube": {
+      "title": "Ucuz Dopamin Tuzağı: Neden Hiçbir Şey Yapmak İstemiyorsun? | Klinik Psk. Beyhan Budak",
+      "title_1": "Ucuz Dopamin Tuzağı: Neden Hiçbir Şey Yapmak İstemiyorsun? | Klinik Psk. Beyhan Budak",
+      "title_2": "1 Saat Diye Başlayıp 3 Saat Ekrana Kilitlenmenin Beyindeki Sebebi!",
+      "title_3": "Beynini Körelten Ucuz Dopamin Kapanı: Nasıl Kurtulursun?",
+      "description": "Klinik Psikolog Beyhan Budak açıklıyor: Beynimiz neden zor ama faydalı işlerden kaçıp anında haz veren ekranlara koşuyor? Çok az çaba gerektiren ve anında tatmin veren ucuz dopamin eylemleri bizi önce zirveye çıkarıyor, ardından derin bir dibe çöküş yaşatıyor. Eskiden 1 saat ayırdığın o alışkanlık, gitgide artarak tüm hayatını ele geçiren bir noktaya geliyor. Dijital farkındalık ve zihinsel odaklanmayı geri kazanmak için videomuzu beğenmeyi ve kanalımıza abone olmayı unutmayın!",
+      "tags": [
+        "beyhan budak",
+        "ucuz dopamin",
+        "dopamin detoksu",
+        "odaklanma",
+        "dijital denge",
+        "psikoloji",
+        "ekran bağımlılığı",
+        "kişisel gelişim",
+        "shorts"
+      ],
+      "pinned_comment": "Günde kaç saatini telefondaki ucuz dopamin kaynaklarına (Shorts, Reels, TikTok) harcıyorsun? Yorumlarda yüzleşelim 👇"
+    },
+    "youtube_en": {
+      "title_1": "The Cheap Dopamine Trap: Why You Can't Get Things Done",
+      "title_2": "How Cheap Dopamine Silently Destroys Your Motivation",
+      "title_3": "Why 5 Minutes of Scrolling Turns Into 3 Hours (Dopamine Crash)",
+      "description": "Clinical psychologist Beyhan Budak reveals how 'cheap dopamine'—instant gratification activities with zero effort—hijacks your brain's reward system, causing sudden crashes and endless procrastination.\n\n#procrastination #dopamine #psychology #shorts #mentalhealth",
+      "tags": [
+        "cheap dopamine",
+        "procrastination",
+        "motivation",
+        "dopamine detox",
+        "psychology",
+        "focus",
+        "screen time",
+        "shorts"
+      ],
+      "pinned_comment": "How many hours do you lose to cheap dopamine every day? Be honest in the comments 👇"
+    },
+    "instagram": {
+      "hook": "Klinik Psikolog Beyhan Budak Açıklıyor: Ucuz dopamin hayatını nasıl sessizce ele geçiriyor? 📱🧠⬇️",
+      "caption": "Telefona 'sadece 5 dakika bakacağım' diye başlayıp 2 saat sonra aynı ekrana boş gözlerle baktığın oldu mu?\\n\\nKlinik Psikolog Beyhan Budak anlatıyor: Ucuz dopamin; çok az çaba gerektiren ve anında sahte bir tatmin veren eylemler bütünüdür. Bir anda aşırı haz yaşayıp zirveye çıkıyorsun ama sürdürülebilir bir karşılığı olmadığı için birden dibe çökmeye başlıyor.\\n\\nVe o hazzı tekrar yaşamak için eskiden 1 saat ayırırken 2 saat, 3 saat ayırıyorsun... Ve bir bakmışsın hayatını ele geçirmiş!\\n\\nBu döngüyü kırmak için önce farkına var!",
+      "hashtags": "#beyhanbudak #dopamindetox #ucuzdopamin #psikoloji #odaklanma #dijitaldetoks #üretkenlik #farkındalık #zihingücü #motivasyon #başarı #alışkanlık #kişiselgelişim #shorts #reels #viralreels #dijitaldenge",
+      "cta": "Bu gerçeği fark etmesini istediğin bir arkadaşına gönder ve kaydet!"
+    }
+  }
+}

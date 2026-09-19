@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "id": "gun_3_sinan_canan",
+    "day": "Gun_3",
+    "title": "Tek Bir Tıklamayla Yaşamak Beynimizi Nasıl Köreltiyor? | Prof. Dr. Sinan Canan",
+    "topic": "Dijital Hareketsizlik, Ekran Bağımlılığı ve Evrimsel Çelişki",
+    "speaker": "Prof. Dr. Sinan Canan",
+    "transcript_path": "calisma/Gun_3/sub_sinan.tr.vtt"
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_3/clean_raw_sinan.mp4",
+    "in_point": 0.0,
+    "out_point": 39.75,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music2_ambient.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.14,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.73
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_couch",
+      "source_file": "calisma/Gun_3/dynamic_brolls/c01_couch_6570510.mp4",
+      "provider": "pexels",
+      "asset_id": "6570510",
+      "in_point": 1.0,
+      "start_t": 5.0,
+      "end_t": 11.2,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_tap",
+      "source_file": "calisma/Gun_3/dynamic_brolls/c02_tap_6962433.mp4",
+      "provider": "pexels",
+      "asset_id": "6962433",
+      "in_point": 1.0,
+      "start_t": 11.2,
+      "end_t": 16.0,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_phone_glow",
+      "source_file": "calisma/Gun_3/dynamic_brolls/c03_phone_glow_7821861.mp4",
+      "provider": "pexels",
+      "asset_id": "7821861",
+      "in_point": 0.5,
+      "start_t": 19.8,
+      "end_t": 25.0,
+      "speed": 1.0
+    },
+    {
+      "id": "c04_hiking",
+      "source_file": "calisma/Gun_3/dynamic_brolls/c04_hiking_35768976.mp4",
+      "provider": "pexels",
+      "asset_id": "35768976",
+      "in_point": 2.0,
+      "start_t": 25.0,
+      "end_t": 31.0,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.15,
+      "end": 2.2,
+      "text": "Hareketli bir hayatı",
+      "highlight": "Hareketli"
+    },
+    {
+      "id": "sub_02",
+      "start": 2.2,
+      "end": 4.4,
+      "text": "çok engelleyen yeni rutinlerimiz var.",
+      "highlight": "yeni rutinlerimiz"
+    },
+    {
+      "id": "sub_03",
+      "start": 4.4,
+      "end": 6.2,
+      "text": "Her şeyi oturarak,",
+      "highlight": "oturarak"
+    },
+    {
+      "id": "sub_04",
+      "start": 6.2,
+      "end": 8.4,
+      "text": "her şeyi ekranlara böyle",
+      "highlight": "ekranlara"
+    },
+    {
+      "id": "sub_05",
+      "start": 8.4,
+      "end": 11.2,
+      "text": "parmağımızla basarak yapabiliyoruz ya...",
+      "highlight": "parmağımızla basarak"
+    },
+    {
+      "id": "sub_06",
+      "start": 11.2,
+      "end": 13.1,
+      "text": "Her şeyin en hareketsiz",
+      "highlight": "en hareketsiz"
+    },
+    {
+      "id": "sub_07",
+      "start": 13.1,
+      "end": 15.6,
+      "text": "tüketilebilir biçimi artık daha makbul!",
+      "highlight": "daha makbul!"
+    },
+    {
+      "id": "sub_08",
+      "start": 15.6,
+      "end": 17.5,
+      "text": "'Ya sen bir parmakla,",
+      "highlight": "bir parmakla"
+    },
+    {
+      "id": "sub_09",
+      "start": 17.5,
+      "end": 19.8,
+      "text": "bir tıklamayla neler yapacaksın' diyor;",
+      "highlight": "neler yapacaksın"
+    },
+    {
+      "id": "sub_10",
+      "start": 19.8,
+      "end": 21.6,
+      "text": "ama bizim gerçekten",
+      "highlight": "gerçekten"
+    },
+    {
+      "id": "sub_11",
+      "start": 21.6,
+      "end": 24.3,
+      "text": "bir tıklamayla çalışacak sistemimiz yok!",
+      "highlight": "sistemimiz yok!"
+    },
+    {
+      "id": "sub_12",
+      "start": 24.3,
+      "end": 26.5,
+      "text": "Biz bir lokma ekmek için",
+      "highlight": "lokma ekmek"
+    },
+    {
+      "id": "sub_13",
+      "start": 26.5,
+      "end": 28.7,
+      "text": "bile atalarımız kilometrelerce yol",
+      "highlight": "kilometrelerce yol"
+    },
+    {
+      "id": "sub_14",
+      "start": 28.7,
+      "end": 31.0,
+      "text": "gitmek zorunda kalmışlar bir kere.",
+      "highlight": "zorunda kalmışlar"
+    },
+    {
+      "id": "sub_15",
+      "start": 31.0,
+      "end": 33.4,
+      "text": "Bedenen zaten harekete ihtiyacımız olduğu",
+      "highlight": "harekete ihtiyacımız"
+    },
+    {
+      "id": "sub_16",
+      "start": 33.4,
+      "end": 35.1,
+      "text": "artık izahtan vareste;",
+      "highlight": "izahtan vareste"
+    },
+    {
+      "id": "sub_17",
+      "start": 35.1,
+      "end": 36.3,
+      "text": "açıklamaya gerek yok.",
+      "highlight": "açıklamaya gerek yok"
+    },
+    {
+      "id": "sub_18",
+      "start": 36.3,
+      "end": 37.3,
+      "text": "Peki ya zihnimiz?",
+      "highlight": "zihnimiz?"
+    },
+    {
+      "id": "sub_19",
+      "start": 37.3,
+      "end": 38.3,
+      "text": "Ya duygularımız?",
+      "highlight": "duygularımız?"
+    },
+    {
+      "id": "sub_20",
+      "start": 38.3,
+      "end": 39.4,
+      "text": "Ya anlam dünyamız?",
+      "highlight": "anlam dünyamız?"
+    }
+  ],
+  "publish": {
+    "youtube": {
+      "title": "Tek Bir Tıklamayla Yaşamak Beynimizi Nasıl Köreltiyor? | Sinan Canan",
+      "title_1": "Tek Bir Tıklamayla Yaşamak Beynimizi Nasıl Köreltiyor? | Sinan Canan",
+      "title_2": "Bir Parmakla Her Şey Halloluyor mu? İşte Beynimizin Çıkmazı!",
+      "title_3": "Atalarımız Kilometrelerce Yürüdü, Biz Parmağımızı Kaydırıyoruz!",
+      "description": "Prof. Dr. Sinan Canan uyarıyor: İnsanoğlu tek bir tıklamayla veya parmak hareketiyle yaşayacak bir biyolojiye sahip değil! Atalarımız bir lokma ekmek için belki onlarca kilometre yol yürürken, bugün her şeyi ekranlara basarak tüketiyoruz. Bedenen harekete ihtiyacımız olduğu ortada; peki ya zihnimiz? Ya duygularımız? Dijital dengenin ve zihinsel uyanışın önemini keşfedin.",
+      "tags": [
+        "sinan canan",
+        "dijital detoks",
+        "ekran bağımlılığı",
+        "zihinsel odaklanma",
+        "nörobiyoloji",
+        "açık beyin",
+        "kişisel gelişim",
+        "shorts"
+      ],
+      "pinned_comment": "Günde ortalama kaç adım atıyorsun ve kaç saat ekran başındasın? Yorumlarda dürüstçe yüzleşelim ⬇️"
+    },
+    "youtube_en": {
+      "title_1": "Why Living with 'One Click' is Ruining Your Brain | Neuroscientist",
+      "title_2": "Human Biology Was Never Built for Screens (The 1-Click Trap)",
+      "title_3": "Our Ancestors Walked Miles—We Just Tap Screens! | Sinan Canan",
+      "description": "Neuroscientist Prof. Dr. Sinan Canan explains why modern sedentary screen habits directly contradict millions of years of human brain evolution. We are biologically wired to move, struggle, and explore—not to consume life with a single click.\n\n#neuroscience #evolution #dopamine #shorts #mentalhealth #focus",
+      "tags": [
+        "neuroscience",
+        "evolution",
+        "sedentary lifestyle",
+        "sinan canan",
+        "screen time",
+        "brain health",
+        "motivation",
+        "shorts"
+      ],
+      "pinned_comment": "How many steps do you take a day vs how many hours on your screen? Let's be honest in the comments 👇"
+    },
+    "instagram": {
+      "hook": "Prof. Dr. Sinan Canan Açıklıyor: Tek bir parmakla yaşamak beynimizi nasıl köreltiyor? 📱⬇️",
+      "caption": "Prof. Dr. Sinan Canan çok çarpıcı bir evrimsel gerçeğe dikkat çekiyor: İnsan sistemi tek bir tıkla, oturduğu yerden tüm hayatı tüketmek üzere tasarlanmadı.\n\nAtalarımız tek bir lokma ekmek bulabilmek için onlarca kilometre yürümek zorundaydı. Biz ise her şeyi oturarak, parmağımızla ekrana basarak tüketiyoruz.\n\nBedenen harekete ihtiyacımız olduğu zaten açık; peki ya zihnimiz? Ya duygularımız? Ya anlam dünyamız?\n\nEkranın ardındaki tembelliğe teslim olma, zihnini harekete geçir!",
+      "hashtags": "#sinancanan #dijitaldetoks #zihinselodaklanma #nörobiyoloji #dijitaldenge #psikoloji #farkındalık #ekranbağımlılığı #sağlıklıyaşam #kişiselgelişim #motivasyon #dopamindetox #mindfulness #reels #viralreels #zihin #beyin",
+      "cta": "Bu farkındalığı bir dostuna hatırlatmak için kaydet ve paylaş!"
+    }
+  }
+}

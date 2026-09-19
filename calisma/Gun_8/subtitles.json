@@ -1,0 +1,100 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.2,
+    "end": 3.8,
+    "text": "21. yüzyılın rekabetçi ekonomisinde,",
+    "highlight": "rekabetçi ekonomisinde"
+  },
+  {
+    "id": "sub_02",
+    "start": 4.0,
+    "end": 6.5,
+    "text": "piyasanın değer verdiği şey:",
+    "highlight": "değer verdiği şey"
+  },
+  {
+    "id": "sub_03",
+    "start": 6.6,
+    "end": 10.8,
+    "text": "nadir ve değerli şeyler üretme becerisidir.",
+    "highlight": "nadir ve değerli"
+  },
+  {
+    "id": "sub_04",
+    "start": 11.5,
+    "end": 15.2,
+    "text": "Nadir ve değerli bir şey üretirseniz, piyasa sizi ödüllendirir.",
+    "highlight": "piyasa sizi ödüllendirir"
+  },
+  {
+    "id": "sub_05",
+    "start": 15.5,
+    "end": 18.2,
+    "text": "Piyasanın asla umursamadığı şey ise,",
+    "highlight": "asla umursamadığı"
+  },
+  {
+    "id": "sub_06",
+    "start": 18.3,
+    "end": 22.8,
+    "text": "kolayca kopyalanan ve değersiz aktivitelerdir.",
+    "highlight": "kolayca kopyalanan"
+  },
+  {
+    "id": "sub_07",
+    "start": 23.0,
+    "end": 26.5,
+    "text": "Sosyal medya kullanımı tam olarak budur:",
+    "highlight": "Sosyal medya kullanımı"
+  },
+  {
+    "id": "sub_08",
+    "start": 26.6,
+    "end": 29.5,
+    "text": "Taklidi çocuk oyuncağı olan ve neredeyse sıfır değer üreten bir eylem.",
+    "highlight": "sıfır değer üreten"
+  },
+  {
+    "id": "sub_09",
+    "start": 29.6,
+    "end": 32.8,
+    "text": "Akıllı telefonu olan 6 yaşındaki bir çocuğun bile yapabileceği bir şey!",
+    "highlight": "6 yaşındaki bir çocuğun"
+  },
+  {
+    "id": "sub_10",
+    "start": 33.0,
+    "end": 36.8,
+    "text": "Tanım gereği piyasa, bu davranışlara asla değer vermez.",
+    "highlight": "asla değer vermez"
+  },
+  {
+    "id": "sub_11",
+    "start": 37.0,
+    "end": 40.8,
+    "text": "Piyasa bunun yerine, gerçek beceriler geliştirmeyi gerektiren,",
+    "highlight": "gerçek beceriler"
+  },
+  {
+    "id": "sub_12",
+    "start": 41.0,
+    "end": 44.2,
+    "text": "derin ve yoğun odaklanmış çalışmayı ödüllendirir.",
+    "highlight": "yoğun odaklanmış çalışmayı"
+  },
+  {
+    "id": "sub_13",
+    "start": 44.4,
+    "end": 46.0,
+    "text": "Tıpkı bir zanaatkâr gibi...",
+    "highlight": "bir zanaatkâr gibi"
+  },
+  {
+    "id": "sub_14",
+    "start": 46.1,
+    "end": 47.8,
+    "text": "Nadir olanı ve gerçekten değerli olanı!",
+    "highlight": "Nadir ve gerçekten değerli"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.1,
+    "end": 1.85,
+    "text": "When you wake up in the morning,",
+    "highlight": "in the morning"
+  },
+  {
+    "id": "sub_02",
+    "start": 1.85,
+    "end": 3.7,
+    "text": "your hand reaches for it first.",
+    "highlight": "reaches for it"
+  },
+  {
+    "id": "sub_03",
+    "start": 3.7,
+    "end": 5.75,
+    "text": "Always right by your pillow.",
+    "highlight": "by your pillow"
+  },
+  {
+    "id": "sub_04",
+    "start": 5.75,
+    "end": 8.2,
+    "text": "On the bus, while driving...",
+    "highlight": "while driving"
+  },
+  {
+    "id": "sub_05",
+    "start": 8.2,
+    "end": 10.7,
+    "text": "Even stopping at red lights,",
+    "highlight": "red lights"
+  },
+  {
+    "id": "sub_06",
+    "start": 10.7,
+    "end": 13.55,
+    "text": "your hand reaches for it first.",
+    "highlight": "reaches for it"
+  },
+  {
+    "id": "sub_07",
+    "start": 13.55,
+    "end": 16.5,
+    "text": "Chatting with a close friend,",
+    "highlight": "close friend"
+  },
+  {
+    "id": "sub_08",
+    "start": 16.5,
+    "end": 19.55,
+    "text": "eyes glancing for new alerts.",
+    "highlight": "new alerts"
+  },
+  {
+    "id": "sub_09",
+    "start": 19.55,
+    "end": 22.3,
+    "text": "Waking up late at night...",
+    "highlight": "late at night"
+  },
+  {
+    "id": "sub_10",
+    "start": 22.3,
+    "end": 25.45,
+    "text": "The moment your head hits the pillow,",
+    "highlight": "head hits the pillow"
+  },
+  {
+    "id": "sub_11",
+    "start": 25.45,
+    "end": 28.5,
+    "text": "you're staring at it again!",
+    "highlight": "staring at it!"
+  },
+  {
+    "id": "sub_12",
+    "start": 28.5,
+    "end": 30.85,
+    "text": "What am I talking about?",
+    "highlight": "talking about?"
+  },
+  {
+    "id": "sub_13",
+    "start": 30.85,
+    "end": 33.3,
+    "text": "Smartphones, of course!",
+    "highlight": "Smartphones"
+  },
+  {
+    "id": "sub_14",
+    "start": 33.3,
+    "end": 36.8,
+    "text": "An average daily phone user,",
+    "highlight": "daily phone user"
+  },
+  {
+    "id": "sub_15",
+    "start": 36.8,
+    "end": 40.4,
+    "text": "touches their screen over 5,000 times!",
+    "highlight": "over 5,000 times!"
+  },
+  {
+    "id": "sub_16",
+    "start": 40.4,
+    "end": 43.5,
+    "text": "It sneaks up until it becomes",
+    "highlight": "sneaks up"
+  },
+  {
+    "id": "sub_17",
+    "start": 43.5,
+    "end": 46.8,
+    "text": "the greatest addiction of our lives!",
+    "highlight": "greatest addiction!"
+  }
+]

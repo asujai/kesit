@@ -1,0 +1,44 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.000s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 4 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_7\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.1 LUFS, True Peak: -1.4 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_7_20260918_191447_6f9bd411",
+  "sha256": "6f9bd41178f940b4fb7be44225990ca9064d79f397d046d14dcd69f7b4e6049d",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_talking_holding_phone",
+      "interval": "7.00s - 11.00s",
+      "media_type": "video",
+      "pixel_diff": 11.7466
+    },
+    {
+      "cut_id": "c02_silent_phone_hand",
+      "interval": "11.00s - 16.50s",
+      "media_type": "video",
+      "pixel_diff": 8.329
+    },
+    {
+      "cut_id": "c03_dinner_table_phone",
+      "interval": "27.20s - 32.40s",
+      "media_type": "video",
+      "pixel_diff": 29.3382
+    },
+    {
+      "cut_id": "c04_phone_on_table",
+      "interval": "32.40s - 40.80s",
+      "media_type": "video",
+      "pixel_diff": 51.0271
+    }
+  ],
+  "timestamp": "2026-09-18T19:14:50.242146",
+  "language": "tr",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

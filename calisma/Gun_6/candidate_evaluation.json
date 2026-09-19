@@ -1,0 +1,24 @@
+{
+  "campaign_goal": "viral_awareness",
+  "selected_candidate": "cand_0.2_31.5",
+  "candidates": [
+    {
+      "id": "cand_0.2_31.5",
+      "start": 0.2,
+      "end": 31.5,
+      "duration": 31.3,
+      "hook_text": "Genelde bağımlılığı bu işaretlerle tanımlarız. Sayın bakalım sizde kaç tanesi var: Typically, we define addiction by these signs. Play along and see how many you have:",
+      "punchline_text": "ve telefon için hobilerinizden vazgeçmek. and giving up your hobbies and interests to use.",
+      "scores": {
+        "hook_power": 6.5,
+        "punchline_power": 6.5,
+        "standalone_context": 7.5,
+        "niche_alignment": 7.4
+      },
+      "composite_score": 6.83,
+      "full_text_sample": "Genelde bağımlılığı bu işaretlerle tanımlarız. Sayın bakalım sizde kaç tanesi var: Typically, we define addiction by these signs. Play along...",
+      "status": "ACCEPTED",
+      "rationale": "Top-ranked segment with highest combined hook (6.5/10) and punchline (6.5/10) score from transcript."
+    }
+  ]
+}

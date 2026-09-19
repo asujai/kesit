@@ -1,0 +1,85 @@
+{
+  "build_id": "Gun_4_20260918_162553_f160700f",
+  "day": "Gun_4",
+  "source_video": "calisma/Gun_4/clean_raw_beyhan.mp4",
+  "in_point": 0.0,
+  "out_point": 51.4,
+  "duration": null,
+  "provenance": {
+    "source_video": {
+      "raw_video_path": "calisma/Gun_4/clean_raw_beyhan.mp4",
+      "in_point": 0.0,
+      "out_point": 51.4,
+      "duration": 51.4
+    },
+    "candidate": {
+      "selection_mode": "agent_editorial",
+      "in_point": 0.0,
+      "out_point": 51.4,
+      "duration": 51.4,
+      "rationale": "Direct editorial selection by agent/user"
+    }
+  },
+  "cuts_provenance": [
+    {
+      "id": "c01_fast_scroll",
+      "media_type": "video",
+      "start_t": 2.1,
+      "end_t": 6.5,
+      "duration": 4.4,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c01_fast_scroll.mp4",
+      "content_hash": "ddf000e5780b4e95fa8e9d1859a57378c1e6b7ad9fa34e4113e0c9530c2a3f34"
+    },
+    {
+      "id": "c02_notification_tap",
+      "media_type": "video",
+      "start_t": 6.5,
+      "end_t": 10.7,
+      "duration": 4.2,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c02_notification_tap.mp4",
+      "content_hash": "c1e31145e2e7ac9ef800863575fd65bccca1b5cb10e5cf2672269501e4d1c649"
+    },
+    {
+      "id": "c03_screen_excitement",
+      "media_type": "video",
+      "start_t": 17.0,
+      "end_t": 23.1,
+      "duration": 6.1,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c03_screen_excitement.mp4",
+      "content_hash": "b75b762b1d3432e59d2481a1d86ec8c112af2a106e626ba39c9c4082ed63a615"
+    },
+    {
+      "id": "c04_burnout_crash",
+      "media_type": "video",
+      "start_t": 29.8,
+      "end_t": 34.6,
+      "duration": 4.8,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c04_burnout_crash.mp4",
+      "content_hash": "00f3f51dae4ec1b02257ca5041a835633a2e6f7d26ceaed752882323af32146e"
+    },
+    {
+      "id": "c05_night_bed_phone",
+      "media_type": "video",
+      "start_t": 39.3,
+      "end_t": 44.1,
+      "duration": 4.8,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c05_night_bed_phone.mp4",
+      "content_hash": "20c98b919c7f3314a2e0c171d0650ca915542159733309f80f08146fa0d7b00d"
+    },
+    {
+      "id": "c06_clock_timelapse",
+      "media_type": "video",
+      "start_t": 44.1,
+      "end_t": 48.4,
+      "duration": 4.3,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_4/dynamic_brolls/c06_clock_timelapse.mp4",
+      "content_hash": "879d362cd5690654440c2eaaa7cba2ceee36d604cbe147f4fd647c214df1411a"
+    }
+  ]
+}

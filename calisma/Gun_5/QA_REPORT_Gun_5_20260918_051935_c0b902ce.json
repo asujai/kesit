@@ -1,0 +1,49 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.000s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 5 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_5\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.0 LUFS, True Peak: -1.4 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_5_20260918_051935_c0b902ce",
+  "sha256": "c0b902ce072472d3dd8773af86522702d741c548016fda8448a4c5a5f7dc5a20",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_texting_scrolling",
+      "interval": "6.20s - 10.80s",
+      "media_type": "video",
+      "pixel_diff": 39.5931
+    },
+    {
+      "cut_id": "c02_selfie_social",
+      "interval": "10.80s - 14.80s",
+      "media_type": "video",
+      "pixel_diff": 16.2177
+    },
+    {
+      "cut_id": "c03_dinner_distraction",
+      "interval": "19.80s - 24.50s",
+      "media_type": "video",
+      "pixel_diff": 52.5045
+    },
+    {
+      "cut_id": "c04_neural_dopamine",
+      "interval": "29.80s - 34.50s",
+      "media_type": "video",
+      "pixel_diff": 52.7049
+    },
+    {
+      "cut_id": "c05_burnout_fatigue",
+      "interval": "34.50s - 38.50s",
+      "media_type": "video",
+      "pixel_diff": 2.6991
+    }
+  ],
+  "timestamp": "2026-09-18T05:19:38.259970",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

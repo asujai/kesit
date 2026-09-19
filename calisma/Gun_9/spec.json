@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "id": "gun_9_jonathan_haidt_podcast",
+    "day": "Gun_9",
+    "title": "Büyük Dikkat Çöküşü: Telefon Beynimizi Nasıl Yeniden Programladı? | Jonathan Haidt",
+    "topic": "Ekran Bağımlılığı, Bilişsel Gerileme, Dikkat Yıkımı ve Popcorn Brain",
+    "speaker": "Dr. Jonathan Haidt",
+    "transcript_path": "calisma/Gun_9/transcript.txt",
+    "provenance": {
+      "source_video": {
+        "raw_video_path": "calisma/Gun_9/base_source.mp4",
+        "in_point": 0.0,
+        "out_point": 42.6,
+        "duration": 42.6
+      },
+      "candidate": {
+        "selection_mode": "agent_editorial",
+        "in_point": 0.0,
+        "out_point": 42.6,
+        "duration": 42.6,
+        "rationale": "Jonathan Haidt explains on The Diary Of A CEO why the destruction of human attention from social media is way beyond mental health and is re-engineering human cognition globally."
+      }
+    }
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_9/base_source.mp4",
+    "crop_filter": "crop=1012:1800:1414:0,scale=1080:1920",
+    "in_point": 0.0,
+    "out_point": 42.6,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music1_eternity.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.22,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.73
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_instagram_scroll",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c01_instagram_scroll.mp4",
+      "provider": "pexels",
+      "asset_id": "38410501",
+      "in_point": 1.0,
+      "start_t": 3.0,
+      "end_t": 6.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c04_stress_mental_health",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c04_stress_mental_health.mp4",
+      "provider": "pexels",
+      "asset_id": "8558453",
+      "in_point": 1.0,
+      "start_t": 11.0,
+      "end_t": 14.0,
+      "speed": 1.0
+    },
+    {
+      "id": "c06_hourglass_passing_time",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c06_hourglass_passing_time.mp4",
+      "provider": "pexels",
+      "asset_id": "31112120",
+      "in_point": 1.5,
+      "start_t": 18.0,
+      "end_t": 21.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c07_office_distracted_worker",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c07_office_distracted_worker.mp4",
+      "provider": "pexels",
+      "asset_id": "8682965",
+      "in_point": 1.0,
+      "start_t": 21.5,
+      "end_t": 25.0,
+      "speed": 1.0
+    },
+    {
+      "id": "c08_couple_couch_phones",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c08_couple_couch_phones.mp4",
+      "provider": "pexels",
+      "asset_id": "7986626",
+      "in_point": 1.0,
+      "start_t": 28.5,
+      "end_t": 31.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c09_solitary_unsuccessful_walk",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c09_solitary_unsuccessful_walk.mp4",
+      "provider": "pexels",
+      "asset_id": "16538871",
+      "in_point": 1.0,
+      "start_t": 31.5,
+      "end_t": 34.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c10_neural_brain_cognition",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c10_neural_brain_cognition.mp4",
+      "provider": "pexels",
+      "asset_id": "35003022",
+      "in_point": 1.0,
+      "start_t": 34.5,
+      "end_t": 38.5,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.2,
+      "end": 3.4,
+      "text": "Instagram, sosyal kıyaslama...\nSosyal medya gerçeği.",
+      "highlight": "sosyal kıyaslama"
+    },
+    {
+      "id": "sub_02",
+      "start": 3.6,
+      "end": 6.5,
+      "text": "Kitap 2024'te çıktığından beri,\nfark ettiğim şey şu oldu:",
+      "highlight": "fark ettiğim şey"
+    },
+    {
+      "id": "sub_03",
+      "start": 6.7,
+      "end": 10.2,
+      "text": "Verilen büyük hasarı\ninanılmaz hafife almışım!",
+      "highlight": "hafife almışım"
+    },
+    {
+      "id": "sub_04",
+      "start": 10.4,
+      "end": 13.6,
+      "text": "Çünkü yalnızca ruh sağlığına\nodaklanmıştım (ki bu felaket)...",
+      "highlight": "ruh sağlığına"
+    },
+    {
+      "id": "sub_05",
+      "start": 13.8,
+      "end": 17.6,
+      "text": "Ama asıl büyük yıkım:\ndikkat becerisinin yok edilmesidir.",
+      "highlight": "yok edilmesidir"
+    },
+    {
+      "id": "sub_06",
+      "start": 17.8,
+      "end": 21.6,
+      "text": "Tek seferde birkaç dakika\nbile odaklanamadan...",
+      "highlight": "odaklanamadan"
+    },
+    {
+      "id": "sub_07",
+      "start": 21.8,
+      "end": 24.8,
+      "text": "İdeal olarak 10-20 dakika\nkesintisiz dikkat olmadan...",
+      "highlight": "kesintisiz dikkat"
+    },
+    {
+      "id": "sub_08",
+      "start": 25.0,
+      "end": 28.4,
+      "text": "İyi bir çalışan olamazsınız,\ndeğer üretemezsiniz.",
+      "highlight": "İyi bir çalışan"
+    },
+    {
+      "id": "sub_09",
+      "start": 28.6,
+      "end": 31.0,
+      "text": "İyi bir hayat arkadaşı,\niyi bir eş olamazsınız.",
+      "highlight": "iyi bir eş"
+    },
+    {
+      "id": "sub_10",
+      "start": 31.2,
+      "end": 33.6,
+      "text": "Ve hayatta asla\nbaşarılı olamazsınız!",
+      "highlight": "başarılı olamazsınız"
+    },
+    {
+      "id": "sub_11",
+      "start": 33.8,
+      "end": 37.6,
+      "text": "İşte o an anladım:\nBu, psikolojinin çok ötesinde.",
+      "highlight": "çok ötesinde"
+    },
+    {
+      "id": "sub_12",
+      "start": 37.8,
+      "end": 42.4,
+      "text": "Bu, insan zihnini değiştiriyor:\nhem de küresel ölçekte!",
+      "highlight": "küresel ölçekte"
+    }
+  ],
+  "cover": {
+    "image_path": "calisma/Gun_9/Gun_9_Shorts_Kapak.jpg",
+    "badge": "PODCAST ÖZEL",
+    "title_line1": "BÜYÜK DİKKAT ÇÖKÜŞÜ",
+    "title_line2": "TELEFON BEYNİNİ NASIL YIKTI?"
+  },
+  "publish": {
+    "youtube": {
+      "title_1": "Telefon Beynimizi Nasıl Yeniden Programladı? | Dr. Jonathan Haidt",
+      "title_2": "Dikkat Süreniz Neden Sıfırlandı? (Sosyal Medyanın Gerçek Hasarı)",
+      "title_3": "20 Dakika Bile Odaklanamıyorsanız Bu Uyarıyı Dinleyin!",
+      "description": "Dr. Jonathan Haidt, The Diary Of A CEO podcastinde sosyal medyanın asıl tehlikesini açıklıyor: 'Ruh sağlığı bir felaket ama asıl hasar, insanın odaklanma yeteneğinin küresel ölçekte yok edilmesidir.'\n\n📌 Kitap: The Anxious Generation (Kaygılı Nesil)\n🎙️ Konuşmacı: Dr. Jonathan Haidt\n\n#jonathanhaidt #dikkat #odaklanma #shorts #podcast #farkındalık #ekranbağımlılığı",
+      "tags": [
+        "jonathan haidt",
+        "the anxious generation",
+        "kaygılı nesil",
+        "dikkat çöküşü",
+        "popcorn brain",
+        "ekran bağımlılığı",
+        "odaklanma",
+        "dopamin",
+        "podcast kesitleri",
+        "the diary of a ceo",
+        "steven bartlett",
+        "shorts"
+      ],
+      "pinned_comment": "Günde kesintisiz 20 dakika tek bir şeye odaklanabiliyor musunuz, yoksa eliniz otomatik telefona mı gidiyor? Yorumlarda buluşalım 👇"
+    },
+    "youtube_en": {
+      "title_1": "How Phones Broke Human Attention | Dr. Jonathan Haidt",
+      "title_2": "The Global Attention Collapse (Why You Can't Focus Anymore)",
+      "title_3": "If You Can't Focus For 20 Minutes, Watch This.",
+      "description": "Social psychologist Dr. Jonathan Haidt on The Diary Of A CEO explains why social media's destruction of attention goes far beyond mental health—it is rewiring human cognition on a global scale.\n\n📌 Book: The Anxious Generation\n🎙️ Speaker: Dr. Jonathan Haidt\n\n#jonathanhaidt #attention #focus #shorts #podcast #screenaddiction",
+      "tags": [
+        "jonathan haidt",
+        "the anxious generation",
+        "attention span",
+        "focus",
+        "screen addiction",
+        "the diary of a ceo",
+        "steven bartlett",
+        "brain rot",
+        "shorts"
+      ],
+      "pinned_comment": "Can you focus on one single task for 20 minutes without checking your phone? Share your experience below 👇"
+    },
+    "instagram": {
+      "hook": "Tek bir şeye 10-20 dakika odaklanamıyorsanız hayatınız tehlikede olabilir.",
+      "caption": "Dr. Jonathan Haidt (@jonathanhaidt), 'The Anxious Generation' kitabı sonrası fark ettiği en korkutucu gerçeği açıklıyor:\n\n'Sosyal medyanın ruh sağlığına verdiği zarar büyük bir felaket. Ama asıl yıkım, insanın dikkat ve odaklanma yeteneğinin küresel ölçekte yok edilmesidir. Kesintisiz dikkat olmadan değer üretemezsiniz, iyi bir eş olamazsınız ve hayatta başarılı olamazsınız.'\n\nBeyniniz bir bildirim uyuşturucusuna mı dönüştü? Farkındalık ilk adımdır.",
+      "hashtags": "#jonathanhaidt #theanxiousgeneration #odaklanma #dikkat #ekranbağımlılığı #popcornbrain #dopamin #psikoloji #kişiselgelişim #üretkenlik #farkındalık #derinçalışma #zihin #shorts #reels #keşfet #podcast",
+      "cta": "Bu videoyu sürekli dikkati dağılan bir arkadaşına gönder ve odak süreni test et! 📲"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.030s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 4 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_11\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.0 LUFS, True Peak: -3.1 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_11_20260919_172252_133ca990",
+  "sha256": "133ca9903e67aa8b54da67e92b72b5398f0c91f4494a7a0af5ae0671b934d731",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_procrastinating_desk_student",
+      "interval": "4.50s - 8.50s",
+      "media_type": "video",
+      "pixel_diff": 34.1144
+    },
+    {
+      "cut_id": "c02_putting_phone_away",
+      "interval": "13.00s - 17.00s",
+      "media_type": "video",
+      "pixel_diff": 24.2077
+    },
+    {
+      "cut_id": "c03_staring_at_blank_wall",
+      "interval": "20.00s - 24.50s",
+      "media_type": "video",
+      "pixel_diff": 19.3507
+    },
+    {
+      "cut_id": "c05_deep_focus_work_flow",
+      "interval": "28.50s - 31.50s",
+      "media_type": "video",
+      "pixel_diff": 15.3026
+    }
+  ],
+  "timestamp": "2026-09-19T17:22:59.909424",
+  "language": "tr",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

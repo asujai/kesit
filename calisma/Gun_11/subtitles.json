@@ -1,0 +1,93 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.00,
+    "end": 2.20,
+    "text": "Bu yöntemin mantığı şu:",
+    "highlight": "mantığı şu"
+  },
+  {
+    "id": "sub_02",
+    "start": 2.20,
+    "end": 4.70,
+    "text": "Ders çalışman mı gerekiyor?",
+    "highlight": "Ders çalışman"
+  },
+  {
+    "id": "sub_03",
+    "start": 4.70,
+    "end": 7.00,
+    "text": "Çalışmak istemiyorsan\notur, boş otur!",
+    "highlight": "boş otur"
+  },
+  {
+    "id": "sub_04",
+    "start": 7.00,
+    "end": 8.80,
+    "text": "Hiçbir şey yapma!",
+    "highlight": "Hiçbir şey yapma"
+  },
+  {
+    "id": "sub_05",
+    "start": 8.80,
+    "end": 11.20,
+    "text": "Ya da bir kitap okuman\ngerekiyor...",
+    "highlight": "kitap okuman"
+  },
+  {
+    "id": "sub_06",
+    "start": 11.20,
+    "end": 13.50,
+    "text": "Onun yerine gidip\ntelefona bakma!",
+    "highlight": "telefona bakma"
+  },
+  {
+    "id": "sub_07",
+    "start": 13.50,
+    "end": 16.50,
+    "text": "Telefonu öbür odaya koy,\nhiçbir şey yapma!",
+    "highlight": "öbür odaya koy"
+  },
+  {
+    "id": "sub_08",
+    "start": 16.50,
+    "end": 19.50,
+    "text": "Görevi yapıyorsan yap,\nyapmıyorsan...",
+    "highlight": "Görevi yapıyorsan"
+  },
+  {
+    "id": "sub_09",
+    "start": 19.50,
+    "end": 23.50,
+    "text": "Eğlenceli, keyif verici\nbir şeyle oyalama!",
+    "highlight": "oyalama"
+  },
+  {
+    "id": "sub_10",
+    "start": 23.50,
+    "end": 26.50,
+    "text": "Gerekirse duvara boş boş bak,",
+    "highlight": "duvara boş boş bak"
+  },
+  {
+    "id": "sub_11",
+    "start": 26.50,
+    "end": 28.80,
+    "text": "Ama yerine bir şey koyma!",
+    "highlight": "bir şey koyma"
+  },
+  {
+    "id": "sub_12",
+    "start": 28.80,
+    "end": 31.00,
+    "text": "Ve sonrasında beynin sıkılınca,",
+    "highlight": "beynin sıkılınca"
+  },
+  {
+    "id": "sub_13",
+    "start": 31.00,
+    "end": 34.85,
+    "text": "Odaklanman ÇOK DAHA\nKOLAY OLACAK!",
+    "highlight": "KOLAY OLACAK"
+  }
+]

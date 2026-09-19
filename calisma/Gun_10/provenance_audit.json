@@ -1,0 +1,95 @@
+{
+  "build_id": "Gun_10_20260919_024100_fbd930a2",
+  "day": "Gun_10",
+  "source_video": "calisma/Gun_10/base_source.mp4",
+  "in_point": 3.1,
+  "out_point": 66.15,
+  "duration": null,
+  "provenance": {
+    "source_video": {
+      "raw_video_path": "calisma/Gun_10/base_source.mp4",
+      "in_point": 3.1,
+      "out_point": 66.15,
+      "duration": 63.05
+    },
+    "candidate": {
+      "selection_mode": "agent_editorial",
+      "in_point": 3.1,
+      "out_point": 66.15,
+      "duration": 63.05,
+      "rationale": "Johann Hari explains the Hewlett-Packard distraction experiment on The Diary Of A CEO, proving that phone interruptions drop IQ by 10 points—double the cognitive damage of smoking weed."
+    }
+  },
+  "cuts_provenance": [
+    {
+      "id": "c01_corporate_office_workers",
+      "media_type": "video",
+      "start_t": 4.5,
+      "end_t": 8.5,
+      "duration": 4.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_10/dynamic_brolls/c01_corporate_office_workers.mp4",
+      "content_hash": "50ecf62944f89010c29c546d14b00d5cec8a29e4226433409ee049522ec4876f"
+    },
+    {
+      "id": "c02_smartphone_distracted_worker",
+      "media_type": "video",
+      "start_t": 13.5,
+      "end_t": 18.5,
+      "duration": 5.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_10/dynamic_brolls/c02_smartphone_distracted_worker.mp4",
+      "content_hash": "00de5c2c0f1c6785c1940ddc89672a399cffddd22ec60e82342ed57ced82fffa"
+    },
+    {
+      "id": "c03_brain_intelligence_scan",
+      "media_type": "video",
+      "start_t": 23.5,
+      "end_t": 28.5,
+      "duration": 5.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_10/dynamic_brolls/c03_brain_intelligence_scan.mp4",
+      "content_hash": "995f20f38f4cb68a54db77e61245a835f163c695543b4bf1e6ca87a14633a7a6"
+    },
+    {
+      "id": "c04_stressed_headache_overwhelmed",
+      "media_type": "video",
+      "start_t": 28.5,
+      "end_t": 34.0,
+      "duration": 5.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_10/dynamic_brolls/c04_stressed_headache_overwhelmed.mp4",
+      "content_hash": "a3ae4ce28209f4d8afe280f34f89fd5c219babbad47b20929d0c97a821c9ff0e"
+    },
+    {
+      "id": "c05_smoke_rising_cinematic",
+      "media_type": "video",
+      "start_t": 41.5,
+      "end_t": 47.0,
+      "duration": 5.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_10/dynamic_brolls/c05_smoke_rising_cinematic.mp4",
+      "content_hash": "75684064b1deb2da4231ca44f9526f247a78f3db0422abb30d4166df7ff425a9"
+    },
+    {
+      "id": "c06_social_media_phone_scroll",
+      "media_type": "video",
+      "start_t": 47.0,
+      "end_t": 52.5,
+      "duration": 5.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_10/dynamic_brolls/c06_social_media_phone_scroll.mp4",
+      "content_hash": "64ed260912074adfc37dd4c88ecb1f65433703e8aeb4f98c15f0064c05eb55dd"
+    },
+    {
+      "id": "c07_deep_work_single_focus",
+      "media_type": "video",
+      "start_t": 52.5,
+      "end_t": 56.5,
+      "duration": 4.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_10/dynamic_brolls/c07_deep_work_single_focus.mp4",
+      "content_hash": "571bf898bb927b1ca06cdc8465ac303893255e3a1105d73c466e5dc4aae4b317"
+    }
+  ]
+}

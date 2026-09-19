@@ -1,0 +1,112 @@
+[
+  {
+    "id": "c01_instagram_scroll",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c01_instagram_scroll.mp4",
+    "provider": "pexels",
+    "asset_id": "38410501",
+    "in_point": 1.0,
+    "start_t": 0.0,
+    "end_t": 3.8,
+    "speed": 1.0
+  },
+  {
+    "id": "c02_library_research",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c02_library_research.mp4",
+    "provider": "pexels",
+    "asset_id": "33997135",
+    "in_point": 1.5,
+    "start_t": 3.8,
+    "end_t": 7.0,
+    "speed": 1.0
+  },
+  {
+    "id": "c03_city_neon_digital",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c03_city_neon_digital.mp4",
+    "provider": "pexels",
+    "asset_id": "34672414",
+    "in_point": 1.0,
+    "start_t": 7.0,
+    "end_t": 10.5,
+    "speed": 1.0
+  },
+  {
+    "id": "c04_stress_mental_health",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c04_stress_mental_health.mp4",
+    "provider": "pexels",
+    "asset_id": "8558453",
+    "in_point": 1.0,
+    "start_t": 10.5,
+    "end_t": 14.0,
+    "speed": 1.0
+  },
+  {
+    "id": "c05_eye_screen_reflection",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c05_eye_screen_reflection.mp4",
+    "provider": "pexels",
+    "asset_id": "7198065",
+    "in_point": 1.0,
+    "start_t": 14.0,
+    "end_t": 18.0,
+    "speed": 1.0
+  },
+  {
+    "id": "c06_hourglass_passing_time",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c06_hourglass_passing_time.mp4",
+    "provider": "pexels",
+    "asset_id": "31112120",
+    "in_point": 1.5,
+    "start_t": 18.0,
+    "end_t": 22.0,
+    "speed": 1.0
+  },
+  {
+    "id": "c07_office_distracted_worker",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c07_office_distracted_worker.mp4",
+    "provider": "pexels",
+    "asset_id": "8682965",
+    "in_point": 1.0,
+    "start_t": 22.0,
+    "end_t": 25.5,
+    "speed": 1.0
+  },
+  {
+    "id": "c08_couple_couch_phones",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c08_couple_couch_phones.mp4",
+    "provider": "pexels",
+    "asset_id": "7986626",
+    "in_point": 1.0,
+    "start_t": 25.5,
+    "end_t": 29.0,
+    "speed": 1.0
+  },
+  {
+    "id": "c09_solitary_unsuccessful_walk",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c09_solitary_unsuccessful_walk.mp4",
+    "provider": "pexels",
+    "asset_id": "16538871",
+    "in_point": 1.0,
+    "start_t": 29.0,
+    "end_t": 33.5,
+    "speed": 1.0
+  },
+  {
+    "id": "c10_neural_brain_cognition",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c10_neural_brain_cognition.mp4",
+    "provider": "pexels",
+    "asset_id": "35003022",
+    "in_point": 1.0,
+    "start_t": 33.5,
+    "end_t": 38.0,
+    "speed": 1.0
+  },
+  {
+    "id": "c11_global_city_timelapse",
+    "source_file": "calisma/Gun_9/dynamic_brolls/c11_global_city_timelapse.mp4",
+    "provider": "pexels",
+    "asset_id": "19452742",
+    "in_point": 2.0,
+    "start_t": 38.0,
+    "end_t": 42.6,
+    "speed": 1.0
+  }
+]

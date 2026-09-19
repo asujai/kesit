@@ -1,0 +1,107 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.2,
+    "end": 2.5,
+    "text": "Size bir şey göstermek istiyorum:",
+    "highlight": "bir şey göstermek"
+  },
+  {
+    "id": "sub_02",
+    "start": 3.2,
+    "end": 5.8,
+    "text": "Bu cihazın psikolojik gücüne bakın.",
+    "highlight": "psikolojik gücüne"
+  },
+  {
+    "id": "sub_03",
+    "start": 7.05,
+    "end": 10.0,
+    "text": "Sizinle konuşurken elimde telefon tutsaydım...",
+    "highlight": "elimde telefon"
+  },
+  {
+    "id": "sub_04",
+    "start": 10.8,
+    "end": 13.5,
+    "text": "Titremese, çalmasa, kimse aramasaydı bile...",
+    "highlight": "kimse aramasaydı"
+  },
+  {
+    "id": "sub_05",
+    "start": 13.9,
+    "end": 15.8,
+    "text": "Sadece elimde tutuyor olsaydım...",
+    "highlight": "elimde tutuyor"
+  },
+  {
+    "id": "sub_06",
+    "start": 16.6,
+    "end": 20.3,
+    "text": "Şu an en önemli şey sizmişsiniz gibi hisseder miydiniz?",
+    "highlight": "en önemli şey"
+  },
+  {
+    "id": "sub_07",
+    "start": 22.8,
+    "end": 24.5,
+    "text": "Hayır, hissetmezdiniz.",
+    "highlight": "Hayır, hissetmezdiniz"
+  },
+  {
+    "id": "sub_08",
+    "start": 24.7,
+    "end": 26.5,
+    "text": "Bilinçaltı şartlanma tam olarak bu.",
+    "highlight": "Bilinçaltı şartlanma"
+  },
+  {
+    "id": "sub_09",
+    "start": 27.1,
+    "end": 29.5,
+    "text": "İşte bir toplantıya gittiğimizde,",
+    "highlight": "toplantıya gittiğimizde"
+  },
+  {
+    "id": "sub_10",
+    "start": 29.6,
+    "end": 32.2,
+    "text": "veya ailemizle akşam yemeğine oturduğumuzda,",
+    "highlight": "akşam yemeğine"
+  },
+  {
+    "id": "sub_11",
+    "start": 32.3,
+    "end": 34.5,
+    "text": "ve telefonu masanın üstüne koyduğumuzda,",
+    "highlight": "masanın üstüne"
+  },
+  {
+    "id": "sub_12",
+    "start": 34.8,
+    "end": 37.8,
+    "text": "oradaki herkese şu psikolojik mesajı veriyor:",
+    "highlight": "psikolojik mesajı"
+  },
+  {
+    "id": "sub_13",
+    "start": 38.1,
+    "end": 40.6,
+    "text": "\"Şu an benim için en önemli şey sen değilsin.\"",
+    "highlight": "en önemli şey sen değilsin"
+  },
+  {
+    "id": "sub_14",
+    "start": 41.1,
+    "end": 42.6,
+    "text": "Ve telefonu masaya ters koymak...",
+    "highlight": "masaya ters koymak"
+  },
+  {
+    "id": "sub_15",
+    "start": 42.8,
+    "end": 44.4,
+    "text": "daha kibar bir davranış DEĞİL!",
+    "highlight": "DEĞİL!"
+  }
+]

@@ -1,0 +1,135 @@
+{
+  "build_id": "Gun_9_20260918_232046_e63f9195",
+  "day": "Gun_9",
+  "source_video": "calisma/Gun_9/base_source.mp4",
+  "in_point": 0.0,
+  "out_point": 42.6,
+  "duration": null,
+  "provenance": {
+    "source_video": {
+      "raw_video_path": "calisma/Gun_9/base_source.mp4",
+      "in_point": 0.0,
+      "out_point": 42.6,
+      "duration": 42.6
+    },
+    "candidate": {
+      "selection_mode": "agent_editorial",
+      "in_point": 0.0,
+      "out_point": 42.6,
+      "duration": 42.6,
+      "rationale": "Jonathan Haidt explains on The Diary Of A CEO why the destruction of human attention from social media is way beyond mental health and is re-engineering human cognition globally."
+    }
+  },
+  "cuts_provenance": [
+    {
+      "id": "c01_instagram_scroll",
+      "media_type": "video",
+      "start_t": 0.0,
+      "end_t": 3.8,
+      "duration": 3.8,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c01_instagram_scroll.mp4",
+      "content_hash": "2a2f0b0059145f7c7284bade440b90737b9daef0bd44cf015ffedbbef3cb9471"
+    },
+    {
+      "id": "c02_library_research",
+      "media_type": "video",
+      "start_t": 3.8,
+      "end_t": 7.0,
+      "duration": 3.2,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c02_library_research.mp4",
+      "content_hash": "f8443b90bb2ec45dd386377be54bef6a910a7d86e52f5226e043287bbc207448"
+    },
+    {
+      "id": "c03_city_neon_digital",
+      "media_type": "video",
+      "start_t": 7.0,
+      "end_t": 10.5,
+      "duration": 3.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c03_city_neon_digital.mp4",
+      "content_hash": "f2acec1b1d03e9b65cba14b3d99c734ddbb65269228fd1eb287a0bc93b25fa4d"
+    },
+    {
+      "id": "c04_stress_mental_health",
+      "media_type": "video",
+      "start_t": 10.5,
+      "end_t": 14.0,
+      "duration": 3.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c04_stress_mental_health.mp4",
+      "content_hash": "3ae75e2e8036b148fa658b58808ce46becec6dcf841d985c08bf84d85e5a997f"
+    },
+    {
+      "id": "c05_eye_screen_reflection",
+      "media_type": "video",
+      "start_t": 14.0,
+      "end_t": 18.0,
+      "duration": 4.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c05_eye_screen_reflection.mp4",
+      "content_hash": "765548fd72480dda625a563ae8d3130c592defd2d50bcb3908ee05f0c0ef375b"
+    },
+    {
+      "id": "c06_hourglass_passing_time",
+      "media_type": "video",
+      "start_t": 18.0,
+      "end_t": 22.0,
+      "duration": 4.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c06_hourglass_passing_time.mp4",
+      "content_hash": "fb8496aaeebf69d9ccd9e2512293bdcd7fa3e0f401f218ef980d7cd9cad492a4"
+    },
+    {
+      "id": "c07_office_distracted_worker",
+      "media_type": "video",
+      "start_t": 22.0,
+      "end_t": 25.5,
+      "duration": 3.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c07_office_distracted_worker.mp4",
+      "content_hash": "9eafabab03075b6cb37fea0de81f81428c7f80cddb2762294331f1ae65c02dfd"
+    },
+    {
+      "id": "c08_couple_couch_phones",
+      "media_type": "video",
+      "start_t": 25.5,
+      "end_t": 29.0,
+      "duration": 3.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c08_couple_couch_phones.mp4",
+      "content_hash": "6d93f05c0bc0c9f9fc0f7c87c855e978bae274e608dc98f8c05af7fae60d9f4f"
+    },
+    {
+      "id": "c09_solitary_unsuccessful_walk",
+      "media_type": "video",
+      "start_t": 29.0,
+      "end_t": 33.5,
+      "duration": 4.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c09_solitary_unsuccessful_walk.mp4",
+      "content_hash": "6ca03ce6a97c7535fdcb15d2050b9aa352fe09b4fd70027c4fd6daf5a8940529"
+    },
+    {
+      "id": "c10_neural_brain_cognition",
+      "media_type": "video",
+      "start_t": 33.5,
+      "end_t": 38.0,
+      "duration": 4.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c10_neural_brain_cognition.mp4",
+      "content_hash": "995f20f38f4cb68a54db77e61245a835f163c695543b4bf1e6ca87a14633a7a6"
+    },
+    {
+      "id": "c11_global_city_timelapse",
+      "media_type": "video",
+      "start_t": 38.0,
+      "end_t": 42.6,
+      "duration": 4.6,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_9/dynamic_brolls/c11_global_city_timelapse.mp4",
+      "content_hash": "e3899f7e6b873edbf0cdf93fd8e3d7546e65687b04774a0121a5df97d19fd771"
+    }
+  ]
+}

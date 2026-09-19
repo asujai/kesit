@@ -1,0 +1,28 @@
+# Environment & Secrets
+.env
+*.env
+
+# Python & Cache
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+*.cache_key
+
+# Video & Audio
+*.mp4
+*.m4a
+*.wav
+*.webm
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.aac
+*.flac
+
+# Images & Animations
+*.jpg
+*.jpeg
+*.png
+*.gif

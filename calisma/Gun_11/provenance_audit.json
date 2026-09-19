@@ -1,0 +1,65 @@
+{
+  "build_id": "Gun_11_20260919_172252_133ca990",
+  "day": "Gun_11",
+  "source_video": "calisma/Gun_11/base_source.mp4",
+  "in_point": 1.8,
+  "out_point": 36.65,
+  "duration": null,
+  "provenance": {
+    "source_video": {
+      "raw_video_path": "calisma/Gun_11/base_source.mp4",
+      "in_point": 1.8,
+      "out_point": 36.65,
+      "duration": 34.85
+    },
+    "candidate": {
+      "selection_mode": "agent_editorial",
+      "in_point": 1.8,
+      "out_point": 36.65,
+      "duration": 34.85,
+      "rationale": "Beyhan Budak explains the 'Do Nothing' psychological protocol against procrastination: if you can't focus on studying or working, put your phone in another room, stare at a blank wall if needed, and let sensory boredom naturally restore deep focus."
+    }
+  },
+  "cuts_provenance": [
+    {
+      "id": "c01_procrastinating_desk_student",
+      "media_type": "video",
+      "start_t": 4.5,
+      "end_t": 8.5,
+      "duration": 4.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_11/dynamic_brolls/c01_procrastinating_desk_student.mp4",
+      "content_hash": "5e3a34462988e65a1d6d8f98e06a8092177c82d1d0abda8a6fd044bb1b5bacec"
+    },
+    {
+      "id": "c02_putting_phone_away",
+      "media_type": "video",
+      "start_t": 13.0,
+      "end_t": 17.0,
+      "duration": 4.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_11/dynamic_brolls/c02_putting_phone_away.mp4",
+      "content_hash": "e3a244402ebb38e2de94f927c338199fd196c45ae9a76df9520d0688414eadc5"
+    },
+    {
+      "id": "c03_staring_at_blank_wall",
+      "media_type": "video",
+      "start_t": 20.0,
+      "end_t": 24.5,
+      "duration": 4.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_11/dynamic_brolls/c03_staring_at_blank_wall.mp4",
+      "content_hash": "a1ce64ffb016856785bdb82f48b4926a48d7fac1af1eb36e077c0f70b72d0dd6"
+    },
+    {
+      "id": "c05_deep_focus_work_flow",
+      "media_type": "video",
+      "start_t": 28.5,
+      "end_t": 31.5,
+      "duration": 3.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_11/dynamic_brolls/c05_deep_focus_work_flow.mp4",
+      "content_hash": "d5d67f3e70ece942ae60b5294f233f2ada60bd7ddc43d558e5aecd44cc4c8f4b"
+    }
+  ]
+}

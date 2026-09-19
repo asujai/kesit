@@ -1,0 +1,54 @@
+{
+  "niche_name": "Dijital Denge ve Zihinsel Odaklanma",
+  "channel": {
+    "name": "kesiit / Dijital Denge",
+    "primary_language": "tr",
+    "format": "YouTube Shorts & Instagram Reels (9:16 Vertical)"
+  },
+  "target_audience": {
+    "demographics": "18 - 35 yaş arası genç profesyoneller, üniversite öğrencileri, teknoloji çalışanları",
+    "pain_points": [
+      "Sonsuz kaydırma (doom-scrolling) ve odak kaybı",
+      "Sabah uyanır uyanmaz telefona sarılma alışkanlığı",
+      "Gece telefon ışığı nedeniyle uykusuzluk ve ertesi gün düşük enerji",
+      "Sürekli bildirim kontrolü ve dopamin dalgalanmaları"
+    ],
+    "desires": [
+      "Zihinsel berraklık, derin odaklanma ve yüksek üretkenlik",
+      "Teknolojiyle sağlıklı, bilinçli ve kontrollü bir ilişki kurma",
+      "Gerçek hayattaki ilişkilere ve anın tadına geri dönme"
+    ]
+  },
+  "content_pillars": [
+    {
+      "theme": "Problem & Farkındalık Şoku",
+      "goal": "İzleyiciye günlük bilinçsiz telefon kullanım alışkanlıklarını ayna gibi göstermek (hook CTR).",
+      "sample_hooks": ["Günde 5.000 kez dokunuyoruz", "Gözünü açar açmaz elin ona gidiyor", "Gece 03:00 tuzağı"]
+    },
+    {
+      "theme": "Nörobiyoloji & Psikoloji",
+      "goal": "Beyindeki dopamin döngüsünü ve sosyal medya algoritmalarının nasıl bağımlılık yarattığını uzman diliyle açıklamak.",
+      "sample_hooks": ["Slot makinesi etkisi", "Neden bırakamıyoruz?", "Dopamin kapanı"]
+    },
+    {
+      "theme": "Mikro-Alışkanlıklar & Eyleme Geçirilebilir Çözümler",
+      "goal": "Yatak odasından telefonu çıkarma, siyah-beyaz ekran modu, 20 dakika kuralı gibi pratik tavsiyeler vermek.",
+      "sample_hooks": ["Bu akşam yapabileceğin tek bir değişiklik", "Telefonu yatak odasından çıkar"]
+    }
+  ],
+  "editorial_rules": {
+    "tone": "Sakin, otoriter, düşündürücü, rasyonel ve psikolojik açıdan güvenilir (asla panik veya clickbait çığırtkanlığı yok)",
+    "speaker_diversity": "Sadece popüler ekran yüzleri değil; yerel ve küresel TEDx konuşmacıları, nörobilimciler, psikologlar, akademisyenler ve az bilinen ancak çarpıcı tespitler sunan bilirkişiler",
+    "source_priorities": [
+      "TEDx Talks (Global & Türkiye) — Dijital bağımlılık, dikkat ekonomisi, dopamin ve odaklanma üzerine çarpıcı sunumlar",
+      "Üniversite konferansları, akademik paneller ve bilimsel sempozyumlar",
+      "Az tanınan derin uzmanlar, araştırmacı hekimler ve sosyologlar",
+      "Popüler uzmanlar (dengeyi korumak ve otoriteyi desteklemek amacıyla dönüşümlü)"
+    ],
+    "excluded_topics": [
+      "Politika, magazin, sansasyonel dini tartışmalar",
+      "Yapay zeka komplo teorileri veya temelsiz korku salan haberler",
+      "Ucuz mizah, kalitesiz meme akımları"
+    ]
+  }
+}

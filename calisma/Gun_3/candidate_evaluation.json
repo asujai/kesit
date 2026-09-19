@@ -1,0 +1,96 @@
+{
+  "campaign_goal": "viral_awareness",
+  "selected_candidate": "cand_122.5_161.4",
+  "candidates": [
+    {
+      "id": "cand_122.5_161.4",
+      "start": 122.48,
+      "end": 161.4,
+      "duration": 38.92,
+      "hook_text": "zor oluyor biraz uzattım Ama Hadi",
+      "punchline_text": "biçimi artık daha makbul Ya sen diyor",
+      "scores": {
+        "hook_power": 7.5,
+        "punchline_power": 6.0,
+        "standalone_context": 5.0,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 6.17,
+      "full_text_sample": "zor oluyor biraz uzattım Ama Hadi gelelim 2 maddemiz egzersiz yapıyor musunuz Nasıl elleri göreyim düzenli günlük egzersiz yapanların elleri...",
+      "status": "ACCEPTED",
+      "rationale": "Top-ranked segment with highest combined hook (7.5/10) and punchline (6.0/10) score from transcript."
+    },
+    {
+      "id": "cand_209.9_256.2",
+      "start": 209.92,
+      "end": 256.16,
+      "duration": 46.24,
+      "hook_text": "saat diyebilirim düşünüyorum neden varım",
+      "punchline_text": "bizim için yaşamın anlamı fakat çoğu",
+      "scores": {
+        "hook_power": 7.5,
+        "punchline_power": 6.0,
+        "standalone_context": 3.5,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 5.88,
+      "full_text_sample": "saat diyebilirim düşünüyorum neden varım ne yapıyorum kimim neyim bunlara da cevap arıyorum sonuç ne çıkıyor peki Sonuç güzel hocam bence gü...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (5.88 vs 6.17)."
+    },
+    {
+      "id": "cand_355.2_385.0",
+      "start": 355.2,
+      "end": 385.0,
+      "duration": 29.8,
+      "hook_text": "neden çok sayıda insanla ilişki",
+      "punchline_text": "eksikliğinde yalnızlaşıyoruz bunalıma",
+      "scores": {
+        "hook_power": 7.5,
+        "punchline_power": 5.0,
+        "standalone_context": 5.0,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 5.88,
+      "full_text_sample": "neden çok sayıda insanla ilişki kurabilecek gelişmiş bir sosyal beyne sahibiz bu kapasiteyi kullanalım diye her Ne haber kanka İyidir kanka ...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (5.88 vs 6.17)."
+    },
+    {
+      "id": "cand_152.6_181.6",
+      "start": 152.6,
+      "end": 181.6,
+      "duration": 29.0,
+      "hook_text": "böyle parmağımızla basarak yapabiliyoruz",
+      "punchline_text": "tabirle açık amaya gerek yok Peki ya",
+      "scores": {
+        "hook_power": 6.5,
+        "punchline_power": 6.0,
+        "standalone_context": 5.0,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 5.82,
+      "full_text_sample": "böyle parmağımızla basarak yapabiliyoruz ya her şeyin en hareketsiz tüketilebilir biçimi artık daha makbul Ya sen diyor bir parmakla bir tık...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (5.82 vs 6.17)."
+    },
+    {
+      "id": "cand_28.4_57.4",
+      "start": 28.44,
+      "end": 57.36,
+      "duration": 28.92,
+      "hook_text": "Rabia'ya benden kitap bir",
+      "punchline_text": "durduramadığı susturamadığım her şeyin",
+      "scores": {
+        "hook_power": 6.5,
+        "punchline_power": 5.0,
+        "standalone_context": 6.0,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 5.72,
+      "full_text_sample": "Rabia'ya benden kitap bir alkış ama Senede en az bir hafta devam istiyorum tamam mı Ona göre o taahhütle çok güzel bunu yapabilmek gerçekten...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (5.72 vs 6.17)."
+    }
+  ]
+}

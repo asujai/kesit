@@ -1,0 +1,87 @@
+{
+  "version": "2.0",
+  "learning_history": {
+    "description": "Kullanıcının her gün verdiği 6 kategorili puanlama ve serbest geri bildirimlerden damıtılmış kalıcı editoryal kurallar.",
+    "source_file": "PUANLAMA_GECMISI.md",
+    "updated_at": "2026-09-18T05:40:00"
+  },
+  "pacing": {
+    "max_photo_duration": 3.0,
+    "target_photo_duration": 2.0,
+    "min_photo_duration": 1.0,
+    "max_broll_cut_duration": 4.5,
+    "target_broll_cut_duration": 3.0,
+    "min_broll_cut_duration": 1.2,
+    "golden_speaker_ratio_min": 0.40,
+    "golden_speaker_ratio_max": 0.50,
+    "strict_word_level_broll_sync": true
+  },
+  "broll_synchronization": {
+    "rule": "B-roll videoları konuşmacının genel konusuna göre değil, kelimenin ağızdan çıktığı saniyeye kilitlenir.",
+    "keyword_triggers": {
+      "dopamine_neural": ["dopamin", "dopamine", "sinaps", "beyin", "kimyasal"],
+      "burnout_depression": ["depresyon", "depression", "tükenmişlik", "motivasyon kaybı", "lack of motivation"],
+      "screen_scrolling": ["kaydırma", "scrolling", "telefon", "ekran", "engaging with phone", "texting"]
+    },
+    "lead_lag_tolerance_seconds": 0.3
+  },
+  "audio": {
+    "target_lufs": -14.0,
+    "lufs_tolerance": 0.5,
+    "max_true_peak": -1.0,
+    "voice_gain": 1.0,
+    "min_bgm_gain": 0.20,
+    "target_bgm_gain": 0.23,
+    "max_bgm_gain": 0.26,
+    "fade_out_duration": 0.73
+  },
+  "covers": {
+    "allow_video_screenshot": false,
+    "show_speaker_name": false,
+    "style": "surreal_conceptual_high_ctr",
+    "prompt_guidelines": "Konuyla doğrudan ilgili, hafif abartılı/absürt, yüksek kontrastlı, sürrealist, karanlık atmosferli ve üst %35 alanında tipografi için boşluk bırakan özel görsel üretimi.",
+    "typography": {
+      "top_pill_color": [235, 40, 40, 240],
+      "main_line1_color": [255, 255, 255, 255],
+      "main_line2_color": [255, 215, 0, 255],
+      "font_family": "Segoe UI Bold"
+    },
+    "banned_elements": [
+      "plain_video_screenshot",
+      "speaker_name_pill",
+      "children_when_irrelevant",
+      "amateur_web_popup_cards",
+      "low_contrast_backgrounds"
+    ]
+  },
+  "cuts_selection": {
+    "hook_rule": "Giriş kancası önceki cümleye atıfta bulunmayan (asla 'bu kadar bahsettikten sonra' veya 'daha önce dediğimiz gibi' olmayan), bağımsız bir soru veya güçlü bir iddiayla başlamalıdır.",
+    "clean_vocal_trimming": true,
+    "final_punchline_speaker_presence": true
+  },
+  "subtitles": {
+    "max_lines_per_badge": 2,
+    "max_words_per_line": 5,
+    "font_size": 44,
+    "style": "minimalist_black_pill",
+    "background_color": [12, 12, 14, 238],
+    "highlight_color": "#FACC15"
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "source_discovery": {
+    "include_tedx": true,
+    "prefer_hidden_experts": true,
+    "guidelines": "Sadece popüler ekran yüzleri değil; yerli/yabancı TEDx konuşmaları, akademisyenler ve az bilinen bilirkişilerin dijital bağımlılık, dikkat ekonomisi ve dopamin üzerine çarpıcı tespitleri taranır.",
+    "technical_filters": {
+      "min_resolution": "1080p",
+      "clean_audio_required": true,
+      "no_heavy_bgm_in_source": true,
+      "transcript_available": true
+    }
+  }
+}

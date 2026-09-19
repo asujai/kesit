@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "id": "gun_5_andrew_huberman",
+    "day": "Gun_5",
+    "title": "Akıllı Telefon ve Dopamin Kapanı | Dr. Andrew Huberman",
+    "topic": "Akıllı Telefon, Dopamin Katmanlanması ve Zihinsel Tükenmişlik",
+    "speaker": "Dr. Andrew Huberman",
+    "transcript_path": "calisma/Gun_5/sub_huberman.tr.vtt",
+    "provenance": {
+      "source_video": {
+        "raw_video_path": "calisma/Gun_5/clean_raw_huberman.mp4",
+        "in_point": 0.0,
+        "out_point": 44.12,
+        "duration": 44.12
+      },
+      "candidate": {
+        "selection_mode": "agent_editorial",
+        "in_point": 0.0,
+        "out_point": 44.12,
+        "duration": 44.12,
+        "rationale": "High-authority Stanford neurobiologist clip on smartphone dopamine stacking, loss of motivation, and depression risk."
+      }
+    }
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_5/clean_raw_huberman.mp4",
+    "in_point": 0.0,
+    "out_point": 44.12,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music1_eternity.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.23,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.73
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_texting",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c01_texting_scrolling.mp4",
+      "provider": "pexels",
+      "asset_id": "7362704",
+      "in_point": 1.0,
+      "start_t": 6.5,
+      "end_t": 9.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_selfie",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c02_selfie_social.mp4",
+      "provider": "pexels",
+      "asset_id": "6317317",
+      "in_point": 0.5,
+      "start_t": 9.5,
+      "end_t": 13.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_dinner",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c03_dinner_distraction.mp4",
+      "provider": "pexels",
+      "asset_id": "19302670",
+      "in_point": 1.0,
+      "start_t": 19.5,
+      "end_t": 24.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c04_phone_engagement",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c04_phone_engagement.mp4",
+      "provider": "pexels",
+      "asset_id": "38410501",
+      "in_point": 1.0,
+      "start_t": 29.5,
+      "end_t": 34.0,
+      "speed": 1.0
+    },
+    {
+      "id": "c05_neural_dopamine",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c04_neural_dopamine.mp4",
+      "provider": "pexels",
+      "asset_id": "35010179",
+      "in_point": 0.5,
+      "start_t": 34.0,
+      "end_t": 38.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c06_burnout_depression",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c05_burnout_fatigue.mp4",
+      "provider": "pexels",
+      "asset_id": "9063506",
+      "in_point": 1.0,
+      "start_t": 38.5,
+      "end_t": 42.0,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.2,
+      "end": 2.8,
+      "text": "Akıllı telefon, dopamin için",
+      "highlight": "Akıllı telefon"
+    },
+    {
+      "id": "sub_02",
+      "start": 2.95,
+      "end": 5.95,
+      "text": "oldukça ilginç bir araçtır.",
+      "highlight": "ilginç bir araçtır"
+    },
+    {
+      "id": "sub_03",
+      "start": 6.15,
+      "end": 8.6,
+      "text": "Bugünlerde insanların sürekli",
+      "highlight": "Bugünlerde"
+    },
+    {
+      "id": "sub_04",
+      "start": 8.75,
+      "end": 10.8,
+      "text": "mesajlaştığını ve selfie çektiğini",
+      "highlight": "mesajlaştığını"
+    },
+    {
+      "id": "sub_05",
+      "start": 10.95,
+      "end": 13.0,
+      "text": "görmek son derece yaygın.",
+      "highlight": "son derece yaygın"
+    },
+    {
+      "id": "sub_06",
+      "start": 13.15,
+      "end": 15.0,
+      "text": "Podcast veya müzik dinlemek,",
+      "highlight": "müzik dinlemek"
+    },
+    {
+      "id": "sub_07",
+      "start": 15.15,
+      "end": 17.6,
+      "text": "bir işle uğraşırken",
+      "highlight": "bir işle uğraşırken"
+    },
+    {
+      "id": "sub_08",
+      "start": 17.75,
+      "end": 19.5,
+      "text": "aynı anda her şeyi yapmak...",
+      "highlight": "aynı anda"
+    },
+    {
+      "id": "sub_09",
+      "start": 19.65,
+      "end": 22.0,
+      "text": "Akşam yemeğinde bile",
+      "highlight": "Akşam yemeğinde"
+    },
+    {
+      "id": "sub_10",
+      "start": 22.15,
+      "end": 24.5,
+      "text": "telefona kilitlenip yazışmak...",
+      "highlight": "telefona kilitlenip"
+    },
+    {
+      "id": "sub_11",
+      "start": 24.65,
+      "end": 26.8,
+      "text": "Tüm bunlar harika görünür,",
+      "highlight": "harika görünür"
+    },
+    {
+      "id": "sub_12",
+      "start": 26.95,
+      "end": 29.5,
+      "text": "hayata renk ve zenginlik katar.",
+      "highlight": "renk ve zenginlik"
+    },
+    {
+      "id": "sub_13",
+      "start": 29.65,
+      "end": 31.8,
+      "text": "Fakat mesele sadece",
+      "highlight": "Fakat mesele"
+    },
+    {
+      "id": "sub_14",
+      "start": 31.95,
+      "end": 33.8,
+      "text": "dikkatin dağılması değildir;",
+      "highlight": "dikkatin dağılması"
+    },
+    {
+      "id": "sub_15",
+      "start": 33.95,
+      "end": 36.8,
+      "text": "bu, dopamini üst üste bindirir!",
+      "highlight": "dopamini üst üste"
+    },
+    {
+      "id": "sub_16",
+      "start": 36.95,
+      "end": 38.4,
+      "text": "Ve sonuç olarak...",
+      "highlight": "Ve sonuç olarak"
+    },
+    {
+      "id": "sub_17",
+      "start": 38.55,
+      "end": 41.2,
+      "text": "Depresyon ve motivasyon kaybının",
+      "highlight": "motivasyon kaybının"
+    },
+    {
+      "id": "sub_18",
+      "start": 41.35,
+      "end": 43.5,
+      "text": "artması hiç de sürpriz değil.",
+      "highlight": "hiç de sürpriz değil"
+    }
+  ],
+  "publish": {
+    "youtube": {
+      "title_1": "Akıllı Telefon ve Dopamin Kapanı | Dr. Andrew Huberman",
+      "title_2": "Neden Sürekli Telefona Bakıyorsun? (Dopamin Katmanlanması)",
+      "title_3": "Telefona Her Baktığında Beyninde Ne Oluyor? | Dr. Huberman",
+      "description": "Stanford Üniversitesi Nörobiyoloji Profesörü Dr. Andrew Huberman, akıllı telefon kullanımının beyindeki dopamin dengesini nasıl etkilediğini ve neden motivasyon kaybına yol açtığını açıklıyor. Sürekli mesajlaşmak, bildirim kontrol etmek ve her an dijital uyarana maruz kalmak dopamini üst üste bindirerek taban seviyeyi düşürebilir.",
+      "tags": [
+        "andrewhuberman",
+        "dopamin",
+        "odaklanma",
+        "dijitaldetoks",
+        "beyin",
+        "psikoloji",
+        "shorts"
+      ],
+      "pinned_comment": "Telefonu elinden düşürememenin sebebi iradesizlik değil, nörobiyoloji. Gün içinde ilk telefon detoksunu kaç saat yapabiliyorsun?"
+    },
+    "youtube_en": {
+      "title_1": "The Smartphone Dopamine Trap | Dr. Andrew Huberman",
+      "title_2": "Why You Can't Stop Checking Your Phone (Dopamine Stacking)",
+      "title_3": "What Phones Do To Your Brain & Motivation | Stanford Neuroscientist",
+      "description": "Stanford neurobiologist Dr. Andrew Huberman explains how smartphones hijack our dopamine reward system through 'dopamine stacking', leading to severe lack of motivation and increased risk of depression.\n\n#andrewhuberman #dopamine #neuroscience #phoneaddiction #shorts #mentalhealth",
+      "tags": [
+        "andrew huberman",
+        "dopamine",
+        "neuroscience",
+        "phone addiction",
+        "screen time",
+        "stanford",
+        "motivation",
+        "shorts"
+      ],
+      "pinned_comment": "Ever feel like your motivation drops the more you scroll? How many hours is your daily screen time? Let's discuss below 👇"
+    },
+    "instagram": {
+      "hook": "Telefona her baktığında beyninde ne olduğunu biliyor musun? Stanford'dan Dr. Andrew Huberman açıklıyor.",
+      "caption": "Gün boyunca yürürken müzik dinlemek, yemek yerken mesajlaşmak, her boşlukta ekranı kaydırmak... Tüm bunlar harika gibi görünse de Dr. Andrew Huberman'a göre dopamin sistemini üst üste bindiriyor. Sonuç mu? Tükenmişlik ve artan motivasyon kaybı.",
+      "hashtags": "#andrewhuberman #dopamin #dijitaldetoks #odaklanma #zihin #psikoloji #nörobilim #motivasyon #üretkenlik #farkındalık #ekranbağımlılığı #telefonbağımlılığı #bilim #beyin #kişiselgelişim #sağlıklıyaşam #zihinselsağlık #sosyalmedya #dijitaldenge #dikkateksikliği #öğrenme #biyoloji #derinodak #zihinselnetlik #kendinigeliştir #başarı #alışkanlık #sağlık #gelişim #keşfet",
+      "cta": "Kaydet ve bu akşam telefonunu yemek masasından uzak tutmayı dene."
+    }
+  },
+  "cover": {
+    "title": "DOPAMİN DENGESİNİ NASIL BOZUYOR?",
+    "badge": "AKILLI TELEFON & BEYİN",
+    "punch_line": "Dijital Denge | Kesiit"
+  }
+}

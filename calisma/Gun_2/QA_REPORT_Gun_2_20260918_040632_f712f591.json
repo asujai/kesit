@@ -1,0 +1,115 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.000s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 16 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_2\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.1 LUFS, True Peak: -1.4 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_2_20260918_040632_f712f591",
+  "sha256": "f712f59166675bf56e9ed46b7e98134dbf5a390648fe97351367e8e70a9c7cc8",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_bed_dark",
+      "interval": "2.00s - 3.70s",
+      "media_type": "video",
+      "pixel_diff": 0.7881
+    },
+    {
+      "cut_id": "c02_bed_screen",
+      "interval": "3.70s - 5.50s",
+      "media_type": "video",
+      "pixel_diff": 7.8082
+    },
+    {
+      "cut_id": "c03_bus_passenger",
+      "interval": "5.50s - 7.10s",
+      "media_type": "video",
+      "pixel_diff": 47.9557
+    },
+    {
+      "cut_id": "c04_red_light",
+      "interval": "7.10s - 8.80s",
+      "media_type": "video",
+      "pixel_diff": 2.2963
+    },
+    {
+      "cut_id": "c05_car_hand",
+      "interval": "8.80s - 10.50s",
+      "media_type": "video",
+      "pixel_diff": 36.3431
+    },
+    {
+      "cut_id": "c06_driver_look",
+      "interval": "12.10s - 13.80s",
+      "media_type": "video",
+      "pixel_diff": 15.8463
+    },
+    {
+      "cut_id": "c07_cafe1",
+      "interval": "13.80s - 15.50s",
+      "media_type": "video",
+      "pixel_diff": 19.0544
+    },
+    {
+      "cut_id": "c08_notif_phone",
+      "interval": "15.50s - 17.00s",
+      "media_type": "video",
+      "pixel_diff": 7.2366
+    },
+    {
+      "cut_id": "c09_cafe2",
+      "interval": "17.00s - 18.60s",
+      "media_type": "video",
+      "pixel_diff": 26.9477
+    },
+    {
+      "cut_id": "c10_night_dark",
+      "interval": "20.10s - 21.80s",
+      "media_type": "video",
+      "pixel_diff": 0.7074
+    },
+    {
+      "cut_id": "c11_pillow_screen",
+      "interval": "21.80s - 23.50s",
+      "media_type": "video",
+      "pixel_diff": 0.8701
+    },
+    {
+      "cut_id": "c12_blue_face",
+      "interval": "23.50s - 25.20s",
+      "media_type": "video",
+      "pixel_diff": 22.9859
+    },
+    {
+      "cut_id": "c13_phone_chains",
+      "interval": "33.35s - 35.15s",
+      "media_type": "video",
+      "pixel_diff": 6.4073
+    },
+    {
+      "cut_id": "c14_scroll_fast1",
+      "interval": "35.15s - 36.95s",
+      "media_type": "video",
+      "pixel_diff": 8.9444
+    },
+    {
+      "cut_id": "c15_scroll_feed",
+      "interval": "36.95s - 38.55s",
+      "media_type": "video",
+      "pixel_diff": 14.3328
+    },
+    {
+      "cut_id": "c16_scroll_fast2",
+      "interval": "38.55s - 40.35s",
+      "media_type": "video",
+      "pixel_diff": 10.4419
+    }
+  ],
+  "timestamp": "2026-09-18T04:06:42.117645",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

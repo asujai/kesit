@@ -1,0 +1,44 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.020s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 4 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_3\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.5 LUFS, True Peak: -1.1 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_3_20260918_162716_1fbff34b",
+  "sha256": "1fbff34bd9c8ac8b384e0a88935e7a8c9c26fd6a35f5199637ffa741d4fff148",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_couch",
+      "interval": "5.00s - 11.20s",
+      "media_type": "video",
+      "pixel_diff": 32.7764
+    },
+    {
+      "cut_id": "c02_tap",
+      "interval": "11.20s - 16.00s",
+      "media_type": "video",
+      "pixel_diff": 9.4412
+    },
+    {
+      "cut_id": "c03_phone_glow",
+      "interval": "19.80s - 25.00s",
+      "media_type": "video",
+      "pixel_diff": 34.1771
+    },
+    {
+      "cut_id": "c04_hiking",
+      "interval": "25.00s - 31.00s",
+      "media_type": "video",
+      "pixel_diff": 22.5394
+    }
+  ],
+  "timestamp": "2026-09-18T16:27:20.140144",
+  "language": "en",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

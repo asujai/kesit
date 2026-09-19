@@ -1,0 +1,44 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.000s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 4 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_8\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.3 LUFS, True Peak: -1.4 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_8_20260918_193255_9ce93a97",
+  "sha256": "9ce93a9764fba55ab20bfb37457345a9b9c7de90ff720de8d58839ed782a84b1",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_rare_valuable_craft",
+      "interval": "11.20s - 15.50s",
+      "media_type": "video",
+      "pixel_diff": 59.6918
+    },
+    {
+      "cut_id": "c02_mindless_scrolling",
+      "interval": "18.30s - 25.50s",
+      "media_type": "video",
+      "pixel_diff": 11.6801
+    },
+    {
+      "cut_id": "c03_kid_smartphone",
+      "interval": "25.50s - 32.80s",
+      "media_type": "video",
+      "pixel_diff": 22.3834
+    },
+    {
+      "cut_id": "c04_craftsman_deep_work",
+      "interval": "37.00s - 44.20s",
+      "media_type": "video",
+      "pixel_diff": 22.2378
+    }
+  ],
+  "timestamp": "2026-09-18T19:32:58.332441",
+  "language": "tr",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

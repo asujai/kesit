@@ -1,0 +1,24 @@
+{
+  "campaign_goal": "viral_awareness",
+  "selected_candidate": "cand_0.2_29.8",
+  "candidates": [
+    {
+      "id": "cand_0.2_29.8",
+      "start": 0.2,
+      "end": 29.8,
+      "duration": 29.6,
+      "hook_text": "Akıllı telefon, dopamin için oldukça ilginç bir araçtır. Now the smartphone is a very interesting tool for dopamine in light of all this.",
+      "punchline_text": "Tüm bunlar harika görünür, hayata renk ve zenginlik katar. That's all wonderful, it gives depth and richness and color to life.",
+      "scores": {
+        "hook_power": 5.0,
+        "punchline_power": 6.5,
+        "standalone_context": 7.5,
+        "niche_alignment": 8.2
+      },
+      "composite_score": 6.43,
+      "full_text_sample": "Akıllı telefon, dopamin için oldukça ilginç bir araçtır. Now the smartphone is a very interesting tool for dopamine in light of all this. Bu...",
+      "status": "ACCEPTED",
+      "rationale": "Top-ranked segment with highest combined hook (5.0/10) and punchline (6.5/10) score from transcript."
+    }
+  ]
+}

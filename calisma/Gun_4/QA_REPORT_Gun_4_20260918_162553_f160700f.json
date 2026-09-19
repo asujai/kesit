@@ -1,0 +1,56 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.000s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 6 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_4\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.0 LUFS, True Peak: -1.5 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_4_20260918_162553_f160700f",
+  "sha256": "f160700f27e5e64b15e86eafd9710b6e81bbcc5b02752638a91b6f35482a5dcc",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_fast_scroll",
+      "interval": "2.10s - 6.50s",
+      "media_type": "video",
+      "pixel_diff": 13.1828
+    },
+    {
+      "cut_id": "c02_notification_tap",
+      "interval": "6.50s - 10.70s",
+      "media_type": "video",
+      "pixel_diff": 15.3646
+    },
+    {
+      "cut_id": "c03_screen_excitement",
+      "interval": "17.00s - 23.10s",
+      "media_type": "video",
+      "pixel_diff": 40.2925
+    },
+    {
+      "cut_id": "c04_burnout_crash",
+      "interval": "29.80s - 34.60s",
+      "media_type": "video",
+      "pixel_diff": 50.2659
+    },
+    {
+      "cut_id": "c05_night_bed_phone",
+      "interval": "39.30s - 44.10s",
+      "media_type": "video",
+      "pixel_diff": 15.2042
+    },
+    {
+      "cut_id": "c06_clock_timelapse",
+      "interval": "44.10s - 48.40s",
+      "media_type": "video",
+      "pixel_diff": 8.8262
+    }
+  ],
+  "timestamp": "2026-09-18T16:25:57.580376",
+  "language": "en",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

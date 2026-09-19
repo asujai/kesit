@@ -1,0 +1,86 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.000s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 11 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_9\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.1 LUFS, True Peak: -1.2 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_9_20260918_231919_e3504169",
+  "sha256": "e35041695870c6e45e9f491aa53a7c98936228c08a23f77020ea3598d48619dd",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_instagram_scroll",
+      "interval": "0.00s - 3.80s",
+      "media_type": "video",
+      "pixel_diff": 15.8692
+    },
+    {
+      "cut_id": "c02_library_research",
+      "interval": "3.80s - 7.00s",
+      "media_type": "video",
+      "pixel_diff": 13.7187
+    },
+    {
+      "cut_id": "c03_city_neon_digital",
+      "interval": "7.00s - 10.50s",
+      "media_type": "video",
+      "pixel_diff": 18.0794
+    },
+    {
+      "cut_id": "c04_stress_mental_health",
+      "interval": "10.50s - 14.00s",
+      "media_type": "video",
+      "pixel_diff": 7.8165
+    },
+    {
+      "cut_id": "c05_eye_screen_reflection",
+      "interval": "14.00s - 18.00s",
+      "media_type": "video",
+      "pixel_diff": 15.5819
+    },
+    {
+      "cut_id": "c06_hourglass_passing_time",
+      "interval": "18.00s - 22.00s",
+      "media_type": "video",
+      "pixel_diff": 4.2272
+    },
+    {
+      "cut_id": "c07_office_distracted_worker",
+      "interval": "22.00s - 25.50s",
+      "media_type": "video",
+      "pixel_diff": 11.1499
+    },
+    {
+      "cut_id": "c08_couple_couch_phones",
+      "interval": "25.50s - 29.00s",
+      "media_type": "video",
+      "pixel_diff": 6.0726
+    },
+    {
+      "cut_id": "c09_solitary_unsuccessful_walk",
+      "interval": "29.00s - 33.50s",
+      "media_type": "video",
+      "pixel_diff": 20.8656
+    },
+    {
+      "cut_id": "c10_neural_brain_cognition",
+      "interval": "33.50s - 38.00s",
+      "media_type": "video",
+      "pixel_diff": 26.9756
+    },
+    {
+      "cut_id": "c11_global_city_timelapse",
+      "interval": "38.00s - 42.60s",
+      "media_type": "video",
+      "pixel_diff": 58.6139
+    }
+  ],
+  "timestamp": "2026-09-18T23:19:26.795943",
+  "language": "tr",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

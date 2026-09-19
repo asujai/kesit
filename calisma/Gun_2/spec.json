@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "id": "gun_2_beyhan_budak",
+    "day": "Gun_2",
+    "title": "Telefonla Yakın Olanlar Günde 5.000 Kez Dokunuyor: Akıllı Telefon Bağımlılığı",
+    "topic": "Akıllı Telefon Bağımlılığı ve Dijital Farkındalık",
+    "speaker": "Klinik Psk. Beyhan Budak",
+    "transcript_path": "calisma/Gun_2/sub_beyhan.tr.vtt"
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_2/clean_raw_beyhan.mp4",
+    "in_point": 0.0,
+    "out_point": 46.88,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music2_ambient.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.14,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.73
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_bed_dark",
+      "source_file": "calisma/Gun_2/dynamic_brolls/cut_05_night_bedroom_dark.mp4",
+      "in_point": 2.0,
+      "start_t": 2.00,
+      "end_t": 3.70,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_bed_screen",
+      "source_file": "calisma/Gun_2/broll3_night_bed_28048582.mp4",
+      "in_point": 4.0,
+      "start_t": 3.70,
+      "end_t": 5.50,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_bus_passenger",
+      "source_file": "calisma/Gun_2/dynamic_brolls/cut_01_bus_phone.mp4",
+      "in_point": 3.0,
+      "start_t": 5.50,
+      "end_t": 7.10,
+      "speed": 1.0
+    },
+    {
+      "id": "c04_red_light",
+      "source_file": "calisma/Gun_2/dynamic_brolls/cut_02_red_light.mp4",
+      "in_point": 1.0,
+      "start_t": 7.10,
+      "end_t": 8.80,
+      "speed": 1.0
+    },
+    {
+      "id": "c05_car_hand",
+      "source_file": "calisma/Gun_2/alt_car_36067578.mp4",
+      "in_point": 2.0,
+      "start_t": 8.80,
+      "end_t": 10.50,
+      "speed": 1.0
+    },
+    {
+      "id": "c06_driver_look",
+      "source_file": "calisma/Gun_2/alt_car_36067578.mp4",
+      "in_point": 8.0,
+      "start_t": 12.10,
+      "end_t": 13.80,
+      "speed": 1.0
+    },
+    {
+      "id": "c07_cafe1",
+      "source_file": "calisma/Gun_2/broll2_cafe_9047387.mp4",
+      "in_point": 0.5,
+      "start_t": 13.80,
+      "end_t": 15.50,
+      "speed": 1.0
+    },
+    {
+      "id": "c08_notif_phone",
+      "source_file": "calisma/Gun_2/dynamic_brolls/notif_7822022.mp4",
+      "in_point": 3.2,
+      "start_t": 15.50,
+      "end_t": 17.00,
+      "speed": 1.0
+    },
+    {
+      "id": "c09_cafe2",
+      "source_file": "calisma/Gun_2/dynamic_brolls/cafe_7817089.mp4",
+      "in_point": 1.5,
+      "start_t": 17.00,
+      "end_t": 18.60,
+      "speed": 1.0
+    },
+    {
+      "id": "c10_night_dark",
+      "source_file": "calisma/Gun_2/dynamic_brolls/cut_05_night_bedroom_dark.mp4",
+      "in_point": 6.0,
+      "start_t": 20.10,
+      "end_t": 21.80,
+      "speed": 1.0
+    },
+    {
+      "id": "c11_pillow_screen",
+      "source_file": "calisma/Gun_2/broll3_night_bed_28048582.mp4",
+      "in_point": 7.0,
+      "start_t": 21.80,
+      "end_t": 23.50,
+      "speed": 1.0
+    },
+    {
+      "id": "c12_blue_face",
+      "source_file": "calisma/Gun_2/dynamic_brolls/cut_06_blue_light_face.mp4",
+      "in_point": 1.5,
+      "start_t": 23.50,
+      "end_t": 25.20,
+      "speed": 1.0
+    },
+    {
+      "id": "c13_phone_chains",
+      "source_file": "calisma/Gun_2/dynamic_brolls/cut_09_phone_chains.mp4",
+      "in_point": 2.0,
+      "start_t": 33.35,
+      "end_t": 35.15,
+      "speed": 1.0
+    },
+    {
+      "id": "c14_scroll_fast1",
+      "source_file": "calisma/Gun_2/broll4_scrolling_10374888.mp4",
+      "in_point": 0.5,
+      "start_t": 35.15,
+      "end_t": 36.95,
+      "speed": 2.0
+    },
+    {
+      "id": "c15_scroll_feed",
+      "source_file": "calisma/Gun_2/dynamic_brolls/scroll_10374885.mp4",
+      "in_point": 1.0,
+      "start_t": 36.95,
+      "end_t": 38.55,
+      "speed": 2.0
+    },
+    {
+      "id": "c16_scroll_fast2",
+      "source_file": "calisma/Gun_2/broll4_scrolling_10374888.mp4",
+      "in_point": 4.0,
+      "start_t": 38.55,
+      "end_t": 40.35,
+      "speed": 1.5
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.10,
+      "end": 1.85,
+      "text": "Sabah kalktığın zaman",
+      "highlight": "Sabah"
+    },
+    {
+      "id": "sub_02",
+      "start": 1.85,
+      "end": 3.70,
+      "text": "ilk olarak elin ona uzanıyor.",
+      "highlight": "elin ona uzanıyor"
+    },
+    {
+      "id": "sub_03",
+      "start": 3.70,
+      "end": 5.75,
+      "text": "Yastığının her daim yanı başında.",
+      "highlight": "yanı başında"
+    },
+    {
+      "id": "sub_04",
+      "start": 5.75,
+      "end": 8.20,
+      "text": "Otobüste giderken, araba sürerken...",
+      "highlight": "araba sürerken"
+    },
+    {
+      "id": "sub_05",
+      "start": 8.20,
+      "end": 10.70,
+      "text": "Frene basıp kırmızı ışıkta durduğunda bile,",
+      "highlight": "kırmızı ışıkta"
+    },
+    {
+      "id": "sub_06",
+      "start": 10.70,
+      "end": 13.55,
+      "text": "her zaman ilk olarak elin ona uzanıyor.",
+      "highlight": "elin ona uzanıyor"
+    },
+    {
+      "id": "sub_07",
+      "start": 13.55,
+      "end": 16.50,
+      "text": "Bir arkadaşınla sohbet ediyorsun;",
+      "highlight": "sohbet ediyorsun"
+    },
+    {
+      "id": "sub_08",
+      "start": 16.50,
+      "end": 19.55,
+      "text": "gözün onda, yeni bir şey var mı diye.",
+      "highlight": "gözün onda"
+    },
+    {
+      "id": "sub_09",
+      "start": 19.55,
+      "end": 22.30,
+      "text": "Gece tuvalete kalkıyorsun, döndüğünde...",
+      "highlight": "Gece"
+    },
+    {
+      "id": "sub_10",
+      "start": 22.30,
+      "end": 25.45,
+      "text": "Kafanı yastığa koyduğun an,",
+      "highlight": "kafanı yastığa koyduğun"
+    },
+    {
+      "id": "sub_11",
+      "start": 25.45,
+      "end": 28.50,
+      "text": "bir bakıyorsun yine gözün onda!",
+      "highlight": "gözün onda!"
+    },
+    {
+      "id": "sub_12",
+      "start": 28.50,
+      "end": 30.85,
+      "text": "Neden bahsediyorum sence?",
+      "highlight": "Neden bahsediyorum?"
+    },
+    {
+      "id": "sub_13",
+      "start": 30.85,
+      "end": 33.30,
+      "text": "Tabii ki de akıllı telefonlardan!",
+      "highlight": "akıllı telefonlardan!"
+    },
+    {
+      "id": "sub_14",
+      "start": 33.30,
+      "end": 36.80,
+      "text": "Bugün telefonla biraz yakın olan bir insan,",
+      "highlight": "yakın olan bir insan"
+    },
+    {
+      "id": "sub_15",
+      "start": 36.80,
+      "end": 40.35,
+      "text": "günde 5 BİNDEN FAZLA kez dokunuyor!",
+      "highlight": "5 BİNDEN FAZLA"
+    },
+    {
+      "id": "sub_16",
+      "start": 40.35,
+      "end": 43.50,
+      "text": "Bu öyle bir hale geliyor ki artık,",
+      "highlight": "öyle bir hale geliyor"
+    },
+    {
+      "id": "sub_17",
+      "start": 43.50,
+      "end": 46.80,
+      "text": "hayatımızın en büyük bağımlılıklarından biri!",
+      "highlight": "bağımlılıklarından biri!"
+    }
+  ],
+  "publish": {
+    "youtube": {
+      "title": "Telefonla Yakın Olanlar Günde 5.000 Kez Dokunuyor! | Beyhan Budak",
+      "title_1": "Telefonla Yakın Olanlar Günde 5.000 Kez Dokunuyor! | Beyhan Budak",
+      "title_2": "Sabah İlk İşin Telefona Bakmak mı? İşte Acı Gerçek!",
+      "title_3": "Telefon Bağımlısı Olduğunu Gösteren 4 Gizli İşaret!",
+      "description": "Klinik Psikolog Beyhan Budak uyarıyor: Gün içinde telefonla yakın olan bir insan, günde 5 binden fazla kez telefonuna dokunuyor! Sabah uyanır uyanmaz, trafikte kırmızı ışıkta, arkadaş sohbetinde ve gece yatakta elimiz neden istemsizce ekrana uzanıyor? Dijital bağımlılığın farkına varın.",
+      "tags": ["beyhan budak", "telefon bağımlılığı", "dijital detoks", "psikoloji", "akıllı telefon", "dopamin", "kişisel gelişim", "shorts"],
+      "pinned_comment": "Sabah uyandığında senin de ilk işin telefonuna uzanmak mı? Yorumlarda dürüstçe yazışalım 👇"
+    },
+    "youtube_en": {
+      "title_1": "You Touch Your Phone Over 5,000 Times a Day (Without Realizing It)",
+      "title_2": "Is Checking Your Phone First Thing in the Morning Addiction?",
+      "title_3": "The 5,000 Tap Trap: How Phones Hijack Every Free Second",
+      "description": "Clinical psychologist Beyhan Budak reveals how average active phone users unconsciously touch their screens more than 5,000 times each day. From morning alarm snoozes to red traffic lights and nighttime insomnia, are you in control of your device?\n\n#phoneaddiction #nomophobia #psychology #screentime #shorts",
+      "tags": [
+        "phone addiction",
+        "screen time",
+        "nomophobia",
+        "beyhan budak",
+        "psychology",
+        "digital detox",
+        "habits",
+        "shorts"
+      ],
+      "pinned_comment": "Be honest: Is your phone the first thing you touch when waking up? Let us know below 👇"
+    },
+    "instagram": {
+      "hook": "Uzmanlar Uyarıyor: Yoğun telefon kullanıcıları günde 5.000'den fazla kez ekrana dokunuyor! 📱👇",
+      "caption": "Klinik Psikolog Beyhan Budak çarpıcı bir gerçeğe parmak basıyor: Gün içinde telefonla biraz fazlaca yakın olan bir insan, günde 5.000'den fazla kez ekranına dokunuyor.\n\nSabah gözünü açar açmaz, arabada frene bastığında, arkadaşınla kahve içerken ve gece uykundan uyandığında... Elin hep ona uzanıyor.\n\nFarkında olmadan hayatımızın en büyük bağımlılıklarından birinin esiri oluyoruz. Sen bugün ekranına kaç saat baktın?",
+      "hashtags": "#telefonbağımlılığı #beyhanbudak #dijitaldetoks #psikoloji #farkındalık #dijitaldenge #odaklanma #zihin #kişiselgelişim #motivasyon #ekransüresi #bağımlılık #bilinçlifarkındalık #psikolojiksözler #verimlilik #dopamindetox #mindfulness #reels #viralreels",
+      "cta": "Bu farkındalığı bir arkadaşına hatırlatmak için paylaşmayı unutma!"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "build_id": "Gun_1_20260918_163528_a2ac4f04",
+  "day": "Gun_1",
+  "source_video": "calisma/Gun_1/clean_raw_v4.mp4",
+  "in_point": 0.0,
+  "out_point": 41.08,
+  "duration": null,
+  "provenance": {
+    "source_video": {
+      "raw_video_path": "calisma/Gun_1/clean_raw_v4.mp4",
+      "in_point": 0.0,
+      "out_point": 41.08,
+      "duration": 41.08
+    },
+    "candidate": {
+      "selection_mode": "agent_editorial",
+      "in_point": 0.0,
+      "out_point": 41.08,
+      "duration": 41.08,
+      "rationale": "Analysis of infinite scrolling behavioral loops and casino mechanics behind modern social apps."
+    }
+  },
+  "cuts_provenance": [
+    {
+      "id": "c01_casino",
+      "media_type": "video",
+      "start_t": 5.5,
+      "end_t": 7.8,
+      "duration": 2.3,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_1/stock_casino.mp4",
+      "content_hash": "3a65368384e18c9d7e023affb88db714e303aa0f6ee357fb8dbb140313a36a52"
+    },
+    {
+      "id": "c02_addict",
+      "media_type": "video",
+      "start_t": 7.8,
+      "end_t": 12.0,
+      "duration": 4.2,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_1/broll_addict_7824433.mp4",
+      "content_hash": "866513a418474e8a10671a9cf31b48d3be23d0de497a857b8f017776a0387241"
+    },
+    {
+      "id": "c03_bed",
+      "media_type": "video",
+      "start_t": 19.5,
+      "end_t": 23.4,
+      "duration": 3.9,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_1/broll_dark_bed_7986737.mp4",
+      "content_hash": "e4e42b025e6392e358d073f27c3b7770bb40f736c9cd13a9fcf6efbd1e6724a0"
+    },
+    {
+      "id": "c04_scroll",
+      "media_type": "video",
+      "start_t": 23.4,
+      "end_t": 27.5,
+      "duration": 4.1,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_1/pexels_social_4k.mp4",
+      "content_hash": "2a2f0b0059145f7c7284bade440b90737b9daef0bd44cf015ffedbbef3cb9471"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.020s)",
+  "motion_anti_freeze": "PASSED (All 4 cuts verified dynamic/valid)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.5 LUFS, True Peak: -1.1 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_3_20260918_024829_bef4313a",
+  "sha256": "bef4313aa1b24d617db76f913d10bd3375d67c802a06bcc3ac18f69ea8f7ccb9",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_couch",
+      "interval": "5.00s - 11.20s",
+      "media_type": "video",
+      "pixel_diff": 32.785
+    },
+    {
+      "cut_id": "c02_tap",
+      "interval": "11.20s - 16.00s",
+      "media_type": "video",
+      "pixel_diff": 9.4363
+    },
+    {
+      "cut_id": "c03_phone_glow",
+      "interval": "19.80s - 25.00s",
+      "media_type": "video",
+      "pixel_diff": 34.1893
+    },
+    {
+      "cut_id": "c04_hiking",
+      "interval": "25.00s - 31.00s",
+      "media_type": "video",
+      "pixel_diff": 22.5186
+    }
+  ],
+  "timestamp": "2026-09-18T02:48:33.068087",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

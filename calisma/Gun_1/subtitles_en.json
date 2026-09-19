@@ -1,0 +1,114 @@
+[
+  {
+    "id": "sub_01",
+    "start": 0.05,
+    "end": 1.65,
+    "text": "This is very much\nlike gambling,",
+    "highlight": "like gambling"
+  },
+  {
+    "id": "sub_02",
+    "start": 1.85,
+    "end": 4.1,
+    "text": "You sit innocently,\nsimply relaxing,",
+    "highlight": "innocently"
+  },
+  {
+    "id": "sub_03",
+    "start": 4.3,
+    "end": 6.2,
+    "text": "starting with small,\nharmless checks,",
+    "highlight": "harmless checks"
+  },
+  {
+    "id": "sub_04",
+    "start": 6.45,
+    "end": 9.3,
+    "text": "entering the roulette wheel,\nthe casino,",
+    "highlight": "the casino"
+  },
+  {
+    "id": "sub_05",
+    "start": 9.5,
+    "end": 11.65,
+    "text": "Facebook, Instagram\nand the rest,",
+    "highlight": "Facebook, Instagram"
+  },
+  {
+    "id": "sub_06",
+    "start": 11.8,
+    "end": 14.0,
+    "text": "the tech companies\nalways win.",
+    "highlight": "always win"
+  },
+  {
+    "id": "sub_07",
+    "start": 14.2,
+    "end": 15.8,
+    "text": "They operate\njust like casinos,",
+    "highlight": "casinos"
+  },
+  {
+    "id": "sub_08",
+    "start": 16.05,
+    "end": 19.35,
+    "text": "designing the system\nintentionally this way.",
+    "highlight": "intentionally"
+  },
+  {
+    "id": "sub_09",
+    "start": 19.6,
+    "end": 23.2,
+    "text": "We feel zero friction\nusing these apps,",
+    "highlight": "zero friction"
+  },
+  {
+    "id": "sub_10",
+    "start": 23.3,
+    "end": 26.5,
+    "text": "everything made effortless,\nespecially infinite scroll,",
+    "highlight": "infinite scroll"
+  },
+  {
+    "id": "sub_11",
+    "start": 26.85,
+    "end": 29.5,
+    "text": "an endless feed\nwith no bottom,",
+    "highlight": "bottom"
+  },
+  {
+    "id": "sub_12",
+    "start": 29.5,
+    "end": 31.85,
+    "text": "not divided page by page,",
+    "highlight": "page by page"
+  },
+  {
+    "id": "sub_13",
+    "start": 32.1,
+    "end": 34.25,
+    "text": "or segmented into chapters,",
+    "highlight": "chapters"
+  },
+  {
+    "id": "sub_14",
+    "start": 34.5,
+    "end": 36.8,
+    "text": "an endless stream\ndesigned on purpose.",
+    "highlight": "endless stream"
+  },
+  {
+    "id": "sub_15",
+    "start": 36.8,
+    "end": 38.8,
+    "text": "Zero friction,\nzero resistance.",
+    "highlight": "Zero resistance"
+  },
+  {
+    "id": "sub_16",
+    "start": 39.3,
+    "end": 40.35,
+    "text": "That is what\nmakes you addicted!",
+    "highlight": "addicted!"
+  }
+]

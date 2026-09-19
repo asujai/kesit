@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "id": "gun_7_simon_sinek",
+    "day": "Gun_7",
+    "title": "Telefonu Masaya Koymanın Gizli Psikolojisi | Simon Sinek",
+    "topic": "Telefonu Masaya Koymak, Bilinçaltı Mesajlar ve Sosyal Kopuş",
+    "speaker": "Simon Sinek",
+    "transcript_path": "calisma/Gun_7/sub_sinek.en.vtt",
+    "provenance": {
+      "source_video": {
+        "raw_video_path": "calisma/Gun_7/clean_raw_sinek.mp4",
+        "in_point": 0.0,
+        "out_point": 44.8,
+        "duration": 44.8
+      },
+      "candidate": {
+        "selection_mode": "agent_editorial",
+        "in_point": 0.0,
+        "out_point": 44.8,
+        "duration": 44.8,
+        "rationale": "Simon Sinek demonstrates the psychological signal of having a smartphone visible on the table, ending with the viral punchline that putting it upside down is not more polite."
+      }
+    }
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_7/clean_raw_sinek.mp4",
+    "in_point": 0.0,
+    "out_point": 44.8,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music1_eternity.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.23,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.73
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_talking_holding_phone",
+      "source_file": "calisma/Gun_7/dynamic_brolls/c01_talking_holding_phone.mp4",
+      "provider": "pexels",
+      "asset_id": "6327106",
+      "in_point": 2.0,
+      "start_t": 7.0,
+      "end_t": 11.0,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_silent_phone_hand",
+      "source_file": "calisma/Gun_7/dynamic_brolls/c02_silent_phone_hand.mp4",
+      "provider": "pexels",
+      "asset_id": "6611951",
+      "in_point": 1.0,
+      "start_t": 11.0,
+      "end_t": 16.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_dinner_table_phone",
+      "source_file": "calisma/Gun_7/dynamic_brolls/c03_dinner_table_phone.mp4",
+      "provider": "pexels",
+      "asset_id": "6953394",
+      "in_point": 1.0,
+      "start_t": 27.2,
+      "end_t": 32.4,
+      "speed": 1.0
+    },
+    {
+      "id": "c04_phone_on_table",
+      "source_file": "calisma/Gun_7/dynamic_brolls/c04_phone_on_table.mp4",
+      "provider": "pexels",
+      "asset_id": "7223990",
+      "in_point": 2.0,
+      "start_t": 32.4,
+      "end_t": 40.8,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.2,
+      "end": 2.5,
+      "text": "Size bir şey göstermek istiyorum:",
+      "highlight": "bir şey göstermek"
+    },
+    {
+      "id": "sub_02",
+      "start": 3.2,
+      "end": 5.8,
+      "text": "Bu cihazın psikolojik gücüne bakın.",
+      "highlight": "psikolojik gücüne"
+    },
+    {
+      "id": "sub_03",
+      "start": 7.05,
+      "end": 10.0,
+      "text": "Sizinle konuşurken elimde telefon tutsaydım...",
+      "highlight": "elimde telefon"
+    },
+    {
+      "id": "sub_04",
+      "start": 10.8,
+      "end": 13.5,
+      "text": "Titremese, çalmasa, kimse aramasaydı bile...",
+      "highlight": "kimse aramasaydı"
+    },
+    {
+      "id": "sub_05",
+      "start": 13.9,
+      "end": 15.8,
+      "text": "Sadece elimde tutuyor olsaydım...",
+      "highlight": "elimde tutuyor"
+    },
+    {
+      "id": "sub_06",
+      "start": 16.6,
+      "end": 20.3,
+      "text": "Şu an en önemli şey sizmişsiniz gibi hisseder miydiniz?",
+      "highlight": "en önemli şey"
+    },
+    {
+      "id": "sub_07",
+      "start": 22.8,
+      "end": 24.5,
+      "text": "Hayır, hissetmezdiniz.",
+      "highlight": "Hayır, hissetmezdiniz"
+    },
+    {
+      "id": "sub_08",
+      "start": 24.7,
+      "end": 26.5,
+      "text": "Bilinçaltı şartlanma tam olarak bu.",
+      "highlight": "Bilinçaltı şartlanma"
+    },
+    {
+      "id": "sub_09",
+      "start": 27.1,
+      "end": 29.5,
+      "text": "İşte bir toplantıya gittiğimizde,",
+      "highlight": "toplantıya gittiğimizde"
+    },
+    {
+      "id": "sub_10",
+      "start": 29.6,
+      "end": 32.2,
+      "text": "veya ailemizle akşam yemeğine oturduğumuzda,",
+      "highlight": "akşam yemeğine"
+    },
+    {
+      "id": "sub_11",
+      "start": 32.3,
+      "end": 34.5,
+      "text": "ve telefonu masanın üstüne koyduğumuzda,",
+      "highlight": "masanın üstüne"
+    },
+    {
+      "id": "sub_12",
+      "start": 34.8,
+      "end": 37.8,
+      "text": "oradaki herkese şu psikolojik mesajı veriyor:",
+      "highlight": "psikolojik mesajı"
+    },
+    {
+      "id": "sub_13",
+      "start": 38.1,
+      "end": 40.6,
+      "text": "\"Şu an benim için en önemli şey sen değilsin.\"",
+      "highlight": "en önemli şey sen değilsin"
+    },
+    {
+      "id": "sub_14",
+      "start": 41.1,
+      "end": 42.6,
+      "text": "Ve telefonu masaya ters koymak...",
+      "highlight": "masaya ters koymak"
+    },
+    {
+      "id": "sub_15",
+      "start": 42.8,
+      "end": 44.4,
+      "text": "daha kibar bir davranış DEĞİL!",
+      "highlight": "DEĞİL!"
+    }
+  ],
+  "publish": {
+    "youtube": {
+      "title_1": "Telefonu Masaya Koymak Ne Anlama Geliyor? | Simon Sinek",
+      "title_2": "Ters Çevirmek Kibarlık Değil! (Gizli Mesaj)",
+      "title_3": "Bilinçaltının Bu Tuzağına Düştün mü? | Simon Sinek Uyarısı",
+      "description": "Telefonunuzu masaya koyduğunuzda veya elinizde tuttuğunuzda karşınızdakine aslında ne mesaj veriyorsunuz? Simon Sinek, bir toplantıda veya aile yemeğinde masaya bırakılan telefonun bilinçaltında 'Şu an en önemli şey sen değilsin' hissi yarattığını ve telefonu ters çevirmenin neden kibarlık olmadığını açıklıyor.",
+      "tags": [
+        "telefonbağımlılığı",
+        "simonsinek",
+        "dijitaldetoks",
+        "psikoloji",
+        "iletişim",
+        "odaklanma",
+        "shorts"
+      ],
+      "pinned_comment": "Yemekte veya toplantıda telefonu masaya koyar mısınız? Yorumlarda dürüstçe yazın, tartışalım."
+    },
+    "youtube_en": {
+      "title_1": "Putting Your Phone on the Table Sends a Message | Simon Sinek",
+      "title_2": "Face Down is NOT More Polite! | Simon Sinek #Shorts",
+      "title_3": "The Hidden Psychology of Your Phone on the Table",
+      "description": "What does having your phone on the table actually say to people around you? Bestselling author and thinker Simon Sinek reveals the subtle psychological message your phone sends in meetings and family dinners: 'You are not the most important thing to me right now.' And why flipping it face down doesn't make it polite.\n\n#simonsinek #phoneaddiction #psychology #shorts #digitaldetox #relationships",
+      "tags": [
+        "simon sinek",
+        "phone addiction",
+        "psychology",
+        "relationships",
+        "communication",
+        "digital detox",
+        "shorts"
+      ],
+      "pinned_comment": "Do you keep your phone on the table during meals? Be honest below! 👇"
+    },
+    "instagram": {
+      "hook": "Telefonunu masaya ters koyunca kibar olduğunu mu sanıyorsun? Simon Sinek'ten tokat gibi gerçek!",
+      "caption": "Bir toplantıda, kafede veya ailenizle yemek yerken telefonu masaya koyduğunuzda ne oluyor?\n\nSimon Sinek açıklıyor:\n1. Telefon çalmasa veya titremese bile, elinizde veya masada durması karşınızdakine bilinçaltından şu mesajı verir: \"Şu an benim için en önemli şey sen değilsin.\"\n2. Telefonu ters çevirmek daha kibar bir davranış değildir; masada olduğu sürece dikkat bölücüdür.\n\nGerçek iletişim, karşınızdakine tüm dikkatinizi verebilmektir.",
+      "hashtags": "#telefonbağımlılığı #simonsinek #dijitaldetoks #psikoloji #iletişim #ilişkiler #farkındalık #odaklanma #zihinselnetlik #dijitaldenge #kişiselgelişim #motivasyon #derinodak #zihin #keşfet #sağlıklıyaşam #akıllıkullanım #shorts #reels",
+      "cta": "Kaydet ve bir sonraki yemekte telefonunu masaya koyan arkadaşına gönder!"
+    }
+  },
+  "cover": {
+    "title": "TELEFONU MASAYA KOYMAK",
+    "badge": "KENDİNİ TEST ET",
+    "punch_line": "ASLINDA NE ANLAMA GELİYOR?"
+  }
+}

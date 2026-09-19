@@ -1,0 +1,78 @@
+{
+  "campaign_goal": "viral_awareness",
+  "selected_candidate": "cand_32.1_60.2",
+  "candidates": [
+    {
+      "id": "cand_32.1_60.2",
+      "start": 32.1,
+      "end": 60.24,
+      "duration": 28.14,
+      "hook_text": "families and we put the phone on the",
+      "punchline_text": "and this is how we should be interacting",
+      "scores": {
+        "hook_power": 6.5,
+        "punchline_power": 5.0,
+        "standalone_context": 5.0,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 5.53,
+      "full_text_sample": "families and we put the phone on the table it sends a psychological message to everyone sitting there that you are not the most important th...",
+      "status": "ACCEPTED",
+      "rationale": "Top-ranked segment with highest combined hook (6.5/10) and punchline (5.0/10) score from transcript."
+    },
+    {
+      "id": "cand_3.6_32.1",
+      "start": 3.65,
+      "end": 32.1,
+      "duration": 28.45,
+      "hook_text": "I just want to show you something",
+      "punchline_text": "or we sit down for dinner with our",
+      "scores": {
+        "hook_power": 5.0,
+        "punchline_power": 5.0,
+        "standalone_context": 6.0,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 5.2,
+      "full_text_sample": "I just want to show you something this is the psychological power of the device what if I was sitting here talking to you holding my phone i...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (5.2 vs 5.53)."
+    },
+    {
+      "id": "cand_82.9_111.8",
+      "start": 82.86,
+      "end": 111.78,
+      "duration": 28.92,
+      "hook_text": "if you have to take your phone from room",
+      "punchline_text": "the car leave it in the bag never take",
+      "scores": {
+        "hook_power": 5.0,
+        "punchline_power": 5.0,
+        "standalone_context": 5.0,
+        "niche_alignment": 5.8
+      },
+      "composite_score": 5.12,
+      "full_text_sample": "if you have to take your phone from room to room no matter where you go you probably have a problem and just like any recreational drug the ...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (5.12 vs 5.53)."
+    },
+    {
+      "id": "cand_51.1_79.9",
+      "start": 51.06,
+      "end": 79.86,
+      "duration": 28.8,
+      "hook_text": "in",
+      "punchline_text": "morning to the person sitting next to",
+      "scores": {
+        "hook_power": 5.0,
+        "punchline_power": 5.0,
+        "standalone_context": 5.0,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 5.0,
+      "full_text_sample": "in and put it in a bag or on a shelf out of sight and this is how we should be interacting with people giving them our full attention becaus...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (5.0 vs 5.53)."
+    }
+  ]
+}

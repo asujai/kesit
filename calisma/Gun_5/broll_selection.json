@@ -1,0 +1,47 @@
+{
+  "c01_texting_scrolling": {
+    "source_file": "calisma/Gun_5/dynamic_brolls/c01_texting_scrolling.mp4",
+    "provider": "pexels",
+    "asset_id": "7362704",
+    "duration": 19,
+    "width": 1080,
+    "height": 1920,
+    "description": "hands typing texting smartphone screen"
+  },
+  "c02_selfie_social": {
+    "source_file": "calisma/Gun_5/dynamic_brolls/c02_selfie_social.mp4",
+    "provider": "pexels",
+    "asset_id": "6317317",
+    "duration": 8,
+    "width": 2160,
+    "height": 3840,
+    "description": "young woman taking selfie smartphone smiling outdoors"
+  },
+  "c03_dinner_distraction": {
+    "source_file": "calisma/Gun_5/dynamic_brolls/c03_dinner_distraction.mp4",
+    "provider": "pexels",
+    "asset_id": "19302670",
+    "duration": 13,
+    "width": 1080,
+    "height": 1920,
+    "description": "people dining restaurant looking down smartphone"
+  },
+  "c04_neural_dopamine": {
+    "source_file": "calisma/Gun_5/dynamic_brolls/c04_neural_dopamine.mp4",
+    "provider": "pexels",
+    "asset_id": "35010179",
+    "duration": 10,
+    "width": 1080,
+    "height": 1920,
+    "description": "digital brain glowing neural network technology"
+  },
+  "c05_burnout_fatigue": {
+    "source_file": "calisma/Gun_5/dynamic_brolls/c05_burnout_fatigue.mp4",
+    "provider": "pexels",
+    "asset_id": "9063506",
+    "duration": 17,
+    "width": 2160,
+    "height": 4096,
+    "description": "tired exhausted person resting head hands desk indoor"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "query": "Sinan Canan dijital detoks dopamin ekran bağımlılığı",
+  "mode": "shorts",
+  "target_min_score": 85.0,
+  "meets_quality_threshold": false,
+  "total_rounds_executed": 3,
+  "rounds_history": [
+    {
+      "round": 1,
+      "query": "Sinan Canan dijital detoks dopamin ekran bağımlılığı",
+      "transcripts_found": 5,
+      "clips_evaluated": 40,
+      "best_round_score": 49.1,
+      "current_global_best": 68.0
+    },
+    {
+      "round": 2,
+      "query": "Sinan Canan dijital detoks dopamin ekran bağımlılığı podcast",
+      "transcripts_found": 1,
+      "clips_evaluated": 8,
+      "best_round_score": 56.5,
+      "current_global_best": 68.0
+    },
+    {
+      "round": 3,
+      "query": "Sinan Canan dijital detoks dopamin ekran bağımlılığı TEDx konuşması",
+      "transcripts_found": 1,
+      "clips_evaluated": 8,
+      "best_round_score": 51.35,
+      "current_global_best": 68.0
+    }
+  ],
+  "timestamp": "2026-09-20 01:18:46",
+  "total_unique_videos": 7,
+  "total_evaluated_clips": 56,
+  "execution_time_seconds": 187.22,
+  "jev_stats": {
+    "total_requests": 56,
+    "cache_hits": 0,
+    "total_cost_usd": 0.0020522039999999997
+  },
+  "champion": {
+    "start": 97.66,
+    "end": 126.6,
+    "duration": 28.94,
+    "hook_text": "Baran zevk almadığım şeyi neden yapayım diye sorabilirsin.",
+    "punchline_text": "Telefonunuza gelen bir mesajın ya da Instagram'daki o kırmızı kalbin sizi neden bu kadar mutlu ettiğini düşündünüz mü?",
+    "full_text": "Baran zevk almadığım şeyi neden yapayım diye sorabilirsin. Mesela 10 el oyun attın, hepsini kaybettin, bundan zevk almadın. Sonraki gün yine aynı oyunu oynuyorsun. Sosyal medyada 6 saat, 7 saat nedenini bilmeden yukarıya kaydırdın. Peki gerçekten 6 saatini yukarı kaydırmakla geçirmek istedin mi? Tatildeyken şöyle bir şey diyen birisini duydun mu hiç? \"Ah keşke şu an evde olsaydım da hiç düşünmeden yukarıya kaydırsaydım.\" Telefonunuza gelen bir mesajın ya da Instagram'daki o kırmızı kalbin sizi neden bu kadar mutlu ettiğini düşündünüz mü?",
+    "cue_count": 8,
+    "scores": {
+      "hook_prob": 0.77,
+      "standalone_prob": 0.48,
+      "topic_score": 3.88,
+      "viral_score": 3.47,
+      "composite_score": 68.0
+    },
+    "jev_latency_ms": 1129.8,
+    "jev_cost_usd": 3.8472e-05,
+    "source_video_id": "FPa6Q8jy2mc",
+    "source_video_title": "DOPAMINE FAST | Control your own life! | Baraneemo #3",
+    "source_video_url": "https://www.youtube.com/watch?v=FPa6Q8jy2mc",
+    "search_round": 1
+  },
+  "video_rankings": [
+    {
+      "start": 97.66,
+      "end": 126.6,
+      "duration": 28.94,
+      "hook_text": "Baran zevk almadığım şeyi neden yapayım diye sorabilirsin.",
+      "punchline_text": "Telefonunuza gelen bir mesajın ya da Instagram'daki o kırmızı kalbin sizi neden bu kadar mutlu ettiğini düşündünüz mü?",
+      "full_text": "Baran zevk almadığım şeyi neden yapayım diye sorabilirsin. Mesela 10 el oyun attın, hepsini kaybettin, bundan zevk almadın. Sonraki gün yine aynı oyunu oynuyorsun. Sosyal medyada 6 saat, 7 saat nedenini bilmeden yukarıya kaydırdın. Peki gerçekten 6 saatini yukarı kaydırmakla geçirmek istedin mi? Tatildeyken şöyle bir şey diyen birisini duydun mu hiç? \"Ah keşke şu an evde olsaydım da hiç düşünmeden yukarıya kaydırsaydım.\" Telefonunuza gelen bir mesajın ya da Instagram'daki o kırmızı kalbin sizi neden bu kadar mutlu ettiğini düşündünüz mü?",
+      "cue_count": 8,
+      "scores": {
+        "hook_prob": 0.77,
+        "standalone_prob": 0.48,
+        "topic_score": 3.88,
+        "viral_score": 3.47,
+        "composite_score": 68.0
+      },
+      "jev_latency_ms": 1129.8,
+      "jev_cost_usd": 3.8472e-05,
+      "source_video_id": "FPa6Q8jy2mc",
+      "source_video_title": "DOPAMINE FAST | Control your own life! | Baraneemo #3",
+      "source_video_url": "https://www.youtube.com/watch?v=FPa6Q8jy2mc",
+      "search_round": 1
+    },
+    {
+      "start": 18.76,
+      "end": 48.04,
+      "duration": 29.28,
+      "hook_text": "hayatımızın önemli bir kısmını ucuz",
+      "punchline_text": "bakmıyordum ama Aralık ayında böyle çok",
+      "full_text": "hayatımızın önemli bir kısmını ucuz dopamin kaynaklarını tüketerek harcıyoruz. Aslında vakit çabuk ve güzel geçiyormuş gibi görünse de sonunda elimizde kalan şey mutsuzluk, depresyon, kaygı, hayal kırıklığı ve hayatın boşa geçmesi. Ve ben videoya başlamadan önce sana şöyle bir soru sormak istiyorum. Açık yüreklilikle cevap vermeni ve yorumlara yazmanı da talep edeceğim bu mevzuyu. Ekran süren ne kadar telefonda? Şimdi ben telefonda ekran süresine pek bakmıyordum ama Aralık ayında böyle çok",
+      "cue_count": 13,
+      "scores": {
+        "hook_prob": 0.68,
+        "standalone_prob": 0.18,
+        "topic_score": 3.73,
+        "viral_score": 3.27,
+        "composite_score": 56.5
+      },
+      "jev_latency_ms": 1318.19,
+      "jev_cost_usd": 3.7548e-05,
+      "source_video_id": "9a45OVaaxAk",
+      "source_video_title": "Bu Yüzden Hiçbir Şey Yapamıyorsun: Ucuz Dopamin & Pahalı Dopamin",
+      "source_video_url": "https://www.youtube.com/watch?v=9a45OVaaxAk",
+      "search_round": 2
+    },
+    {
+      "start": 59.09,
+      "end": 88.34,
+      "duration": 29.25,
+      "hook_text": "her yerde mastürbasyon yapabilirsiniz ve",
+      "punchline_text": "mutlu ol dertlerinden kurtul prensibiyle",
+      "full_text": "her yerde mastürbasyon yapabilirsiniz ve Bu tamamen sizin kontrolünüzde dir Tam da burada birçoğunuzun duymuş olduğu fare deneyin den bahsetmek istiyorum biri saf bizi kokain olmak üzere iki katlı su verilen farelerin kokaini suya bağımlı olup yüksek doz kullanımından ölmeleri ile sonuçlanan deney mastürbasyon bağımlılığına o farelerin erişebildiği gibi erişebiliyor Ken mastürbasyon bizim için düğmeye bas ve mutlu ol dertlerinden kurtul prensibiyle",
+      "cue_count": 12,
+      "scores": {
+        "hook_prob": 0.69,
+        "standalone_prob": 0.14,
+        "topic_score": 3.12,
+        "viral_score": 3.73,
+        "composite_score": 55.0
+      },
+      "jev_latency_ms": 1229.83,
+      "jev_cost_usd": 3.6078e-05,
+      "source_video_id": "R2LUuf7Rvwo",
+      "source_video_title": "Mastürbasyonu Niçin Bırakmalısın? B:02",
+      "source_video_url": "https://www.youtube.com/watch?v=R2LUuf7Rvwo",
+      "search_round": 1
+    },
+    {
+      "start": 16.52,
+      "end": 46.0,
+      "duration": 29.48,
+      "hook_text": "çapta yapılan depresyon araştırmalarında depresyon oranlarının giderek arttığını",
+      "punchline_text": "Bizler elimizdeki dijital oyuncaklara ve eğlence sektörüne rağmen neden daha çok",
+      "full_text": "çapta yapılan depresyon araştırmalarında depresyon oranlarının giderek arttığını görüyoruz dünya mutluluk raporuna göre ise yüksek gelirli ülkelerde yaşayan insanlar son 10 yılda daha mutsuz hale geldi İnstagramda mutluluk pozları paylaşırken hiç de mutlu bir hayat yaşamıyoruz anlayacağınız Peki elinde hiçbir teknolojik alet bulunmayan atalarımız mutlu bir hayat sürmüş Ken Bizler elimizdeki dijital oyuncaklara ve eğlence sektörüne rağmen neden daha çok",
+      "cue_count": 6,
+      "scores": {
+        "hook_prob": 0.74,
+        "standalone_prob": 0.14,
+        "topic_score": 3.31,
+        "viral_score": 3.22,
+        "composite_score": 54.65
+      },
+      "jev_latency_ms": 1136.65,
+      "jev_cost_usd": 3.6372e-05,
+      "source_video_id": "W9TmRmvQZ7w",
+      "source_video_title": "Dopamin Bağımlılığı Beynimizi Nasıl Etkiler?",
+      "source_video_url": "https://www.youtube.com/watch?v=W9TmRmvQZ7w",
+      "search_round": 1
+    },
+    {
+      "start": 49.06,
+      "end": 81.72,
+      "duration": 32.66,
+      "hook_text": "tableti bırakın gidin ve kitap okuyun gibi klişe laflar söylemeyeceğim.",
+      "punchline_text": "İşte bu kafa karışıklığı, kitap okumanın çok da elzem olmadığını düşündürtebilir size,",
+      "full_text": "tableti bırakın gidin ve kitap okuyun gibi klişe laflar söylemeyeceğim. Bence ikisi de gerekli çünkü. Ama ikisi de öylesine kullanıldığında, pek de bir anlam ifade etmeyebiliyor. Bazen öyle insanlar vardır ki, elinde neredeyse hiç kitap göremezsiniz ama son derece zeki ve bilgilidirler. Bazen de öyle insanlar vardır ki, sürekli okuyorlardır ama pek de zekası ve bilgisiyle öne çıkmazlar. İşte bu kafa karışıklığı, kitap okumanın çok da elzem olmadığını düşündürtebilir size,",
+      "cue_count": 8,
+      "scores": {
+        "hook_prob": 0.6,
+        "standalone_prob": 0.24,
+        "topic_score": 2.95,
+        "viral_score": 3.12,
+        "composite_score": 51.35
+      },
+      "jev_latency_ms": 1368.02,
+      "jev_cost_usd": 3.7044e-05,
+      "source_video_id": "O04_SXPuIv4",
+      "source_video_title": "Kitap okumak beynimizi nasıl etkiliyor?",
+      "source_video_url": "https://www.youtube.com/watch?v=O04_SXPuIv4",
+      "search_round": 3
+    },
+    {
+      "start": 7.13,
+      "end": 36.57,
+      "duration": 29.44,
+      "hook_text": "ne yapıyorsun tamam merhabalar ben",
+      "punchline_text": "yardım edin anlıyorum her şey dönecek",
+      "full_text": "ne yapıyorsun tamam merhabalar ben doktor bora küçükyazıcı bunu size bunları belli bir soru sormak istiyorum bizim ergen bir evladımız var bilgisayar oyunlarına inanılmaz düşkün hiçbir şekilde bilgisayardan ayrılmak istemiyor hatta öyle ki biz uyandığımızda hadi artık bırak dediğimizde de öfke nöbetleri geçiriyor artık çok çaresiz ne yapacağımızı bilmiyoruz ne olur bize yardım edin anlıyorum her şey dönecek",
+      "cue_count": 11,
+      "scores": {
+        "hook_prob": 0.53,
+        "standalone_prob": 0.22,
+        "topic_score": 3.26,
+        "viral_score": 2.81,
+        "composite_score": 49.1
+      },
+      "jev_latency_ms": 1279.83,
+      "jev_cost_usd": 3.5784e-05,
+      "source_video_id": "hav8g_cDWTc",
+      "source_video_title": "ERGENLİK DÖNEMİ OYUN BAĞIMLISI ERGENİ ANLAMAK - DR. BORA KÜÇÜKYAZICI VİDEOLARI",
+      "source_video_url": "https://www.youtube.com/watch?v=hav8g_cDWTc",
+      "search_round": 1
+    },
+    {
+      "start": 130.37,
+      "end": 159.08,
+      "duration": 28.71,
+      "hook_text": "Gelen bildirimleri tekrar tekrar kontrol etmek veya sevdiğimiz uygulamalara çok sık giriş yapmak bir süre sonra haz ile ilişkilendiriliyor.",
+      "punchline_text": "Şimdi biraz da sizden gelen soruları cevaplandırmak istiyorum.",
+      "full_text": "Gelen bildirimleri tekrar tekrar kontrol etmek veya sevdiğimiz uygulamalara çok sık giriş yapmak bir süre sonra haz ile ilişkilendiriliyor. Tıpkı diğer bağımlılıklarda olduğu gibi beyin bu davranışın tekrar tekrar yapılmasını haz veren bir davranış olduğu hükmüne varıyor. Bu sebeple de zaten bağımlılıklar için bir beyin hastalığıdır diyoruz. Çünkü direkt olarak nörokimyasal süreçlerin etkin olduğu bir problemden bahsediyoruz. Şimdi biraz da sizden gelen soruları cevaplandırmak istiyorum.",
+      "cue_count": 5,
+      "scores": {
+        "hook_prob": 0.17,
+        "standalone_prob": 0.45,
+        "topic_score": 3.9,
+        "viral_score": 2.49,
+        "composite_score": 47.45
+      },
+      "jev_latency_ms": 1286.41,
+      "jev_cost_usd": 3.6498e-05,
+      "source_video_id": "wRKoNKAi5LM",
+      "source_video_title": "SOCIAL MEDIA ADDICTION - Psychologist Arda Toksoy",
+      "source_video_url": "https://www.youtube.com/watch?v=wRKoNKAi5LM",
+      "search_round": 1
+    }
+  ]
+}

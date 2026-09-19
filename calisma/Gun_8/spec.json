@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "id": "gun_8_cal_newport",
+    "day": "Gun_8",
+    "title": "Sosyal Medyayı Bırak: 21. Yüzyıl Ekonomisinde Nadir ve Değerli Ol | Cal Newport",
+    "topic": "Derin Çalışma, Nadir Beceriler, Kolay Kopyalanan İçerikler ve Sosyal Medya Tuzağı",
+    "speaker": "Cal Newport",
+    "transcript_path": "calisma/Gun_8/sub_cal.en.vtt",
+    "provenance": {
+      "source_video": {
+        "raw_video_path": "calisma/Gun_8/clean_raw_cal.mp4",
+        "in_point": 0.0,
+        "out_point": 48.0,
+        "duration": 48.0
+      },
+      "candidate": {
+        "selection_mode": "agent_editorial",
+        "in_point": 0.0,
+        "out_point": 48.0,
+        "duration": 48.0,
+        "rationale": "Cal Newport explains why what the 21st century market rewards is rare and valuable work (craftsmanship/deep work) versus easy-to-replicate social media activities that any 6-year-old can do."
+      }
+    }
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_8/clean_raw_cal.mp4",
+    "in_point": 0.0,
+    "out_point": 48.0,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music1_eternity.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.23,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.73
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_rare_valuable_craft",
+      "source_file": "calisma/Gun_8/dynamic_brolls/c01_rare_valuable_craft.mp4",
+      "provider": "pexels",
+      "asset_id": "8321921",
+      "in_point": 2.0,
+      "start_t": 11.2,
+      "end_t": 15.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_mindless_scrolling",
+      "source_file": "calisma/Gun_8/dynamic_brolls/c02_mindless_scrolling.mp4",
+      "provider": "pexels",
+      "asset_id": "38410499",
+      "in_point": 2.0,
+      "start_t": 18.3,
+      "end_t": 25.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_kid_smartphone",
+      "source_file": "calisma/Gun_8/dynamic_brolls/c03_kid_smartphone.mp4",
+      "provider": "pexels",
+      "asset_id": "5904580",
+      "in_point": 1.0,
+      "start_t": 25.5,
+      "end_t": 32.8,
+      "speed": 1.0
+    },
+    {
+      "id": "c04_craftsman_deep_work",
+      "source_file": "calisma/Gun_8/dynamic_brolls/c04_craftsman_deep_work.mp4",
+      "provider": "pexels",
+      "asset_id": "5972923",
+      "in_point": 2.0,
+      "start_t": 37.0,
+      "end_t": 44.2,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.2,
+      "end": 3.8,
+      "text": "21. yüzyılın rekabetçi ekonomisinde,",
+      "highlight": "rekabetçi ekonomisinde"
+    },
+    {
+      "id": "sub_02",
+      "start": 4.0,
+      "end": 6.5,
+      "text": "piyasanın değer verdiği şey:",
+      "highlight": "değer verdiği şey"
+    },
+    {
+      "id": "sub_03",
+      "start": 6.6,
+      "end": 10.8,
+      "text": "nadir ve değerli şeyler üretme becerisidir.",
+      "highlight": "nadir ve değerli"
+    },
+    {
+      "id": "sub_04",
+      "start": 11.5,
+      "end": 15.2,
+      "text": "Nadir ve değerli bir şey üretirseniz, piyasa sizi ödüllendirir.",
+      "highlight": "piyasa sizi ödüllendirir"
+    },
+    {
+      "id": "sub_05",
+      "start": 15.5,
+      "end": 18.2,
+      "text": "Piyasanın asla umursamadığı şey ise,",
+      "highlight": "asla umursamadığı"
+    },
+    {
+      "id": "sub_06",
+      "start": 18.3,
+      "end": 22.8,
+      "text": "kolayca kopyalanan ve değersiz aktivitelerdir.",
+      "highlight": "kolayca kopyalanan"
+    },
+    {
+      "id": "sub_07",
+      "start": 23.0,
+      "end": 26.5,
+      "text": "Sosyal medya kullanımı tam olarak budur:",
+      "highlight": "Sosyal medya kullanımı"
+    },
+    {
+      "id": "sub_08",
+      "start": 26.6,
+      "end": 29.5,
+      "text": "Taklidi çocuk oyuncağı olan ve neredeyse sıfır değer üreten bir eylem.",
+      "highlight": "sıfır değer üreten"
+    },
+    {
+      "id": "sub_09",
+      "start": 29.6,
+      "end": 32.8,
+      "text": "Akıllı telefonu olan 6 yaşındaki bir çocuğun bile yapabileceği bir şey!",
+      "highlight": "6 yaşındaki bir çocuğun"
+    },
+    {
+      "id": "sub_10",
+      "start": 33.0,
+      "end": 36.8,
+      "text": "Tanım gereği piyasa, bu davranışlara asla değer vermez.",
+      "highlight": "asla değer vermez"
+    },
+    {
+      "id": "sub_11",
+      "start": 37.0,
+      "end": 40.8,
+      "text": "Piyasa bunun yerine, gerçek beceriler geliştirmeyi gerektiren,",
+      "highlight": "gerçek beceriler"
+    },
+    {
+      "id": "sub_12",
+      "start": 41.0,
+      "end": 44.2,
+      "text": "derin ve yoğun odaklanmış çalışmayı ödüllendirir.",
+      "highlight": "yoğun odaklanmış çalışmayı"
+    },
+    {
+      "id": "sub_13",
+      "start": 44.4,
+      "end": 46.0,
+      "text": "Tıpkı bir zanaatkâr gibi...",
+      "highlight": "bir zanaatkâr gibi"
+    },
+    {
+      "id": "sub_14",
+      "start": 46.1,
+      "end": 47.8,
+      "text": "Nadir olanı ve gerçekten değerli olanı!",
+      "highlight": "Nadir ve gerçekten değerli"
+    }
+  ],
+  "publish": {
+    "youtube": {
+      "title_1": "Sosyal Medyayı Bırak: Nadir ve Değerli Ol | Cal Newport",
+      "title_2": "6 Yaşındaki Çocuğun Yaptığı Şey Seni Değerli Kılmaz!",
+      "title_3": "21. Yüzyıl Ekonomisinde Piyasa Neyi Ödüllendirir? | Cal Newport",
+      "description": "21. yüzyılın rekabetçi piyasasında sizi ne değerli kılar? Deep Work (Derin Çalışma) ve Dijital Minimalizm kitaplarının yazarı Dr. Cal Newport, sosyal medya gibi kolay taklit edilen aktivitelerin pazarda sıfır değer ürettiğini; piyasanın yalnızca zanaatkâr gibi derin odaklanmayla üretilen nadir ve değerli becerileri ödüllendirdiğini anlatıyor.\\n\\n#calnewport #derinçalışma #dijitalminimalizm #odaklanma #üretkenlik #başarı #shorts",
+      "tags": [
+        "cal newport",
+        "derin çalışma",
+        "deep work",
+        "dijital minimalizm",
+        "odaklanma",
+        "başarı",
+        "üretkenlik",
+        "shorts"
+      ],
+      "pinned_comment": "Günde kaç saatinizi kolay taklit edilen içeriklere harcıyorsunuz? Gerçekten nadir ve değerli bir beceri geliştiriyor musunuz? Yorumlarda buluşalım."
+    },
+    "youtube_en": {
+      "title_1": "Quit Social Media: Be Rare & Valuable | Dr. Cal Newport",
+      "title_2": "What Any 6-Year-Old Can Do Won't Make You Valuable! #Shorts",
+      "title_3": "The Brutal Truth About Social Media & Career Success | Cal Newport",
+      "description": "In a competitive 21st-century economy, what does the market actually reward? Computer science professor and author of Deep Work, Dr. Cal Newport, explains why activities that are easy to replicate—like social media—produce almost no economic value. If you want to thrive, build rare and valuable skills like a true craftsman.\\n\\n#calnewport #deepwork #digitalminimalism #productivity #careersuccess #focus #shorts",
+      "tags": [
+        "cal newport",
+        "deep work",
+        "digital minimalism",
+        "productivity",
+        "focus",
+        "career advice",
+        "rare and valuable",
+        "shorts"
+      ],
+      "pinned_comment": "Are you spending your time on deep work, or things any 6-year-old with a phone can do? Share your thoughts below! 👇"
+    },
+    "instagram": {
+      "hook": "Sosyal medyada saatlerce kaydırmak seni piyasada vazgeçilmez mi yapıyor sanıyorsun? Dr. Cal Newport'tan tokat gibi gerçek!",
+      "caption": "21. yüzyılın acımasız piyasasında neye değer verilir?\\n\\nDr. Cal Newport (Deep Work yazarı) özetliyor:\\n1. Piyasa sadece nadir ve değerli olan şeyleri ödüllendirir.\\n2. Kolayca kopyalanan ve herkesin yapabildiği şeyler pazarda hızla değer kaybeder.\\n3. Sosyal medya kullanımı, 6 yaşındaki bir çocuğun bile akıllı telefonla yapabileceği bir eylemdir. Dolayısıyla size gerçek bir piyasa değeri katmaz.\\n4. Gerçek başarı, tıpkı bir zanaatkâr gibi dikkatinizi dağıtmadan derin odaklanmayla nadir beceriler inşa etmekten geçer.",
+      "hashtags": "#calnewport #derinçalışma #deepwork #dijitalminimalizm #odaklanma #kişiselgelişim #üretkenlik #kariyer #başarı #zamanıverimlikullanma #disiplin #motivasyon #hedef #farkındalık #psikoloji #keşfet #reels",
+      "cta": "Bu videoyu derin çalışmaya odaklanmak isteyen bir dostunla paylaş ve kaydet!"
+    }
+  },
+  "cover": {
+    "title": "SOSYAL MEDYAYI BIRAKINCA",
+    "badge": "DERİN ÇALIŞMA",
+    "punch_line": "GERÇEKTEN DEĞERLİ OL!"
+  }
+}

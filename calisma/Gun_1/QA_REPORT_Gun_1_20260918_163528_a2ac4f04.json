@@ -1,0 +1,44 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.033s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 4 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_1\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.1 LUFS, True Peak: -1.4 dBFS)",
+  "semantic_fidelity": "PASSED (PASSED: High semantic fidelity to transcript)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "PASSED",
+  "failures": [],
+  "build_id": "Gun_1_20260918_163528_a2ac4f04",
+  "sha256": "a2ac4f040c919cfcef3183af2866e392bbf68d2e8b58652d89b3c68229677823",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_casino",
+      "interval": "5.50s - 7.80s",
+      "media_type": "video",
+      "pixel_diff": 7.278
+    },
+    {
+      "cut_id": "c02_addict",
+      "interval": "7.80s - 12.00s",
+      "media_type": "video",
+      "pixel_diff": 41.9025
+    },
+    {
+      "cut_id": "c03_bed",
+      "interval": "19.50s - 23.40s",
+      "media_type": "video",
+      "pixel_diff": 1.4319
+    },
+    {
+      "cut_id": "c04_scroll",
+      "interval": "23.40s - 27.50s",
+      "media_type": "video",
+      "pixel_diff": 11.572
+    }
+  ],
+  "timestamp": "2026-09-18T16:35:31.943203",
+  "language": "en",
+  "delivery_status": "DEPLOYED",
+  "overall_status": "PASSED"
+}

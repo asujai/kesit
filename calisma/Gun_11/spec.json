@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "id": "gun_11_beyhan_budak_hicbir_sey_yapma",
+    "day": "Gun_11",
+    "title": "Tembelliği ve Ertelemeyi Bitiren Yöntem: 'Hiçbir Şey Yapma!' | Beyhan Budak",
+    "topic": "Erteleme Hastalığı, Tembellik Çözümleri, Dopamin Orucu ve Odaklanma",
+    "speaker": "Uzman Klinik Psikolog Beyhan Budak",
+    "transcript_path": "calisma/Gun_11/subtitles.json",
+    "provenance": {
+      "source_video": {
+        "raw_video_path": "calisma/Gun_11/base_source.mp4",
+        "in_point": 1.80,
+        "out_point": 36.65,
+        "duration": 34.85
+      },
+      "candidate": {
+        "selection_mode": "agent_editorial",
+        "in_point": 1.80,
+        "out_point": 36.65,
+        "duration": 34.85,
+        "rationale": "Beyhan Budak explains the 'Do Nothing' psychological protocol against procrastination: if you can't focus on studying or working, put your phone in another room, stare at a blank wall if needed, and let sensory boredom naturally restore deep focus."
+      }
+    }
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_11/base_source.mp4",
+    "crop_filter": "crop=1215:2160:1312:0,scale=1080:1920",
+    "in_point": 1.80,
+    "out_point": 36.65,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music1_eternity.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.18,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.50
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_procrastinating_desk_student",
+      "source_file": "calisma/Gun_11/dynamic_brolls/c01_procrastinating_desk_student.mp4",
+      "provider": "pexels",
+      "asset_id": "8086494",
+      "in_point": 1.0,
+      "start_t": 4.5,
+      "end_t": 8.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_putting_phone_away",
+      "source_file": "calisma/Gun_11/dynamic_brolls/c02_putting_phone_away.mp4",
+      "provider": "pexels",
+      "asset_id": "8810534",
+      "in_point": 1.0,
+      "start_t": 13.0,
+      "end_t": 17.0,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_staring_at_blank_wall",
+      "source_file": "calisma/Gun_11/dynamic_brolls/c03_staring_at_blank_wall.mp4",
+      "provider": "pexels",
+      "asset_id": "6382073",
+      "in_point": 1.0,
+      "start_t": 20.0,
+      "end_t": 24.5,
+      "speed": 1.0
+    },
+    {
+      "id": "c05_deep_focus_work_flow",
+      "source_file": "calisma/Gun_11/dynamic_brolls/c05_deep_focus_work_flow.mp4",
+      "provider": "pexels",
+      "asset_id": "6549985",
+      "in_point": 1.0,
+      "start_t": 28.5,
+      "end_t": 31.5,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.00,
+      "end": 2.20,
+      "text": "Bu yöntemin mantığı şu:",
+      "highlight": "mantığı şu"
+    },
+    {
+      "id": "sub_02",
+      "start": 2.20,
+      "end": 4.70,
+      "text": "Ders çalışman mı gerekiyor?",
+      "highlight": "Ders çalışman"
+    },
+    {
+      "id": "sub_03",
+      "start": 4.70,
+      "end": 7.00,
+      "text": "Çalışmak istemiyorsan\notur, boş otur!",
+      "highlight": "boş otur"
+    },
+    {
+      "id": "sub_04",
+      "start": 7.00,
+      "end": 8.80,
+      "text": "Hiçbir şey yapma!",
+      "highlight": "Hiçbir şey yapma"
+    },
+    {
+      "id": "sub_05",
+      "start": 8.80,
+      "end": 11.20,
+      "text": "Ya da bir kitap okuman\ngerekiyor...",
+      "highlight": "kitap okuman"
+    },
+    {
+      "id": "sub_06",
+      "start": 11.20,
+      "end": 13.50,
+      "text": "Onun yerine gidip\ntelefona bakma!",
+      "highlight": "telefona bakma"
+    },
+    {
+      "id": "sub_07",
+      "start": 13.50,
+      "end": 16.50,
+      "text": "Telefonu öbür odaya koy,\nhiçbir şey yapma!",
+      "highlight": "öbür odaya koy"
+    },
+    {
+      "id": "sub_08",
+      "start": 16.50,
+      "end": 19.50,
+      "text": "Görevi yapıyorsan yap,\nyapmıyorsan...",
+      "highlight": "Görevi yapıyorsan"
+    },
+    {
+      "id": "sub_09",
+      "start": 19.50,
+      "end": 23.50,
+      "text": "Eğlenceli, keyif verici\nbir şeyle oyalama!",
+      "highlight": "oyalama"
+    },
+    {
+      "id": "sub_10",
+      "start": 23.50,
+      "end": 26.50,
+      "text": "Gerekirse duvara boş boş bak,",
+      "highlight": "duvara boş boş bak"
+    },
+    {
+      "id": "sub_11",
+      "start": 26.50,
+      "end": 28.80,
+      "text": "Ama yerine bir şey koyma!",
+      "highlight": "bir şey koyma"
+    },
+    {
+      "id": "sub_12",
+      "start": 28.80,
+      "end": 31.00,
+      "text": "Ve sonrasında beynin sıkılınca,",
+      "highlight": "beynin sıkılınca"
+    },
+    {
+      "id": "sub_13",
+      "start": 31.00,
+      "end": 34.85,
+      "text": "Odaklanman ÇOK DAHA\nKOLAY OLACAK!",
+      "highlight": "KOLAY OLACAK"
+    }
+  ],
+  "cover": {
+    "image_path": "calisma/Gun_11/Gun_11_Shorts_Kapak.jpg",
+    "badge": "PSİKOLOJİK ÇÖZÜM",
+    "title_line1": "TEMBELLİĞİ BİTİREN YÖNTEM:",
+    "title_line2": "\"HİÇBİR ŞEY YAPMA!\""
+  },
+  "publish": {
+    "youtube": {
+      "title_1": "Tembelliği ve Ertelemeyi Bitiren Yöntem: 'Hiçbir Şey Yapma!' | Beyhan Budak",
+      "title_2": "Ders Çalışamıyor musun? Telefonu Bırak, Boş Duvara Bak! (Psikolojik Çözüm)",
+      "title_3": "Erteleme Hastalığını Yok Eden Basit Taktik | Beyhan Budak",
+      "description": "Uzman Klinik Psikolog Beyhan Budak, erteleme ve tembelliğe karşı en etkili nörolojik çözümlerden birini paylaşıyor: Çalışmak istemiyorsan telefonla vakit geçirmek yerine 'hiçbir şey yapma' yöntemini uygula. Telefonu öbür odaya koy, gerekirse boş duvara bak! Beynin yapay dopamin uyarımından mahrum kaldığında, ertelediğin işe odaklanmak çok daha kolay hale gelecektir.\n\n🎙️ Konuşmacı: Uzman Klinik Psikolog Beyhan Budak\n📌 Kaynak: Tembellikten Kurtulmak ve Başarılı Olmak İçin 8 Yöntem\n\n#beyhanbudak #erteleme #tembellik #psikoloji #odaklanma #dopaminorucu #üretkenlik #shorts",
+      "tags": [
+        "beyhan budak",
+        "erteleme hastalığı",
+        "tembellikten kurtulmak",
+        "odaklanma teknikleri",
+        "dopamin orucu",
+        "ders çalışma isteği",
+        "psikoloji",
+        "kişisel gelişim",
+        "üretkenlik",
+        "shorts"
+      ],
+      "pinned_comment": "Ders çalışırken veya çalışırken dikkatiniz dağıldığında hemen telefona sarılıyor musunuz, yoksa durup zihninizi dinlendirebiliyor musunuz? Yorumlarda buluşalım 👇"
+    },
+    "instagram": {
+      "hook": "Çalışmak istemiyorsan otur boş otur, hiçbir şey yapma!",
+      "caption": "Uzman Klinik Psikolog Beyhan Budak (@beyhanbudak), ertelemeyi ve tembelliği bitiren en güçlü psikolojik taktiklerden birini açıklıyor:\n\n'Diyelim ki ders çalışman veya bir iş bitirmen gerekiyor ama canın hiç istemiyor. Yapacağın en büyük hata, gidip telefonda kaydırmak veya keyif verici bir şeyle o görevi yer değiştirmektir!\n\nBunun yerine telefonu öbür odaya koy. Hiçbir şey yapma. Gerekirse duvara boş boş bak! Beynin sıkılınca ve yapay uyarandan mahrum kalınca, otomatikman yapman gereken işe odaklanman ÇOK DAHA KOLAY olacak.'\n\nZihnini yapay dopaminden kurtar, odaklanma gücünü geri kazan.",
+      "hashtags": "#beyhanbudak #ertelemehastalığı #tembellik #odaklanma #dopaminorucu #psikoloji #kişiselgelişim #motivasyon #derinçalışma #zihin #keşfet #reels #shorts",
+      "cta": "Sürekli işlerini erteleyen ve telefona bakan bir arkadaşına gönder! 📲"
+    }
+  }
+}

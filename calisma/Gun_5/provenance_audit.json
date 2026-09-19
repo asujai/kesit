@@ -1,0 +1,85 @@
+{
+  "build_id": "Gun_5_20260918_162340_7a7301a2",
+  "day": "Gun_5",
+  "source_video": "calisma/Gun_5/clean_raw_huberman.mp4",
+  "in_point": 0.0,
+  "out_point": 44.12,
+  "duration": null,
+  "provenance": {
+    "source_video": {
+      "raw_video_path": "calisma/Gun_5/clean_raw_huberman.mp4",
+      "in_point": 0.0,
+      "out_point": 44.12,
+      "duration": 44.12
+    },
+    "candidate": {
+      "selection_mode": "agent_editorial",
+      "in_point": 0.0,
+      "out_point": 44.12,
+      "duration": 44.12,
+      "rationale": "High-authority Stanford neurobiologist clip on smartphone dopamine stacking, loss of motivation, and depression risk."
+    }
+  },
+  "cuts_provenance": [
+    {
+      "id": "c01_texting",
+      "media_type": "video",
+      "start_t": 6.5,
+      "end_t": 9.5,
+      "duration": 3.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c01_texting_scrolling.mp4",
+      "content_hash": "4cf4b683208d1cbcf7a1064b8fe8cbc69eb79d39e14a4bbd8f701bfc2fe0c685"
+    },
+    {
+      "id": "c02_selfie",
+      "media_type": "video",
+      "start_t": 9.5,
+      "end_t": 13.5,
+      "duration": 4.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c02_selfie_social.mp4",
+      "content_hash": "300ca8015d451e24f56064ee935d69357667dbb66013f292a3a18fb9b86573ec"
+    },
+    {
+      "id": "c03_dinner",
+      "media_type": "video",
+      "start_t": 19.5,
+      "end_t": 24.5,
+      "duration": 5.0,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c03_dinner_distraction.mp4",
+      "content_hash": "d6985c18161adc8812cbe78534c826858cec9fa7f11dd6097a35931667bf91de"
+    },
+    {
+      "id": "c04_phone_engagement",
+      "media_type": "video",
+      "start_t": 29.5,
+      "end_t": 34.0,
+      "duration": 4.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c04_phone_engagement.mp4",
+      "content_hash": "2a2f0b0059145f7c7284bade440b90737b9daef0bd44cf015ffedbbef3cb9471"
+    },
+    {
+      "id": "c05_neural_dopamine",
+      "media_type": "video",
+      "start_t": 34.0,
+      "end_t": 38.5,
+      "duration": 4.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c04_neural_dopamine.mp4",
+      "content_hash": "980af178c4cff403fe6df1e098547d3a414a2c6281004e781fbe631002ae36f6"
+    },
+    {
+      "id": "c06_burnout_depression",
+      "media_type": "video",
+      "start_t": 38.5,
+      "end_t": 42.0,
+      "duration": 3.5,
+      "selection_source": "agent_editorial",
+      "source_file": "calisma/Gun_5/dynamic_brolls/c05_burnout_fatigue.mp4",
+      "content_hash": "acc5d73d5f1fabbac18463a4cfd46c17bde545666641e48832617610ee3e7c0a"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "resolution": "PASSED (1080x1920)",
+  "av_sync": "PASSED (delta: 0.010s; container stream duration alignment)",
+  "motion_anti_freeze": "PASSED (All 3 cuts dynamic/valid; frame pixel variance delta)",
+  "provenance_audit": "RECORDED (C:\\Users\\abdul\\kesiit\\calisma\\Gun_12\\provenance_audit.json)",
+  "loudness_ebu_r128": "PASSED (Integrated: -14.1 LUFS, True Peak: -1.4 dBFS)",
+  "fidelity_warnings": [],
+  "thumbnail_cover": "PASSED (1080x1920 verified)",
+  "qa_status": "FAILED",
+  "failures": [
+    "Fidelity Violation (youtube.description): Field 'youtube.description' asserts extreme sensational claim containing 'zehir' which has no grounding in speaker transcript."
+  ],
+  "build_id": "Gun_12_20260919_181350_3609d99e",
+  "sha256": "3609d99ee050a65262d6521269a8dd7fccb4fc1539dfa9e54509e154b9df7aa0",
+  "motion_analysis": [
+    {
+      "cut_id": "c01_fog_walking",
+      "interval": "4.40s - 11.50s",
+      "media_type": "video",
+      "pixel_diff": 29.9972
+    },
+    {
+      "cut_id": "c02_writing_strategy",
+      "interval": "16.00s - 22.50s",
+      "media_type": "video",
+      "pixel_diff": 45.9751
+    },
+    {
+      "cut_id": "c03_clock_timelapse",
+      "interval": "27.50s - 34.50s",
+      "media_type": "video",
+      "pixel_diff": 9.7271
+    }
+  ],
+  "timestamp": "2026-09-19T18:13:56.680193",
+  "language": "tr",
+  "delivery_status": "ABORTED",
+  "overall_status": "FAILED"
+}

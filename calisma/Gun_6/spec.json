@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "id": "gun_6_dr_justin_romano",
+    "day": "Gun_6",
+    "title": "Ekran Bağımlısı Olduğunuzu Gösteren 8 İşaret | Dr. Justin Romano",
+    "topic": "Ekran Bağımlılığı, Akıllı Telefon Toleransı ve Davranışsal İşaretler",
+    "speaker": "Dr. Justin Romano",
+    "transcript_path": "calisma/Gun_6/sub_romano.tr.vtt",
+    "provenance": {
+      "source_video": {
+        "raw_video_path": "calisma/Gun_6/clean_raw_romano.mp4",
+        "in_point": 0.0,
+        "out_point": 42.44,
+        "duration": 42.44
+      },
+      "candidate": {
+        "selection_mode": "agent_editorial",
+        "in_point": 0.0,
+        "out_point": 42.44,
+        "duration": 42.44,
+        "rationale": "Global TEDx speaker and psychiatrist Dr. Justin Romano outlines the 8 universal diagnostic signs of smartphone/screen addiction with a viral punchline."
+      }
+    }
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_6/clean_raw_romano.mp4",
+    "in_point": 0.0,
+    "out_point": 42.44,
+    "fps": 25,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music1_eternity.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.23,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.73
+  },
+  "watermark": {
+    "enabled": true,
+    "image_path": "assets/branding/watermark_zen_circle.png",
+    "x": "W-w-40",
+    "y": "H-h-130"
+  },
+  "cuts": [
+    {
+      "id": "c01_hazardous_driving",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c01_hazardous_driving.mp4",
+      "provider": "pexels",
+      "asset_id": "36067574",
+      "in_point": 1.0,
+      "start_t": 5.2,
+      "end_t": 9.8,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_social_isolation",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c02_social_isolation.mp4",
+      "provider": "pexels",
+      "asset_id": "7279738",
+      "in_point": 1.0,
+      "start_t": 9.8,
+      "end_t": 14.6,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_screentime_tolerance",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c03_screentime_tolerance.mp4",
+      "provider": "pexels",
+      "asset_id": "4318554",
+      "in_point": 0.5,
+      "start_t": 18.5,
+      "end_t": 21.7,
+      "speed": 1.0
+    },
+    {
+      "id": "c04_doomscroll_night",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c04_doomscroll_night.mp4",
+      "provider": "pexels",
+      "asset_id": "6598883",
+      "in_point": 1.0,
+      "start_t": 21.7,
+      "end_t": 27.8,
+      "speed": 1.0
+    },
+    {
+      "id": "c05_abandoned_hobbies",
+      "source_file": "calisma/Gun_6/dynamic_brolls/c05_abandoned_hobbies.mp4",
+      "provider": "pexels",
+      "asset_id": "6672202",
+      "in_point": 1.0,
+      "start_t": 27.8,
+      "end_t": 31.6,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.2,
+      "end": 2.5,
+      "text": "Genelde bağımlılığı bu işaretlerle tanımlarız.",
+      "highlight": "işaretlerle tanımlarız"
+    },
+    {
+      "id": "sub_02",
+      "start": 2.65,
+      "end": 5.1,
+      "text": "Sayın bakalım sizde kaç tanesi var:",
+      "highlight": "kaç tanesi var"
+    },
+    {
+      "id": "sub_03",
+      "start": 5.25,
+      "end": 7.5,
+      "text": "Tehlikeli kullanım; araba sürerken",
+      "highlight": "araba sürerken"
+    },
+    {
+      "id": "sub_04",
+      "start": 7.65,
+      "end": 9.8,
+      "text": "veya riskli anlarda telefona bakmak,",
+      "highlight": "riskli anlarda"
+    },
+    {
+      "id": "sub_05",
+      "start": 9.95,
+      "end": 12.3,
+      "text": "Bozulan sosyal ilişkiler; kendini izole etmek",
+      "highlight": "kendini izole etmek"
+    },
+    {
+      "id": "sub_06",
+      "start": 12.45,
+      "end": 14.5,
+      "text": "ve çevrendeki insanlardan kopmak,",
+      "highlight": "insanlardan kopmak"
+    },
+    {
+      "id": "sub_07",
+      "start": 14.65,
+      "end": 16.5,
+      "text": "Telefon yokken gelen yoksunluk krizi,",
+      "highlight": "yoksunluk krizi"
+    },
+    {
+      "id": "sub_08",
+      "start": 16.65,
+      "end": 18.4,
+      "text": "sürekli telefona aşerme dürtüsü,",
+      "highlight": "aşerme dürtüsü"
+    },
+    {
+      "id": "sub_09",
+      "start": 18.55,
+      "end": 21.6,
+      "text": "Artan tolerans; ekran sürenizin sinsice tırmanması,",
+      "highlight": "ekran sürenizin"
+    },
+    {
+      "id": "sub_10",
+      "start": 21.75,
+      "end": 24.5,
+      "text": "Kullanımı azaltmaya çalışıp bir türlü başaramamak,",
+      "highlight": "bir türlü başaramamak"
+    },
+    {
+      "id": "sub_11",
+      "start": 24.65,
+      "end": 27.8,
+      "text": "Planladığınızdan saatlerce fazla ekrana gömülmek,",
+      "highlight": "saatlerce fazla"
+    },
+    {
+      "id": "sub_12",
+      "start": 27.95,
+      "end": 31.5,
+      "text": "ve telefon için hobilerinizden vazgeçmek.",
+      "highlight": "hobilerinizden vazgeçmek"
+    },
+    {
+      "id": "sub_13",
+      "start": 31.65,
+      "end": 34.0,
+      "text": "İçinizden kaç kişi",
+      "highlight": "kaç kişi"
+    },
+    {
+      "id": "sub_14",
+      "start": 34.15,
+      "end": 36.8,
+      "text": "\"Eyvah, bu tam olarak benim\" hissini yaşadı?",
+      "highlight": "tam olarak benim"
+    },
+    {
+      "id": "sub_15",
+      "start": 36.95,
+      "end": 39.5,
+      "text": "Kendinizde görmüyorsanız bile,",
+      "highlight": "Kendinizde görmüyorsanız"
+    },
+    {
+      "id": "sub_16",
+      "start": 39.65,
+      "end": 42.4,
+      "text": "etrafınızdaki kaç kişide bu işaretleri görüyorsunuz?",
+      "highlight": "kaç kişide"
+    }
+  ],
+  "publish": {
+    "youtube": {
+      "title_1": "Ekran Bağımlısı mısın? (8 Gizli İşaret)",
+      "title_2": "Kaç Tanesi Sende Var? | Telefon Bağımlılığı Testi",
+      "title_3": "Beynin Bu Tuzağa Düştü mü? | TEDx Psikiyatrist Uyarısı",
+      "description": "Psikiyatrist Dr. Justin Romano, akıllı telefon ve ekran bağımlılığını tanımlayan 8 evrensel işareti açıklıyor. Direksiyon başında telefona bakmaktan geceleri durmaksızın kaydırmaya, hobileri terk etmekten yoksunluk krizine kadar teknoloji hayatımızı nasıl ele geçiriyor? Kendinizi test edin.",
+      "tags": [
+        "ekranbağımlılığı",
+        "telefonbağımlılığı",
+        "dijitaldetoks",
+        "psikiyatri",
+        "tedx",
+        "odaklanma",
+        "shorts"
+      ],
+      "pinned_comment": "Bu 8 işaretten kaç tanesi sende var? Yorumlarda dürüstçe yaz, yüzleşelim."
+    },
+    "youtube_en": {
+      "title_1": "8 Signs You're Addicted to Your Phone (Self-Check)",
+      "title_2": "Are You Screen Addicted? Psychiatrist Explains 8 Signs",
+      "title_3": "Do You Have Phone Addiction? Count How Many You Have!",
+      "description": "Psychiatrist Dr. Justin Romano reveals the 8 clinical warning signs of smartphone and screen addiction from his TEDx talk. From scrolling while driving to creeping screen time and giving up hobbies, how many of these do you experience daily?\n\n#screenaddiction #shorts #mentalhealth #psychology #phoneaddiction",
+      "tags": [
+        "screen addiction",
+        "phone addiction",
+        "mental health",
+        "tedx talk",
+        "psychiatry",
+        "habits",
+        "digital detox",
+        "shorts"
+      ],
+      "pinned_comment": "Be honest in the comments: How many of these 8 signs did you check off today? 👇"
+    },
+    "instagram": {
+      "hook": "Telefon bağımlısı olduğunu gösteren bu 8 işaretten kaç tanesi sende var? Kendini test et!",
+      "caption": "Psikiyatrist Dr. Justin Romano'nun küresel TEDx sahnesinde açıkladığı 8 işaret:\n1. Araba sürerken veya riskli anlarda telefona bakmak\n2. Sosyal izolasyon ve çevreden kopuş\n3. Telefon yokken gelen yoksunluk krizi\n4. Sürekli telefona aşerme dürtüsü\n5. Ekran süresinin sinsice artması (artan tolerans)\n6. Bırakmaya çalışıp iradenin yetmemesi\n7. Planlanandan saatlerce fazla ekrana gömülmek\n8. Hobilerden ve tutkulardan vazgeçmek\n\nKaç tanesi sende var?",
+      "hashtags": "#ekranbağımlılığı #telefonbağımlılığı #dijitaldetoks #odaklanma #psikoloji #zihin #tedx #kişiselgelişim #motivasyon #farkındalık #nörobilim #üretkenlik #sosyalmedya #dijitaldenge #derinodak #zihinselsağlık #akıllıkullanım #keşfet #sağlıklıyaşam #zihinselnetlik #kendinitestet #test #bağımlılık #alışkanlık #psikiyatri #bilim #yaşam #dijitalçağ #telefon #shorts",
+      "cta": "Kaydet ve arkadaşına gönder, onda kaç tanesi var birlikte görün!"
+    }
+  },
+  "cover": {
+    "title": "EKRAN BAĞIMLISI MISIN?",
+    "badge": "KENDİNİ TEST ET",
+    "punch_line": "BU 8 İŞARETE DİKKAT!"
+  }
+}

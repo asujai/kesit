@@ -1,0 +1,3636 @@
+{
+  "assets": {
+    "pexels_36067578": {
+      "provider": "pexels",
+      "asset_id": "36067578",
+      "media_type": "video",
+      "description": "Driver looking at phone in car traffic",
+      "query": "car driver smartphone traffic",
+      "tags": [
+        "car",
+        "traffic"
+      ],
+      "file_hash": "",
+      "created_at": "2026-09-18T01:50:59.905490",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 8.8,
+          "end_t": 10.5,
+          "duration": 1.7,
+          "notes": "Car console phone reach",
+          "timestamp": "2026-09-18T01:50:59.913368"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 12.1,
+          "end_t": 13.8,
+          "duration": 1.7,
+          "notes": "Driver looking down",
+          "timestamp": "2026-09-18T01:50:59.914512"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_9047387": {
+      "provider": "pexels",
+      "asset_id": "9047387",
+      "media_type": "video",
+      "description": "Two friends at cafe, one looking at phone",
+      "query": "friends cafe smartphone distraction",
+      "tags": [
+        "cafe",
+        "distraction"
+      ],
+      "file_hash": "",
+      "created_at": "2026-09-18T01:50:59.906566",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 13.8,
+          "end_t": 15.5,
+          "duration": 1.7,
+          "notes": "Cafe friend chat phone look",
+          "timestamp": "2026-09-18T01:50:59.915696"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_28048582": {
+      "provider": "pexels",
+      "asset_id": "28048582",
+      "media_type": "video",
+      "description": "Night bedroom phone glowing on pillow",
+      "query": "night bed smartphone pillow glowing",
+      "tags": [
+        "night",
+        "insomnia"
+      ],
+      "file_hash": "",
+      "created_at": "2026-09-18T01:50:59.907584",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 21.8,
+          "end_t": 23.5,
+          "duration": 1.7,
+          "notes": "Pillow glowing screen",
+          "timestamp": "2026-09-18T01:50:59.918997"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_10374888": {
+      "provider": "pexels",
+      "asset_id": "10374888",
+      "media_type": "video",
+      "description": "Fast vertical feed scrolling thumb",
+      "query": "scrolling phone fast feed",
+      "tags": [
+        "social media",
+        "scroll"
+      ],
+      "file_hash": "",
+      "created_at": "2026-09-18T01:50:59.908804",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 35.15,
+          "end_t": 36.95,
+          "duration": 1.8,
+          "notes": "Fast 2x feed scroll",
+          "timestamp": "2026-09-18T01:50:59.920048"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 38.55,
+          "end_t": 40.35,
+          "duration": 1.8,
+          "notes": "5000 touches rapid taps",
+          "timestamp": "2026-09-18T01:50:59.922320"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7822022": {
+      "provider": "pexels",
+      "asset_id": "7822022",
+      "media_type": "video",
+      "description": "iPhone screen message notification pop-up",
+      "query": "phone lockscreen message notification",
+      "tags": [
+        "notification",
+        "lockscreen"
+      ],
+      "file_hash": "",
+      "created_at": "2026-09-18T01:50:59.910080",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 15.5,
+          "end_t": 17.0,
+          "duration": 1.5,
+          "notes": "Notification alert on lock screen",
+          "timestamp": "2026-09-18T01:50:59.916950"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7817089": {
+      "provider": "pexels",
+      "asset_id": "7817089",
+      "media_type": "video",
+      "description": "Girl sitting at cafe table distracted by phone",
+      "query": "girl cafe smartphone table",
+      "tags": [
+        "cafe",
+        "distraction"
+      ],
+      "file_hash": "",
+      "created_at": "2026-09-18T01:50:59.911228",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 17.0,
+          "end_t": 18.6,
+          "duration": 1.6,
+          "notes": "Second cafe distracted girl",
+          "timestamp": "2026-09-18T01:50:59.917983"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_10374885": {
+      "provider": "pexels",
+      "asset_id": "10374885",
+      "media_type": "video",
+      "description": "Close up Instagram feed rapid scroll",
+      "query": "instagram feed fast scroll",
+      "tags": [
+        "scroll",
+        "feed"
+      ],
+      "file_hash": "",
+      "created_at": "2026-09-18T01:50:59.912214",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 36.95,
+          "end_t": 38.55,
+          "duration": 1.6,
+          "notes": "Close-up 2x feed scroll",
+          "timestamp": "2026-09-18T01:50:59.921072"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c01_bed_dark": {
+      "provider": "pexels",
+      "asset_id": "c01_bed_dark",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c01_bed_dark)",
+      "query": "",
+      "tags": [],
+      "file_hash": "4a8bf7c76e19397571162ff6bda91b36d656f1e11196c463ee39afe471556d15",
+      "created_at": "2026-09-18T02:12:14.850805",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 2.0,
+          "end_t": 3.7,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c01_bed_dark)",
+          "timestamp": "2026-09-18T02:12:14.856487"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 2.0,
+          "end_t": 3.7,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c01_bed_dark)",
+          "timestamp": "2026-09-18T02:30:34.090685"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 20.1,
+          "end_t": 21.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c10_night_dark)",
+          "timestamp": "2026-09-18T02:30:34.284940"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 2.0,
+          "end_t": 3.7,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c01_bed_dark)",
+          "timestamp": "2026-09-18T04:06:42.148804"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 20.1,
+          "end_t": 21.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c10_night_dark)",
+          "timestamp": "2026-09-18T04:06:42.347639"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 2.0,
+          "end_t": 3.7,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c01_bed_dark)",
+          "timestamp": "2026-09-18T04:38:01.844192"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 20.1,
+          "end_t": 21.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c10_night_dark)",
+          "timestamp": "2026-09-18T04:38:02.072741"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 2.0,
+          "end_t": 3.7,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c01_bed_dark)",
+          "timestamp": "2026-09-18T16:29:47.534200"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 20.1,
+          "end_t": 21.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c10_night_dark)",
+          "timestamp": "2026-09-18T16:29:47.752008"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c02_bed_screen": {
+      "provider": "pexels",
+      "asset_id": "c02_bed_screen",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c02_bed_screen)",
+      "query": "",
+      "tags": [],
+      "file_hash": "20c98b919c7f3314a2e0c171d0650ca915542159733309f80f08146fa0d7b00d",
+      "created_at": "2026-09-18T02:12:14.895315",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 3.7,
+          "end_t": 5.5,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c02_bed_screen)",
+          "timestamp": "2026-09-18T02:12:14.897442"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 3.7,
+          "end_t": 5.5,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c02_bed_screen)",
+          "timestamp": "2026-09-18T02:30:34.124873"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 21.8,
+          "end_t": 23.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c11_pillow_screen)",
+          "timestamp": "2026-09-18T02:30:34.318209"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 3.7,
+          "end_t": 5.5,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c02_bed_screen)",
+          "timestamp": "2026-09-18T04:06:42.182679"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 21.8,
+          "end_t": 23.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c11_pillow_screen)",
+          "timestamp": "2026-09-18T04:06:42.381513"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 3.7,
+          "end_t": 5.5,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c02_bed_screen)",
+          "timestamp": "2026-09-18T04:38:01.882648"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 21.8,
+          "end_t": 23.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c11_pillow_screen)",
+          "timestamp": "2026-09-18T04:38:02.111539"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 41.7,
+          "end_t": 46.5,
+          "duration": 4.8,
+          "notes": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c05_night_bed_phone)",
+          "timestamp": "2026-09-18T04:52:54.284455"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 39.3,
+          "end_t": 44.1,
+          "duration": 4.8,
+          "notes": "Build: Gun_4_20260918_050542_00a161e4 (cut c05_night_bed_phone)",
+          "timestamp": "2026-09-18T05:05:47.473875"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 39.3,
+          "end_t": 44.1,
+          "duration": 4.8,
+          "notes": "Build: Gun_4_20260918_162553_f160700f (cut c05_night_bed_phone)",
+          "timestamp": "2026-09-18T16:25:57.688884"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 3.7,
+          "end_t": 5.5,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c02_bed_screen)",
+          "timestamp": "2026-09-18T16:29:47.564370"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 21.8,
+          "end_t": 23.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c11_pillow_screen)",
+          "timestamp": "2026-09-18T16:29:47.789812"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c03_bus_passenger": {
+      "provider": "pexels",
+      "asset_id": "c03_bus_passenger",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c03_bus_passenger)",
+      "query": "",
+      "tags": [],
+      "file_hash": "f019232df943656b43236fb5960a7f0d3638c0cfdb4e19a8d25e5d1de130ff51",
+      "created_at": "2026-09-18T02:12:14.970564",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 5.5,
+          "end_t": 7.1,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c03_bus_passenger)",
+          "timestamp": "2026-09-18T02:12:14.972995"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 5.5,
+          "end_t": 7.1,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c03_bus_passenger)",
+          "timestamp": "2026-09-18T02:30:34.189789"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 5.5,
+          "end_t": 7.1,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c03_bus_passenger)",
+          "timestamp": "2026-09-18T04:06:42.248546"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 5.5,
+          "end_t": 7.1,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c03_bus_passenger)",
+          "timestamp": "2026-09-18T04:38:01.953772"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 5.5,
+          "end_t": 7.1,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c03_bus_passenger)",
+          "timestamp": "2026-09-18T16:29:47.630405"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c04_red_light": {
+      "provider": "pexels",
+      "asset_id": "c04_red_light",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c04_red_light)",
+      "query": "",
+      "tags": [],
+      "file_hash": "824196c5375aab2db9f848bcdeea2d7ee57c8db83117da36208172e7cdfc25b1",
+      "created_at": "2026-09-18T02:12:14.987041",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 7.1,
+          "end_t": 8.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c04_red_light)",
+          "timestamp": "2026-09-18T02:12:14.989380"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 7.1,
+          "end_t": 8.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c04_red_light)",
+          "timestamp": "2026-09-18T02:30:34.202013"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 7.1,
+          "end_t": 8.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c04_red_light)",
+          "timestamp": "2026-09-18T04:06:42.262101"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 7.1,
+          "end_t": 8.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c04_red_light)",
+          "timestamp": "2026-09-18T04:38:01.968957"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 7.1,
+          "end_t": 8.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c04_red_light)",
+          "timestamp": "2026-09-18T16:29:47.645857"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c05_car_hand": {
+      "provider": "pexels",
+      "asset_id": "c05_car_hand",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c05_car_hand)",
+      "query": "",
+      "tags": [],
+      "file_hash": "754b626978583447f8b6439ead373195612a3ec49e881187d2323a28d4266be7",
+      "created_at": "2026-09-18T02:12:15.000070",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 8.8,
+          "end_t": 10.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c05_car_hand)",
+          "timestamp": "2026-09-18T02:12:15.002757"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 8.8,
+          "end_t": 10.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c05_car_hand)",
+          "timestamp": "2026-09-18T02:30:34.211843"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 12.1,
+          "end_t": 13.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c06_driver_look)",
+          "timestamp": "2026-09-18T02:30:34.220619"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 8.8,
+          "end_t": 10.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c05_car_hand)",
+          "timestamp": "2026-09-18T04:06:42.271421"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 12.1,
+          "end_t": 13.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c06_driver_look)",
+          "timestamp": "2026-09-18T04:06:42.280327"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 8.8,
+          "end_t": 10.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c05_car_hand)",
+          "timestamp": "2026-09-18T04:38:01.981007"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 12.1,
+          "end_t": 13.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c06_driver_look)",
+          "timestamp": "2026-09-18T04:38:01.992613"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 8.8,
+          "end_t": 10.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c05_car_hand)",
+          "timestamp": "2026-09-18T16:29:47.658350"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 12.1,
+          "end_t": 13.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c06_driver_look)",
+          "timestamp": "2026-09-18T16:29:47.670537"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c06_driver_look": {
+      "provider": "pexels",
+      "asset_id": "c06_driver_look",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c06_driver_look)",
+      "query": "",
+      "tags": [],
+      "file_hash": "754b626978583447f8b6439ead373195612a3ec49e881187d2323a28d4266be7",
+      "created_at": "2026-09-18T02:12:15.012996",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 12.1,
+          "end_t": 13.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c06_driver_look)",
+          "timestamp": "2026-09-18T02:12:15.015667"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c07_cafe1": {
+      "provider": "pexels",
+      "asset_id": "c07_cafe1",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c07_cafe1)",
+      "query": "",
+      "tags": [],
+      "file_hash": "7ee75068a36e2d303dc1f5499ae3472278f124ecdd4ae8d1937f147b164be3de",
+      "created_at": "2026-09-18T02:12:15.034169",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 13.8,
+          "end_t": 15.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c07_cafe1)",
+          "timestamp": "2026-09-18T02:12:15.036673"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 13.8,
+          "end_t": 15.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c07_cafe1)",
+          "timestamp": "2026-09-18T02:30:34.237889"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 13.8,
+          "end_t": 15.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c07_cafe1)",
+          "timestamp": "2026-09-18T04:06:42.296804"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 13.8,
+          "end_t": 15.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c07_cafe1)",
+          "timestamp": "2026-09-18T04:38:02.013201"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 13.8,
+          "end_t": 15.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c07_cafe1)",
+          "timestamp": "2026-09-18T16:29:47.692281"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c08_notif_phone": {
+      "provider": "pexels",
+      "asset_id": "c08_notif_phone",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c08_notif_phone)",
+      "query": "",
+      "tags": [],
+      "file_hash": "68bea47aa92d25a70dba5ed12a7af9df3f0aa66d2adb246c8193279a6729658b",
+      "created_at": "2026-09-18T02:12:15.042144",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 15.5,
+          "end_t": 17.0,
+          "duration": 1.5,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c08_notif_phone)",
+          "timestamp": "2026-09-18T02:12:15.044497"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 15.5,
+          "end_t": 17.0,
+          "duration": 1.5,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c08_notif_phone)",
+          "timestamp": "2026-09-18T02:30:34.242526"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 15.5,
+          "end_t": 17.0,
+          "duration": 1.5,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c08_notif_phone)",
+          "timestamp": "2026-09-18T04:06:42.301651"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 15.5,
+          "end_t": 17.0,
+          "duration": 1.5,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c08_notif_phone)",
+          "timestamp": "2026-09-18T04:38:02.020502"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 15.5,
+          "end_t": 17.0,
+          "duration": 1.5,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c08_notif_phone)",
+          "timestamp": "2026-09-18T16:29:47.700329"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c09_cafe2": {
+      "provider": "pexels",
+      "asset_id": "c09_cafe2",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c09_cafe2)",
+      "query": "",
+      "tags": [],
+      "file_hash": "e0f2a7e06f13f2fdbe35171a2e0d31970396c3dc5b37694d42e24816cacae967",
+      "created_at": "2026-09-18T02:12:15.064705",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 17.0,
+          "end_t": 18.6,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c09_cafe2)",
+          "timestamp": "2026-09-18T02:12:15.067590"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 17.0,
+          "end_t": 18.6,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c09_cafe2)",
+          "timestamp": "2026-09-18T02:30:34.258820"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 17.0,
+          "end_t": 18.6,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c09_cafe2)",
+          "timestamp": "2026-09-18T04:06:42.320137"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 17.0,
+          "end_t": 18.6,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c09_cafe2)",
+          "timestamp": "2026-09-18T04:38:02.041232"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 17.0,
+          "end_t": 18.6,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c09_cafe2)",
+          "timestamp": "2026-09-18T16:29:47.720771"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c10_night_dark": {
+      "provider": "pexels",
+      "asset_id": "c10_night_dark",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c10_night_dark)",
+      "query": "",
+      "tags": [],
+      "file_hash": "4a8bf7c76e19397571162ff6bda91b36d656f1e11196c463ee39afe471556d15",
+      "created_at": "2026-09-18T02:12:15.099013",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 20.1,
+          "end_t": 21.8,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c10_night_dark)",
+          "timestamp": "2026-09-18T02:12:15.101915"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c11_pillow_screen": {
+      "provider": "pexels",
+      "asset_id": "c11_pillow_screen",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c11_pillow_screen)",
+      "query": "",
+      "tags": [],
+      "file_hash": "20c98b919c7f3314a2e0c171d0650ca915542159733309f80f08146fa0d7b00d",
+      "created_at": "2026-09-18T02:12:15.143565",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 21.8,
+          "end_t": 23.5,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c11_pillow_screen)",
+          "timestamp": "2026-09-18T02:12:15.146209"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c12_blue_face": {
+      "provider": "pexels",
+      "asset_id": "c12_blue_face",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c12_blue_face)",
+      "query": "",
+      "tags": [],
+      "file_hash": "158dd3a8c0b26efcc3ecdc730f301663a0df99047f2ad16ae74aad8bdc4e1cbd",
+      "created_at": "2026-09-18T02:12:15.173583",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 23.5,
+          "end_t": 25.2,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c12_blue_face)",
+          "timestamp": "2026-09-18T02:12:15.176430"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 23.5,
+          "end_t": 25.2,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c12_blue_face)",
+          "timestamp": "2026-09-18T02:30:34.341152"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 23.5,
+          "end_t": 25.2,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c12_blue_face)",
+          "timestamp": "2026-09-18T04:06:42.402912"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 23.5,
+          "end_t": 25.2,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c12_blue_face)",
+          "timestamp": "2026-09-18T04:38:02.137432"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 23.5,
+          "end_t": 25.2,
+          "duration": 1.7,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c12_blue_face)",
+          "timestamp": "2026-09-18T16:29:47.815001"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c13_phone_chains": {
+      "provider": "pexels",
+      "asset_id": "c13_phone_chains",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c13_phone_chains)",
+      "query": "",
+      "tags": [],
+      "file_hash": "3df56fc5d2491438f0953c7c2c56bfcb1f3cb5bcedc4ccf672b869e5c336cd7b",
+      "created_at": "2026-09-18T02:12:15.210146",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 33.35,
+          "end_t": 35.15,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c13_phone_chains)",
+          "timestamp": "2026-09-18T02:12:15.213034"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 33.35,
+          "end_t": 35.15,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c13_phone_chains)",
+          "timestamp": "2026-09-18T02:30:34.371322"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 33.35,
+          "end_t": 35.15,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c13_phone_chains)",
+          "timestamp": "2026-09-18T04:06:42.433386"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 33.35,
+          "end_t": 35.15,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c13_phone_chains)",
+          "timestamp": "2026-09-18T04:38:02.171718"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 33.35,
+          "end_t": 35.15,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c13_phone_chains)",
+          "timestamp": "2026-09-18T16:29:47.847851"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c14_scroll_fast1": {
+      "provider": "pexels",
+      "asset_id": "c14_scroll_fast1",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c14_scroll_fast1)",
+      "query": "",
+      "tags": [],
+      "file_hash": "adcef568f2e8c8346afe3adbfc61bd143a30be521b63beb1b43c619b992ca1af",
+      "created_at": "2026-09-18T02:12:15.220700",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 35.15,
+          "end_t": 36.95,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c14_scroll_fast1)",
+          "timestamp": "2026-09-18T02:12:15.223306"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 35.15,
+          "end_t": 36.95,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c14_scroll_fast1)",
+          "timestamp": "2026-09-18T02:30:34.376715"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 38.55,
+          "end_t": 40.35,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c16_scroll_fast2)",
+          "timestamp": "2026-09-18T02:30:34.385442"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 35.15,
+          "end_t": 36.95,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c14_scroll_fast1)",
+          "timestamp": "2026-09-18T04:06:42.439601"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 38.55,
+          "end_t": 40.35,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c16_scroll_fast2)",
+          "timestamp": "2026-09-18T04:06:42.449390"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 35.15,
+          "end_t": 36.95,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c14_scroll_fast1)",
+          "timestamp": "2026-09-18T04:38:02.179151"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 38.55,
+          "end_t": 40.35,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c16_scroll_fast2)",
+          "timestamp": "2026-09-18T04:38:02.192792"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 35.15,
+          "end_t": 36.95,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c14_scroll_fast1)",
+          "timestamp": "2026-09-18T16:29:47.856754"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 38.55,
+          "end_t": 40.35,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c16_scroll_fast2)",
+          "timestamp": "2026-09-18T16:29:47.872983"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c15_scroll_feed": {
+      "provider": "pexels",
+      "asset_id": "c15_scroll_feed",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c15_scroll_feed)",
+      "query": "",
+      "tags": [],
+      "file_hash": "a5aeb7aee3078dab137cbdd437005d7239fda55dd793ead2e3abcea7f663a471",
+      "created_at": "2026-09-18T02:12:15.229142",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 36.95,
+          "end_t": 38.55,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c15_scroll_feed)",
+          "timestamp": "2026-09-18T02:12:15.231956"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 36.95,
+          "end_t": 38.55,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_023025_bcd590e2 (cut c15_scroll_feed)",
+          "timestamp": "2026-09-18T02:30:34.380694"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 36.95,
+          "end_t": 38.55,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_040632_f712f591 (cut c15_scroll_feed)",
+          "timestamp": "2026-09-18T04:06:42.444023"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 36.95,
+          "end_t": 38.55,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_043752_27ab6450 (cut c15_scroll_feed)",
+          "timestamp": "2026-09-18T04:38:02.185483"
+        },
+        {
+          "day": "Gun_2",
+          "start_t": 36.95,
+          "end_t": 38.55,
+          "duration": 1.6,
+          "notes": "Build: Gun_2_20260918_162939_1899ccc2 (cut c15_scroll_feed)",
+          "timestamp": "2026-09-18T16:29:47.864068"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_c16_scroll_fast2": {
+      "provider": "pexels",
+      "asset_id": "c16_scroll_fast2",
+      "media_type": "video",
+      "description": "Build: Gun_2_20260918_021205_bcd590e2 (cut c16_scroll_fast2)",
+      "query": "",
+      "tags": [],
+      "file_hash": "adcef568f2e8c8346afe3adbfc61bd143a30be521b63beb1b43c619b992ca1af",
+      "created_at": "2026-09-18T02:12:15.238983",
+      "used_in": [
+        {
+          "day": "Gun_2",
+          "start_t": 38.55,
+          "end_t": 40.35,
+          "duration": 1.8,
+          "notes": "Build: Gun_2_20260918_021205_bcd590e2 (cut c16_scroll_fast2)",
+          "timestamp": "2026-09-18T02:12:15.242323"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6570510": {
+      "provider": "pexels",
+      "asset_id": "6570510",
+      "media_type": "video",
+      "description": "Build: Gun_3_20260918_024507_8a7e6f79 (cut c01_couch)",
+      "query": "",
+      "tags": [],
+      "file_hash": "81a99d9c3274dcb84e60585f8e9c897c4a4941a231886e178e1ac494a08c85f1",
+      "created_at": "2026-09-18T02:45:10.910924",
+      "used_in": [
+        {
+          "day": "Gun_3",
+          "start_t": 5.0,
+          "end_t": 11.2,
+          "duration": 6.2,
+          "notes": "Build: Gun_3_20260918_024507_8a7e6f79 (cut c01_couch)",
+          "timestamp": "2026-09-18T02:45:10.913796"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 5.0,
+          "end_t": 11.2,
+          "duration": 6.2,
+          "notes": "Build: Gun_3_20260918_024613_8a7e6f79 (cut c01_couch)",
+          "timestamp": "2026-09-18T02:46:16.780399"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 5.0,
+          "end_t": 11.2,
+          "duration": 6.2,
+          "notes": "Build: Gun_3_20260918_024829_bef4313a (cut c01_couch)",
+          "timestamp": "2026-09-18T02:48:33.088856"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 5.0,
+          "end_t": 11.2,
+          "duration": 6.2,
+          "notes": "Build: Gun_3_20260918_043642_06ac6219 (cut c01_couch)",
+          "timestamp": "2026-09-18T04:36:46.368634"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 5.0,
+          "end_t": 11.2,
+          "duration": 6.2,
+          "notes": "Build: Gun_3_20260918_162716_1fbff34b (cut c01_couch)",
+          "timestamp": "2026-09-18T16:27:20.144613"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6962433": {
+      "provider": "pexels",
+      "asset_id": "6962433",
+      "media_type": "video",
+      "description": "Build: Gun_3_20260918_024507_8a7e6f79 (cut c02_tap)",
+      "query": "",
+      "tags": [],
+      "file_hash": "4d261a2f76a639020ede24b6fdcc30e02bf199e868c60bfb106c129c2afc65cf",
+      "created_at": "2026-09-18T02:45:10.931878",
+      "used_in": [
+        {
+          "day": "Gun_3",
+          "start_t": 11.2,
+          "end_t": 16.0,
+          "duration": 4.8,
+          "notes": "Build: Gun_3_20260918_024507_8a7e6f79 (cut c02_tap)",
+          "timestamp": "2026-09-18T02:45:10.934667"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 11.2,
+          "end_t": 16.0,
+          "duration": 4.8,
+          "notes": "Build: Gun_3_20260918_024613_8a7e6f79 (cut c02_tap)",
+          "timestamp": "2026-09-18T02:46:16.791720"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 11.2,
+          "end_t": 16.0,
+          "duration": 4.8,
+          "notes": "Build: Gun_3_20260918_024829_bef4313a (cut c02_tap)",
+          "timestamp": "2026-09-18T02:48:33.101719"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 11.2,
+          "end_t": 16.0,
+          "duration": 4.8,
+          "notes": "Build: Gun_3_20260918_043642_06ac6219 (cut c02_tap)",
+          "timestamp": "2026-09-18T04:36:46.379660"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 11.2,
+          "end_t": 16.0,
+          "duration": 4.8,
+          "notes": "Build: Gun_3_20260918_162716_1fbff34b (cut c02_tap)",
+          "timestamp": "2026-09-18T16:27:20.156657"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7821861": {
+      "provider": "pexels",
+      "asset_id": "7821861",
+      "media_type": "video",
+      "description": "Build: Gun_3_20260918_024507_8a7e6f79 (cut c03_phone_glow)",
+      "query": "",
+      "tags": [],
+      "file_hash": "c668f6521880760dc12fc1dbcf10f228f89527af354cd4853904a64954236941",
+      "created_at": "2026-09-18T02:45:10.941562",
+      "used_in": [
+        {
+          "day": "Gun_3",
+          "start_t": 19.8,
+          "end_t": 25.0,
+          "duration": 5.2,
+          "notes": "Build: Gun_3_20260918_024507_8a7e6f79 (cut c03_phone_glow)",
+          "timestamp": "2026-09-18T02:45:10.944375"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 19.8,
+          "end_t": 25.0,
+          "duration": 5.2,
+          "notes": "Build: Gun_3_20260918_024613_8a7e6f79 (cut c03_phone_glow)",
+          "timestamp": "2026-09-18T02:46:16.797267"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 19.8,
+          "end_t": 25.0,
+          "duration": 5.2,
+          "notes": "Build: Gun_3_20260918_024829_bef4313a (cut c03_phone_glow)",
+          "timestamp": "2026-09-18T02:48:33.107293"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 19.8,
+          "end_t": 25.0,
+          "duration": 5.2,
+          "notes": "Build: Gun_3_20260918_043642_06ac6219 (cut c03_phone_glow)",
+          "timestamp": "2026-09-18T04:36:46.385123"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 19.8,
+          "end_t": 25.0,
+          "duration": 5.2,
+          "notes": "Build: Gun_3_20260918_162716_1fbff34b (cut c03_phone_glow)",
+          "timestamp": "2026-09-18T16:27:20.163764"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_35768976": {
+      "provider": "pexels",
+      "asset_id": "35768976",
+      "media_type": "video",
+      "description": "Build: Gun_3_20260918_024507_8a7e6f79 (cut c04_hiking)",
+      "query": "",
+      "tags": [],
+      "file_hash": "a0dea0d12e10c2292e954ba35d3df9dfaa462c7740dfd8714b779f353187be24",
+      "created_at": "2026-09-18T02:45:11.047071",
+      "used_in": [
+        {
+          "day": "Gun_3",
+          "start_t": 25.0,
+          "end_t": 31.0,
+          "duration": 6.0,
+          "notes": "Build: Gun_3_20260918_024507_8a7e6f79 (cut c04_hiking)",
+          "timestamp": "2026-09-18T02:45:11.050402"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 25.0,
+          "end_t": 31.0,
+          "duration": 6.0,
+          "notes": "Build: Gun_3_20260918_024613_8a7e6f79 (cut c04_hiking)",
+          "timestamp": "2026-09-18T02:46:16.850234"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 25.0,
+          "end_t": 31.0,
+          "duration": 6.0,
+          "notes": "Build: Gun_3_20260918_024829_bef4313a (cut c04_hiking)",
+          "timestamp": "2026-09-18T02:48:33.158177"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 25.0,
+          "end_t": 31.0,
+          "duration": 6.0,
+          "notes": "Build: Gun_3_20260918_043642_06ac6219 (cut c04_hiking)",
+          "timestamp": "2026-09-18T04:36:46.438086"
+        },
+        {
+          "day": "Gun_3",
+          "start_t": 25.0,
+          "end_t": 31.0,
+          "duration": 6.0,
+          "notes": "Build: Gun_3_20260918_162716_1fbff34b (cut c04_hiking)",
+          "timestamp": "2026-09-18T16:27:20.214352"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7310864": {
+      "provider": "pexels",
+      "asset_id": "7310864",
+      "media_type": "video",
+      "description": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c01_fast_scroll)",
+      "query": "",
+      "tags": [],
+      "file_hash": "ddf000e5780b4e95fa8e9d1859a57378c1e6b7ad9fa34e4113e0c9530c2a3f34",
+      "created_at": "2026-09-18T04:52:54.142024",
+      "used_in": [
+        {
+          "day": "Gun_4",
+          "start_t": 4.5,
+          "end_t": 8.9,
+          "duration": 4.4,
+          "notes": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c01_fast_scroll)",
+          "timestamp": "2026-09-18T04:52:54.145848"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 2.1,
+          "end_t": 6.5,
+          "duration": 4.4,
+          "notes": "Build: Gun_4_20260918_050542_00a161e4 (cut c01_fast_scroll)",
+          "timestamp": "2026-09-18T05:05:47.401290"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 2.1,
+          "end_t": 6.5,
+          "duration": 4.4,
+          "notes": "Build: Gun_4_20260918_162553_f160700f (cut c01_fast_scroll)",
+          "timestamp": "2026-09-18T16:25:57.594354"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_17808481": {
+      "provider": "pexels",
+      "asset_id": "17808481",
+      "media_type": "video",
+      "description": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c02_notification_tap)",
+      "query": "",
+      "tags": [],
+      "file_hash": "c1e31145e2e7ac9ef800863575fd65bccca1b5cb10e5cf2672269501e4d1c649",
+      "created_at": "2026-09-18T04:52:54.155963",
+      "used_in": [
+        {
+          "day": "Gun_4",
+          "start_t": 8.9,
+          "end_t": 13.1,
+          "duration": 4.2,
+          "notes": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c02_notification_tap)",
+          "timestamp": "2026-09-18T04:52:54.159547"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 6.5,
+          "end_t": 10.7,
+          "duration": 4.2,
+          "notes": "Build: Gun_4_20260918_050542_00a161e4 (cut c02_notification_tap)",
+          "timestamp": "2026-09-18T05:05:47.405920"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 6.5,
+          "end_t": 10.7,
+          "duration": 4.2,
+          "notes": "Build: Gun_4_20260918_162553_f160700f (cut c02_notification_tap)",
+          "timestamp": "2026-09-18T16:25:57.601725"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_3625771": {
+      "provider": "pexels",
+      "asset_id": "3625771",
+      "media_type": "video",
+      "description": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c03_screen_excitement)",
+      "query": "",
+      "tags": [],
+      "file_hash": "b75b762b1d3432e59d2481a1d86ec8c112af2a106e626ba39c9c4082ed63a615",
+      "created_at": "2026-09-18T04:52:54.178497",
+      "used_in": [
+        {
+          "day": "Gun_4",
+          "start_t": 19.4,
+          "end_t": 25.5,
+          "duration": 6.1,
+          "notes": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c03_screen_excitement)",
+          "timestamp": "2026-09-18T04:52:54.182422"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 17.0,
+          "end_t": 23.1,
+          "duration": 6.1,
+          "notes": "Build: Gun_4_20260918_050542_00a161e4 (cut c03_screen_excitement)",
+          "timestamp": "2026-09-18T05:05:47.414388"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 17.0,
+          "end_t": 23.1,
+          "duration": 6.1,
+          "notes": "Build: Gun_4_20260918_162553_f160700f (cut c03_screen_excitement)",
+          "timestamp": "2026-09-18T16:25:57.613762"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6388409": {
+      "provider": "pexels",
+      "asset_id": "6388409",
+      "media_type": "video",
+      "description": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c04_burnout_crash)",
+      "query": "",
+      "tags": [],
+      "file_hash": "00f3f51dae4ec1b02257ca5041a835633a2e6f7d26ceaed752882323af32146e",
+      "created_at": "2026-09-18T04:52:54.241987",
+      "used_in": [
+        {
+          "day": "Gun_4",
+          "start_t": 32.2,
+          "end_t": 37.0,
+          "duration": 4.8,
+          "notes": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c04_burnout_crash)",
+          "timestamp": "2026-09-18T04:52:54.245780"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 29.8,
+          "end_t": 34.6,
+          "duration": 4.8,
+          "notes": "Build: Gun_4_20260918_050542_00a161e4 (cut c04_burnout_crash)",
+          "timestamp": "2026-09-18T05:05:47.441411"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 29.8,
+          "end_t": 34.6,
+          "duration": 4.8,
+          "notes": "Build: Gun_4_20260918_162553_f160700f (cut c04_burnout_crash)",
+          "timestamp": "2026-09-18T16:25:57.648633"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_11267667": {
+      "provider": "pexels",
+      "asset_id": "11267667",
+      "media_type": "video",
+      "description": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c06_clock_timelapse)",
+      "query": "",
+      "tags": [],
+      "file_hash": "879d362cd5690654440c2eaaa7cba2ceee36d604cbe147f4fd647c214df1411a",
+      "created_at": "2026-09-18T04:52:54.290926",
+      "used_in": [
+        {
+          "day": "Gun_4",
+          "start_t": 46.5,
+          "end_t": 50.8,
+          "duration": 4.3,
+          "notes": "Build: Gun_4_20260918_045249_9b5f65e3 (cut c06_clock_timelapse)",
+          "timestamp": "2026-09-18T04:52:54.294597"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 44.1,
+          "end_t": 48.4,
+          "duration": 4.3,
+          "notes": "Build: Gun_4_20260918_050542_00a161e4 (cut c06_clock_timelapse)",
+          "timestamp": "2026-09-18T05:05:47.477597"
+        },
+        {
+          "day": "Gun_4",
+          "start_t": 44.1,
+          "end_t": 48.4,
+          "duration": 4.3,
+          "notes": "Build: Gun_4_20260918_162553_f160700f (cut c06_clock_timelapse)",
+          "timestamp": "2026-09-18T16:25:57.695227"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7362704": {
+      "provider": "pexels",
+      "asset_id": "7362704",
+      "media_type": "video",
+      "description": "hands typing texting smartphone screen",
+      "query": "hands typing texting smartphone screen",
+      "tags": [
+        "phone",
+        "texting",
+        "screen"
+      ],
+      "file_hash": "4cf4b683208d1cbcf7a1064b8fe8cbc69eb79d39e14a4bbd8f701bfc2fe0c685",
+      "created_at": "2026-09-18T05:18:11.241012",
+      "used_in": [
+        {
+          "day": "Gun_5",
+          "start_t": 6.2,
+          "end_t": 10.8,
+          "duration": 4.6,
+          "notes": "hands typing texting smartphone screen",
+          "timestamp": "2026-09-18T05:18:11.241038"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 6.2,
+          "end_t": 10.8,
+          "duration": 4.6,
+          "notes": "Build: Gun_5_20260918_051935_c0b902ce (cut c01_texting_scrolling)",
+          "timestamp": "2026-09-18T05:19:38.269451"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 6.5,
+          "end_t": 9.5,
+          "duration": 3.0,
+          "notes": "Build: Gun_5_20260918_053402_1eda3dba (cut c01_texting)",
+          "timestamp": "2026-09-18T05:34:05.677109"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 6.5,
+          "end_t": 9.5,
+          "duration": 3.0,
+          "notes": "Build: Gun_5_20260918_162340_7a7301a2 (cut c01_texting)",
+          "timestamp": "2026-09-18T16:23:44.397429"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6317317": {
+      "provider": "pexels",
+      "asset_id": "6317317",
+      "media_type": "video",
+      "description": "young woman taking selfie smartphone smiling outdoors",
+      "query": "young woman taking selfie smartphone smiling outdoors",
+      "tags": [
+        "selfie",
+        "social media",
+        "smile"
+      ],
+      "file_hash": "300ca8015d451e24f56064ee935d69357667dbb66013f292a3a18fb9b86573ec",
+      "created_at": "2026-09-18T05:18:11.260240",
+      "used_in": [
+        {
+          "day": "Gun_5",
+          "start_t": 10.8,
+          "end_t": 14.8,
+          "duration": 4.0,
+          "notes": "young woman taking selfie smartphone smiling outdoors",
+          "timestamp": "2026-09-18T05:18:11.260252"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 10.8,
+          "end_t": 14.8,
+          "duration": 4.0,
+          "notes": "Build: Gun_5_20260918_051935_c0b902ce (cut c02_selfie_social)",
+          "timestamp": "2026-09-18T05:19:38.287531"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 9.5,
+          "end_t": 13.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_5_20260918_053402_1eda3dba (cut c02_selfie)",
+          "timestamp": "2026-09-18T05:34:05.698625"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 9.5,
+          "end_t": 13.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_5_20260918_162340_7a7301a2 (cut c02_selfie)",
+          "timestamp": "2026-09-18T16:23:44.418357"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_19302670": {
+      "provider": "pexels",
+      "asset_id": "19302670",
+      "media_type": "video",
+      "description": "people dining restaurant looking down smartphone",
+      "query": "people dining restaurant looking down smartphone",
+      "tags": [
+        "dinner",
+        "restaurant",
+        "smartphone"
+      ],
+      "file_hash": "d6985c18161adc8812cbe78534c826858cec9fa7f11dd6097a35931667bf91de",
+      "created_at": "2026-09-18T05:18:11.267714",
+      "used_in": [
+        {
+          "day": "Gun_5",
+          "start_t": 19.8,
+          "end_t": 24.5,
+          "duration": 4.7,
+          "notes": "people dining restaurant looking down smartphone",
+          "timestamp": "2026-09-18T05:18:11.267725"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 19.8,
+          "end_t": 24.5,
+          "duration": 4.7,
+          "notes": "Build: Gun_5_20260918_051935_c0b902ce (cut c03_dinner_distraction)",
+          "timestamp": "2026-09-18T05:19:38.294553"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 19.5,
+          "end_t": 24.5,
+          "duration": 5.0,
+          "notes": "Build: Gun_5_20260918_053402_1eda3dba (cut c03_dinner)",
+          "timestamp": "2026-09-18T05:34:05.707479"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 19.5,
+          "end_t": 24.5,
+          "duration": 5.0,
+          "notes": "Build: Gun_5_20260918_162340_7a7301a2 (cut c03_dinner)",
+          "timestamp": "2026-09-18T16:23:44.427448"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_35010179": {
+      "provider": "pexels",
+      "asset_id": "35010179",
+      "media_type": "video",
+      "description": "digital brain glowing neural network technology",
+      "query": "digital brain glowing neural network technology",
+      "tags": [
+        "brain",
+        "neural",
+        "dopamine"
+      ],
+      "file_hash": "980af178c4cff403fe6df1e098547d3a414a2c6281004e781fbe631002ae36f6",
+      "created_at": "2026-09-18T05:18:11.288772",
+      "used_in": [
+        {
+          "day": "Gun_5",
+          "start_t": 29.8,
+          "end_t": 34.5,
+          "duration": 4.7,
+          "notes": "digital brain glowing neural network technology",
+          "timestamp": "2026-09-18T05:18:11.288783"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 29.8,
+          "end_t": 34.5,
+          "duration": 4.7,
+          "notes": "Build: Gun_5_20260918_051935_c0b902ce (cut c04_neural_dopamine)",
+          "timestamp": "2026-09-18T05:19:38.315100"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 34.0,
+          "end_t": 38.5,
+          "duration": 4.5,
+          "notes": "Build: Gun_5_20260918_053402_1eda3dba (cut c05_neural_dopamine)",
+          "timestamp": "2026-09-18T05:34:05.776342"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 34.0,
+          "end_t": 38.5,
+          "duration": 4.5,
+          "notes": "Build: Gun_5_20260918_162340_7a7301a2 (cut c05_neural_dopamine)",
+          "timestamp": "2026-09-18T16:23:44.494673"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_9063506": {
+      "provider": "pexels",
+      "asset_id": "9063506",
+      "media_type": "video",
+      "description": "tired exhausted person resting head hands desk indoor",
+      "query": "tired exhausted person resting head hands desk indoor",
+      "tags": [
+        "burnout",
+        "tired",
+        "exhaustion"
+      ],
+      "file_hash": "acc5d73d5f1fabbac18463a4cfd46c17bde545666641e48832617610ee3e7c0a",
+      "created_at": "2026-09-18T05:18:11.312338",
+      "used_in": [
+        {
+          "day": "Gun_5",
+          "start_t": 34.5,
+          "end_t": 38.5,
+          "duration": 4.0,
+          "notes": "tired exhausted person resting head hands desk indoor",
+          "timestamp": "2026-09-18T05:18:11.312349"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 34.5,
+          "end_t": 38.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_5_20260918_051935_c0b902ce (cut c05_burnout_fatigue)",
+          "timestamp": "2026-09-18T05:19:38.338973"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 38.5,
+          "end_t": 42.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_5_20260918_053402_1eda3dba (cut c06_burnout_depression)",
+          "timestamp": "2026-09-18T05:34:05.802517"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 38.5,
+          "end_t": 42.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_5_20260918_162340_7a7301a2 (cut c06_burnout_depression)",
+          "timestamp": "2026-09-18T16:23:44.520517"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_38410501": {
+      "provider": "pexels",
+      "asset_id": "38410501",
+      "media_type": "video",
+      "description": "scrolling through social media on smartphone in dark",
+      "query": "scrolling smartphone dark screen thumb",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "phone",
+        "social media",
+        "c01_instagram_scroll",
+        "scroll"
+      ],
+      "file_hash": "2a2f0b0059145f7c7284bade440b90737b9daef0bd44cf015ffedbbef3cb9471",
+      "created_at": "2026-09-18T05:32:03.845625",
+      "used_in": [
+        {
+          "day": "Gun_5",
+          "start_t": 29.5,
+          "end_t": 34.0,
+          "duration": 4.5,
+          "notes": "Phone scrolling engagement",
+          "timestamp": "2026-09-18T05:32:03.845654"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 29.5,
+          "end_t": 34.0,
+          "duration": 4.5,
+          "notes": "Build: Gun_5_20260918_053402_1eda3dba (cut c04_phone_engagement)",
+          "timestamp": "2026-09-18T05:34:05.751741"
+        },
+        {
+          "day": "Gun_5",
+          "start_t": 29.5,
+          "end_t": 34.0,
+          "duration": 4.5,
+          "notes": "Build: Gun_5_20260918_162340_7a7301a2 (cut c04_phone_engagement)",
+          "timestamp": "2026-09-18T16:23:44.470291"
+        },
+        {
+          "day": "Gun_1",
+          "start_t": 23.4,
+          "end_t": 27.5,
+          "duration": 4.1,
+          "notes": "Build: Gun_1_20260918_163528_a2ac4f04 (cut c04_scroll)",
+          "timestamp": "2026-09-18T16:35:32.121806"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 0.0,
+          "end_t": 3.8,
+          "duration": 3.8,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c01_instagram_scroll)",
+          "timestamp": "2026-09-18T23:19:26.843582"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 0.0,
+          "end_t": 3.8,
+          "duration": 3.8,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c01_instagram_scroll)",
+          "timestamp": "2026-09-18T23:20:53.422360"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 3.0,
+          "end_t": 6.5,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260919_015800_9693c133 (cut c01_instagram_scroll)",
+          "timestamp": "2026-09-19T01:58:05.061857"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 3.0,
+          "end_t": 6.5,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260919_015849_fb822149 (cut c01_instagram_scroll)",
+          "timestamp": "2026-09-19T01:58:53.917953"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_36067574": {
+      "provider": "pexels",
+      "asset_id": "36067574",
+      "media_type": "video",
+      "description": "Driver looking down and texting on smartphone while driving",
+      "query": "driver texting car",
+      "tags": [
+        "car",
+        "driving",
+        "texting",
+        "danger"
+      ],
+      "file_hash": "d34f1195019b29893c1240bae9e6c87a3d1a8c7ed70ae0116915fd7c0a8d2963",
+      "created_at": "2026-09-18T15:03:29.685638",
+      "used_in": [
+        {
+          "day": "Gun_6",
+          "start_t": 5.2,
+          "end_t": 9.8,
+          "duration": 4.6,
+          "notes": "Hazardous driving while using smartphone",
+          "timestamp": "2026-09-18T15:03:29.685660"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 5.2,
+          "end_t": 9.8,
+          "duration": 4.6,
+          "notes": "Build: Gun_6_20260918_150511_18cb2e5b (cut c01_hazardous_driving)",
+          "timestamp": "2026-09-18T15:05:14.998639"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 5.2,
+          "end_t": 9.8,
+          "duration": 4.6,
+          "notes": "Build: Gun_6_20260918_161423_18cb2e5b (cut c01_hazardous_driving)",
+          "timestamp": "2026-09-18T16:14:27.787438"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 5.2,
+          "end_t": 9.8,
+          "duration": 4.6,
+          "notes": "Build: Gun_6_20260918_161513_18cb2e5b (cut c01_hazardous_driving)",
+          "timestamp": "2026-09-18T16:15:16.388226"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 5.2,
+          "end_t": 9.8,
+          "duration": 4.6,
+          "notes": "Build: Gun_6_20260918_161550_0e6ac2d3 (cut c01_hazardous_driving)",
+          "timestamp": "2026-09-18T16:15:54.044358"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7279738": {
+      "provider": "pexels",
+      "asset_id": "7279738",
+      "media_type": "video",
+      "description": "Person alone in dark moody room absorbed in smartphone",
+      "query": "alone dark room phone",
+      "tags": [
+        "isolation",
+        "alone",
+        "darkness",
+        "smartphone"
+      ],
+      "file_hash": "6c875918e12d9d177db1d4a1e4011c4282981c9d095b23adf3f42a26493a42b2",
+      "created_at": "2026-09-18T15:03:29.685662",
+      "used_in": [
+        {
+          "day": "Gun_6",
+          "start_t": 9.8,
+          "end_t": 14.6,
+          "duration": 4.8,
+          "notes": "Social isolation and ignoring relationships",
+          "timestamp": "2026-09-18T15:03:29.685663"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 9.8,
+          "end_t": 14.6,
+          "duration": 4.8,
+          "notes": "Build: Gun_6_20260918_150511_18cb2e5b (cut c02_social_isolation)",
+          "timestamp": "2026-09-18T15:05:15.041800"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 9.8,
+          "end_t": 14.6,
+          "duration": 4.8,
+          "notes": "Build: Gun_6_20260918_161423_18cb2e5b (cut c02_social_isolation)",
+          "timestamp": "2026-09-18T16:14:27.814598"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 9.8,
+          "end_t": 14.6,
+          "duration": 4.8,
+          "notes": "Build: Gun_6_20260918_161513_18cb2e5b (cut c02_social_isolation)",
+          "timestamp": "2026-09-18T16:15:16.411056"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 9.8,
+          "end_t": 14.6,
+          "duration": 4.8,
+          "notes": "Build: Gun_6_20260918_161550_0e6ac2d3 (cut c02_social_isolation)",
+          "timestamp": "2026-09-18T16:15:54.066883"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_4318554": {
+      "provider": "pexels",
+      "asset_id": "4318554",
+      "media_type": "video",
+      "description": "Vertical smartphone screen rapid feed scrolling",
+      "query": "scrolling social media screen",
+      "tags": [
+        "scrolling",
+        "screentime",
+        "tolerance",
+        "social media"
+      ],
+      "file_hash": "b3159fabb653e584b6a4375ed96ddeb3da35df20b606759c03ca16b2e1d0e49e",
+      "created_at": "2026-09-18T15:03:29.685665",
+      "used_in": [
+        {
+          "day": "Gun_6",
+          "start_t": 18.5,
+          "end_t": 21.7,
+          "duration": 3.2,
+          "notes": "Screen time tolerance creeping up",
+          "timestamp": "2026-09-18T15:03:29.685665"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 18.5,
+          "end_t": 21.7,
+          "duration": 3.2,
+          "notes": "Build: Gun_6_20260918_150511_18cb2e5b (cut c03_screentime_tolerance)",
+          "timestamp": "2026-09-18T15:05:15.063316"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 18.5,
+          "end_t": 21.7,
+          "duration": 3.2,
+          "notes": "Build: Gun_6_20260918_161423_18cb2e5b (cut c03_screentime_tolerance)",
+          "timestamp": "2026-09-18T16:14:27.827893"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 18.5,
+          "end_t": 21.7,
+          "duration": 3.2,
+          "notes": "Build: Gun_6_20260918_161513_18cb2e5b (cut c03_screentime_tolerance)",
+          "timestamp": "2026-09-18T16:15:16.424024"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 18.5,
+          "end_t": 21.7,
+          "duration": 3.2,
+          "notes": "Build: Gun_6_20260918_161550_0e6ac2d3 (cut c03_screentime_tolerance)",
+          "timestamp": "2026-09-18T16:15:54.079406"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6598883": {
+      "provider": "pexels",
+      "asset_id": "6598883",
+      "media_type": "video",
+      "description": "Night bedroom insomnia doomscrolling in dark",
+      "query": "smartphone bed dark insomnia",
+      "tags": [
+        "bed",
+        "night",
+        "insomnia",
+        "doomscroll"
+      ],
+      "file_hash": "10f2516a2f89ee3b1555ed42563be4b4944f6c84111bbddcda0fd69e5f3d0ac1",
+      "created_at": "2026-09-18T15:03:29.685667",
+      "used_in": [
+        {
+          "day": "Gun_6",
+          "start_t": 21.7,
+          "end_t": 27.8,
+          "duration": 6.1,
+          "notes": "Unable to cut down and spending hours scrolling",
+          "timestamp": "2026-09-18T15:03:29.685667"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 21.7,
+          "end_t": 27.8,
+          "duration": 6.1,
+          "notes": "Build: Gun_6_20260918_150511_18cb2e5b (cut c04_doomscroll_night)",
+          "timestamp": "2026-09-18T15:05:15.091726"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 21.7,
+          "end_t": 27.8,
+          "duration": 6.1,
+          "notes": "Build: Gun_6_20260918_161423_18cb2e5b (cut c04_doomscroll_night)",
+          "timestamp": "2026-09-18T16:14:27.845936"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 21.7,
+          "end_t": 27.8,
+          "duration": 6.1,
+          "notes": "Build: Gun_6_20260918_161513_18cb2e5b (cut c04_doomscroll_night)",
+          "timestamp": "2026-09-18T16:15:16.441036"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 21.7,
+          "end_t": 27.8,
+          "duration": 6.1,
+          "notes": "Build: Gun_6_20260918_161550_0e6ac2d3 (cut c04_doomscroll_night)",
+          "timestamp": "2026-09-18T16:15:54.094870"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6672202": {
+      "provider": "pexels",
+      "asset_id": "6672202",
+      "media_type": "video",
+      "description": "Acoustic guitar sitting untouched in atmospheric room",
+      "query": "acoustic guitar room",
+      "tags": [
+        "hobbies",
+        "guitar",
+        "abandoned",
+        "music"
+      ],
+      "file_hash": "15fb5533d249b7a21b0a30b5690dcbbfa1e3f84d6090daa9bf284b6ed835fd30",
+      "created_at": "2026-09-18T15:03:29.685668",
+      "used_in": [
+        {
+          "day": "Gun_6",
+          "start_t": 27.8,
+          "end_t": 31.6,
+          "duration": 3.8,
+          "notes": "Giving up hobbies and passions for screen",
+          "timestamp": "2026-09-18T15:03:29.685669"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 27.8,
+          "end_t": 31.6,
+          "duration": 3.8,
+          "notes": "Build: Gun_6_20260918_150511_18cb2e5b (cut c05_abandoned_hobbies)",
+          "timestamp": "2026-09-18T15:05:15.131594"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 27.8,
+          "end_t": 31.6,
+          "duration": 3.8,
+          "notes": "Build: Gun_6_20260918_161423_18cb2e5b (cut c05_abandoned_hobbies)",
+          "timestamp": "2026-09-18T16:14:27.867201"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 27.8,
+          "end_t": 31.6,
+          "duration": 3.8,
+          "notes": "Build: Gun_6_20260918_161513_18cb2e5b (cut c05_abandoned_hobbies)",
+          "timestamp": "2026-09-18T16:15:16.462391"
+        },
+        {
+          "day": "Gun_6",
+          "start_t": 27.8,
+          "end_t": 31.6,
+          "duration": 3.8,
+          "notes": "Build: Gun_6_20260918_161550_0e6ac2d3 (cut c05_abandoned_hobbies)",
+          "timestamp": "2026-09-18T16:15:54.114064"
+        }
+      ],
+      "status": "approved"
+    },
+    "local_c01_casino": {
+      "provider": "local",
+      "asset_id": "c01_casino",
+      "media_type": "video",
+      "description": "Build: Gun_1_20260918_163528_a2ac4f04 (cut c01_casino)",
+      "query": "",
+      "tags": [],
+      "file_hash": "3a65368384e18c9d7e023affb88db714e303aa0f6ee357fb8dbb140313a36a52",
+      "created_at": "2026-09-18T16:35:31.986652",
+      "used_in": [
+        {
+          "day": "Gun_1",
+          "start_t": 5.5,
+          "end_t": 7.8,
+          "duration": 2.3,
+          "notes": "Build: Gun_1_20260918_163528_a2ac4f04 (cut c01_casino)",
+          "timestamp": "2026-09-18T16:35:31.991546"
+        }
+      ],
+      "status": "approved"
+    },
+    "local_c02_addict": {
+      "provider": "local",
+      "asset_id": "c02_addict",
+      "media_type": "video",
+      "description": "Build: Gun_1_20260918_163528_a2ac4f04 (cut c02_addict)",
+      "query": "",
+      "tags": [],
+      "file_hash": "866513a418474e8a10671a9cf31b48d3be23d0de497a857b8f017776a0387241",
+      "created_at": "2026-09-18T16:35:32.032036",
+      "used_in": [
+        {
+          "day": "Gun_1",
+          "start_t": 7.8,
+          "end_t": 12.0,
+          "duration": 4.2,
+          "notes": "Build: Gun_1_20260918_163528_a2ac4f04 (cut c02_addict)",
+          "timestamp": "2026-09-18T16:35:32.037178"
+        }
+      ],
+      "status": "approved"
+    },
+    "local_c03_bed": {
+      "provider": "local",
+      "asset_id": "c03_bed",
+      "media_type": "video",
+      "description": "Build: Gun_1_20260918_163528_a2ac4f04 (cut c03_bed)",
+      "query": "",
+      "tags": [],
+      "file_hash": "e4e42b025e6392e358d073f27c3b7770bb40f736c9cd13a9fcf6efbd1e6724a0",
+      "created_at": "2026-09-18T16:35:32.071616",
+      "used_in": [
+        {
+          "day": "Gun_1",
+          "start_t": 19.5,
+          "end_t": 23.4,
+          "duration": 3.9,
+          "notes": "Build: Gun_1_20260918_163528_a2ac4f04 (cut c03_bed)",
+          "timestamp": "2026-09-18T16:35:32.076866"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6327106": {
+      "provider": "pexels",
+      "asset_id": "6327106",
+      "media_type": "video",
+      "description": "Friends talking at table holding smartphone",
+      "query": "talking friend smartphone table",
+      "tags": [
+        "friends",
+        "talking",
+        "smartphone",
+        "table"
+      ],
+      "file_hash": "afea8fae9092a0f0730438375ef71cee003cd10846d1322d001c31eb283c8206",
+      "created_at": "2026-09-18T18:08:11.429292",
+      "used_in": [
+        {
+          "day": "Gun_7",
+          "start_t": 7.0,
+          "end_t": 11.0,
+          "duration": 4.0,
+          "notes": "Cut c01_talking_holding_phone",
+          "timestamp": "2026-09-18T18:08:11.429292"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 7.0,
+          "end_t": 11.0,
+          "duration": 4.0,
+          "notes": "Cut c01_talking_holding_phone",
+          "timestamp": "2026-09-18T18:08:30.369390"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 7.0,
+          "end_t": 11.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_7_20260918_180949_da63435d (cut c01_talking_holding_phone)",
+          "timestamp": "2026-09-18T18:09:53.061561"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 7.0,
+          "end_t": 11.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_7_20260918_181021_cc0767eb (cut c01_talking_holding_phone)",
+          "timestamp": "2026-09-18T18:10:24.098485"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 7.0,
+          "end_t": 11.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_7_20260918_191447_6f9bd411 (cut c01_talking_holding_phone)",
+          "timestamp": "2026-09-18T19:14:50.268566"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 7.0,
+          "end_t": 11.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_7_20260918_191556_6b99deab (cut c01_talking_holding_phone)",
+          "timestamp": "2026-09-18T19:15:59.972336"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6611951": {
+      "provider": "pexels",
+      "asset_id": "6611951",
+      "media_type": "video",
+      "description": "Person holding smartphone silent in hand",
+      "query": "holding smartphone silent dark",
+      "tags": [
+        "holding",
+        "smartphone",
+        "silent",
+        "hand"
+      ],
+      "file_hash": "252809472dfbfb9f97ad76726706025a6cdddebacfd2a15b7ccbdaa2580db00d",
+      "created_at": "2026-09-18T18:08:11.429292",
+      "used_in": [
+        {
+          "day": "Gun_7",
+          "start_t": 11.0,
+          "end_t": 16.5,
+          "duration": 5.5,
+          "notes": "Cut c02_silent_phone_hand",
+          "timestamp": "2026-09-18T18:08:11.429292"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 11.0,
+          "end_t": 16.5,
+          "duration": 5.5,
+          "notes": "Cut c02_silent_phone_hand",
+          "timestamp": "2026-09-18T18:08:30.369390"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 11.0,
+          "end_t": 16.5,
+          "duration": 5.5,
+          "notes": "Build: Gun_7_20260918_180949_da63435d (cut c02_silent_phone_hand)",
+          "timestamp": "2026-09-18T18:09:53.074069"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 11.0,
+          "end_t": 16.5,
+          "duration": 5.5,
+          "notes": "Build: Gun_7_20260918_181021_cc0767eb (cut c02_silent_phone_hand)",
+          "timestamp": "2026-09-18T18:10:24.108992"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 11.0,
+          "end_t": 16.5,
+          "duration": 5.5,
+          "notes": "Build: Gun_7_20260918_191447_6f9bd411 (cut c02_silent_phone_hand)",
+          "timestamp": "2026-09-18T19:14:50.278081"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 11.0,
+          "end_t": 16.5,
+          "duration": 5.5,
+          "notes": "Build: Gun_7_20260918_191556_6b99deab (cut c02_silent_phone_hand)",
+          "timestamp": "2026-09-18T19:15:59.982706"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6953394": {
+      "provider": "pexels",
+      "asset_id": "6953394",
+      "media_type": "video",
+      "description": "Dinner table with friends using phone",
+      "query": "friends dinner table smartphone",
+      "tags": [
+        "dinner",
+        "table",
+        "friends",
+        "smartphone"
+      ],
+      "file_hash": "6e08b2a8ced615a8328a24fb0bef32041cad5893749a22e49905bbf4fb39a2ab",
+      "created_at": "2026-09-18T18:08:11.429292",
+      "used_in": [
+        {
+          "day": "Gun_7",
+          "start_t": 27.2,
+          "end_t": 32.4,
+          "duration": 5.2,
+          "notes": "Cut c03_dinner_table_phone",
+          "timestamp": "2026-09-18T18:08:11.429292"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 27.2,
+          "end_t": 32.4,
+          "duration": 5.2,
+          "notes": "Cut c03_dinner_table_phone",
+          "timestamp": "2026-09-18T18:08:30.369390"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 27.2,
+          "end_t": 32.4,
+          "duration": 5.2,
+          "notes": "Build: Gun_7_20260918_180949_da63435d (cut c03_dinner_table_phone)",
+          "timestamp": "2026-09-18T18:09:53.124463"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 27.2,
+          "end_t": 32.4,
+          "duration": 5.2,
+          "notes": "Build: Gun_7_20260918_181021_cc0767eb (cut c03_dinner_table_phone)",
+          "timestamp": "2026-09-18T18:10:24.137550"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 27.2,
+          "end_t": 32.4,
+          "duration": 5.2,
+          "notes": "Build: Gun_7_20260918_191447_6f9bd411 (cut c03_dinner_table_phone)",
+          "timestamp": "2026-09-18T19:14:50.305209"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 27.2,
+          "end_t": 32.4,
+          "duration": 5.2,
+          "notes": "Build: Gun_7_20260918_191556_6b99deab (cut c03_dinner_table_phone)",
+          "timestamp": "2026-09-18T19:16:00.008399"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6374206": {
+      "provider": "pexels",
+      "asset_id": "6374206",
+      "media_type": "video",
+      "description": "Smartphone lying on wooden table",
+      "query": "phone on wooden table",
+      "tags": [
+        "phone",
+        "wooden",
+        "table",
+        "facedown"
+      ],
+      "file_hash": "d93d9a8d0cd4e72e94ba5eb269e9ac3b7eb5fddc266759b8c354f3c87b1c20c3",
+      "created_at": "2026-09-18T18:08:11.429292",
+      "used_in": [
+        {
+          "day": "Gun_7",
+          "start_t": 32.4,
+          "end_t": 40.8,
+          "duration": 8.4,
+          "notes": "Cut c04_phone_on_table",
+          "timestamp": "2026-09-18T18:08:11.429292"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 32.4,
+          "end_t": 40.8,
+          "duration": 8.4,
+          "notes": "Cut c04_phone_on_table",
+          "timestamp": "2026-09-18T18:08:30.369390"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 32.4,
+          "end_t": 40.8,
+          "duration": 8.4,
+          "notes": "Build: Gun_7_20260918_180949_da63435d (cut c04_phone_on_table)",
+          "timestamp": "2026-09-18T18:09:53.145849"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 32.4,
+          "end_t": 40.8,
+          "duration": 8.4,
+          "notes": "Build: Gun_7_20260918_181021_cc0767eb (cut c04_phone_on_table)",
+          "timestamp": "2026-09-18T18:10:24.151026"
+        }
+      ],
+      "status": "rejected",
+      "rejection_reason": "Looked artificial/AI render, vertical stand with blank screen instead of flat on table"
+    },
+    "pexels_7223990": {
+      "provider": "pexels",
+      "asset_id": "7223990",
+      "media_type": "video",
+      "description": "Smartphone flat on wooden dining table with tableware and ceramic dishes",
+      "query": "smartphone tableware dining table wooden",
+      "tags": [
+        "smartphone",
+        "tableware",
+        "dining table",
+        "wooden table",
+        "flat"
+      ],
+      "file_hash": "4a0e74a0ca271a74f212edf721c68858ed2a74a23c1bc0e95a47269c252d0950",
+      "created_at": "2026-09-18T19:13:36.128799",
+      "used_in": [
+        {
+          "day": "Gun_7",
+          "start_t": 32.4,
+          "end_t": 40.8,
+          "duration": 8.4,
+          "notes": "Cut c04_phone_on_table (revised real table/flat phone)",
+          "timestamp": "2026-09-18T19:13:36.128820"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 32.4,
+          "end_t": 40.8,
+          "duration": 8.4,
+          "notes": "Build: Gun_7_20260918_191447_6f9bd411 (cut c04_phone_on_table)",
+          "timestamp": "2026-09-18T19:14:50.347928"
+        },
+        {
+          "day": "Gun_7",
+          "start_t": 32.4,
+          "end_t": 40.8,
+          "duration": 8.4,
+          "notes": "Build: Gun_7_20260918_191556_6b99deab (cut c04_phone_on_table)",
+          "timestamp": "2026-09-18T19:16:00.053742"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_8321921": {
+      "provider": "pexels",
+      "asset_id": "8321921",
+      "media_type": "video",
+      "description": "Master watchmaker repairing clock with precision tools",
+      "query": "craftsman watchmaker precision clock repair",
+      "tags": [
+        "watchmaker",
+        "precision",
+        "craftsman",
+        "clock"
+      ],
+      "file_hash": "a5686b6ad9b9b2a5a4f3640f20ee8c9b7f55b026c47b67df04287fbb7ebf5e80",
+      "created_at": "2026-09-18T19:30:51.897857",
+      "used_in": [
+        {
+          "day": "Gun_8",
+          "start_t": 11.2,
+          "end_t": 15.5,
+          "duration": 4.3,
+          "notes": "Cut c01_rare_valuable_craft",
+          "timestamp": "2026-09-18T19:30:51.897882"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 11.2,
+          "end_t": 15.5,
+          "duration": 4.3,
+          "notes": "Build: Gun_8_20260918_193255_9ce93a97 (cut c01_rare_valuable_craft)",
+          "timestamp": "2026-09-18T19:32:58.347378"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 11.2,
+          "end_t": 15.5,
+          "duration": 4.3,
+          "notes": "Build: Gun_8_20260918_193408_23331cd2 (cut c01_rare_valuable_craft)",
+          "timestamp": "2026-09-18T19:34:12.087560"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 11.2,
+          "end_t": 15.5,
+          "duration": 4.3,
+          "notes": "Build: Gun_8_20260918_205232_6ee50064 (cut c01_rare_valuable_craft)",
+          "timestamp": "2026-09-18T20:52:35.568019"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 11.2,
+          "end_t": 15.5,
+          "duration": 4.3,
+          "notes": "Build: Gun_8_20260918_205316_d34b69fa (cut c01_rare_valuable_craft)",
+          "timestamp": "2026-09-18T20:53:19.280232"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_38410499": {
+      "provider": "pexels",
+      "asset_id": "38410499",
+      "media_type": "video",
+      "description": "Scrolling through social media reels on smartphone in 4K",
+      "query": "scrolling social media reels smartphone feed",
+      "tags": [
+        "scrolling",
+        "social media",
+        "reels",
+        "smartphone"
+      ],
+      "file_hash": "d68e461184107ccc8122cf7e881ce67b896f2ac0e8092865ed7952ec37b0af2d",
+      "created_at": "2026-09-18T19:30:51.949009",
+      "used_in": [
+        {
+          "day": "Gun_8",
+          "start_t": 18.3,
+          "end_t": 25.5,
+          "duration": 7.2,
+          "notes": "Cut c02_mindless_scrolling",
+          "timestamp": "2026-09-18T19:30:51.949022"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 18.3,
+          "end_t": 25.5,
+          "duration": 7.2,
+          "notes": "Build: Gun_8_20260918_193255_9ce93a97 (cut c02_mindless_scrolling)",
+          "timestamp": "2026-09-18T19:32:58.408340"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 18.3,
+          "end_t": 25.5,
+          "duration": 7.2,
+          "notes": "Build: Gun_8_20260918_193408_23331cd2 (cut c02_mindless_scrolling)",
+          "timestamp": "2026-09-18T19:34:12.144331"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 18.3,
+          "end_t": 25.5,
+          "duration": 7.2,
+          "notes": "Build: Gun_8_20260918_205232_6ee50064 (cut c02_mindless_scrolling)",
+          "timestamp": "2026-09-18T20:52:35.645645"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 18.3,
+          "end_t": 25.5,
+          "duration": 7.2,
+          "notes": "Build: Gun_8_20260918_205316_d34b69fa (cut c02_mindless_scrolling)",
+          "timestamp": "2026-09-18T20:53:19.344505"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_5904580": {
+      "provider": "pexels",
+      "asset_id": "5904580",
+      "media_type": "video",
+      "description": "Young girl absorbed in smartphone screen",
+      "query": "child looking smartphone screen kid phone",
+      "tags": [
+        "child",
+        "smartphone",
+        "kid",
+        "screen"
+      ],
+      "file_hash": "89fff6ee9ac3df29c61ede61cc5db0f257b6f91575c8bf46b1838e275fdd3d1a",
+      "created_at": "2026-09-18T19:30:51.967750",
+      "used_in": [
+        {
+          "day": "Gun_8",
+          "start_t": 25.5,
+          "end_t": 32.8,
+          "duration": 7.3,
+          "notes": "Cut c03_kid_smartphone",
+          "timestamp": "2026-09-18T19:30:51.967761"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 25.5,
+          "end_t": 32.8,
+          "duration": 7.3,
+          "notes": "Build: Gun_8_20260918_193255_9ce93a97 (cut c03_kid_smartphone)",
+          "timestamp": "2026-09-18T19:32:58.430667"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 25.5,
+          "end_t": 32.8,
+          "duration": 7.3,
+          "notes": "Build: Gun_8_20260918_193408_23331cd2 (cut c03_kid_smartphone)",
+          "timestamp": "2026-09-18T19:34:12.167430"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 25.5,
+          "end_t": 32.8,
+          "duration": 7.3,
+          "notes": "Build: Gun_8_20260918_205232_6ee50064 (cut c03_kid_smartphone)",
+          "timestamp": "2026-09-18T20:52:35.669207"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 25.5,
+          "end_t": 32.8,
+          "duration": 7.3,
+          "notes": "Build: Gun_8_20260918_205316_d34b69fa (cut c03_kid_smartphone)",
+          "timestamp": "2026-09-18T20:53:19.367894"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_5972923": {
+      "provider": "pexels",
+      "asset_id": "5972923",
+      "media_type": "video",
+      "description": "Master woodworker craftsman shaping wood with hand plane in workshop",
+      "query": "woodworker artisan craftsman workshop hand plane",
+      "tags": [
+        "woodworker",
+        "craftsman",
+        "artisan",
+        "deep work"
+      ],
+      "file_hash": "483d8a2fec9a97a55fcb3bb26601c14f2d0c6cec0b374f7519d353413142d290",
+      "created_at": "2026-09-18T19:30:51.994983",
+      "used_in": [
+        {
+          "day": "Gun_8",
+          "start_t": 37.0,
+          "end_t": 44.2,
+          "duration": 7.2,
+          "notes": "Cut c04_craftsman_deep_work",
+          "timestamp": "2026-09-18T19:30:51.994996"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 37.0,
+          "end_t": 44.2,
+          "duration": 7.2,
+          "notes": "Build: Gun_8_20260918_193255_9ce93a97 (cut c04_craftsman_deep_work)",
+          "timestamp": "2026-09-18T19:32:58.462531"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 37.0,
+          "end_t": 44.2,
+          "duration": 7.2,
+          "notes": "Build: Gun_8_20260918_193408_23331cd2 (cut c04_craftsman_deep_work)",
+          "timestamp": "2026-09-18T19:34:12.199370"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 37.0,
+          "end_t": 44.2,
+          "duration": 7.2,
+          "notes": "Build: Gun_8_20260918_205232_6ee50064 (cut c04_craftsman_deep_work)",
+          "timestamp": "2026-09-18T20:52:35.701783"
+        },
+        {
+          "day": "Gun_8",
+          "start_t": 37.0,
+          "end_t": 44.2,
+          "duration": 7.2,
+          "notes": "Build: Gun_8_20260918_205316_d34b69fa (cut c04_craftsman_deep_work)",
+          "timestamp": "2026-09-18T20:53:19.402518"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_33997135": {
+      "provider": "pexels",
+      "asset_id": "33997135",
+      "media_type": "video",
+      "description": "Cut c02_library_research B-roll",
+      "query": "library books bookshelf cinematic study",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c02_library_research"
+      ],
+      "file_hash": "f8443b90bb2ec45dd386377be54bef6a910a7d86e52f5226e043287bbc207448",
+      "created_at": "2026-09-18T23:15:54.474179",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 3.8,
+          "end_t": 7.0,
+          "duration": 3.2,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c02_library_research)",
+          "timestamp": "2026-09-18T23:19:26.854157"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 3.8,
+          "end_t": 7.0,
+          "duration": 3.2,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c02_library_research)",
+          "timestamp": "2026-09-18T23:20:53.437084"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_34672414": {
+      "provider": "pexels",
+      "asset_id": "34672414",
+      "media_type": "video",
+      "description": "Cut c03_city_neon_digital B-roll",
+      "query": "cyberpunk city night neon billboards",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c03_city_neon_digital"
+      ],
+      "file_hash": "f2acec1b1d03e9b65cba14b3d99c734ddbb65269228fd1eb287a0bc93b25fa4d",
+      "created_at": "2026-09-18T23:15:57.384525",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 7.0,
+          "end_t": 10.5,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c03_city_neon_digital)",
+          "timestamp": "2026-09-18T23:19:26.871357"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 7.0,
+          "end_t": 10.5,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c03_city_neon_digital)",
+          "timestamp": "2026-09-18T23:20:53.456509"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_8558453": {
+      "provider": "pexels",
+      "asset_id": "8558453",
+      "media_type": "video",
+      "description": "Cut c04_stress_mental_health B-roll",
+      "query": "depressed stressed person head in hands screen",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c04_stress_mental_health"
+      ],
+      "file_hash": "3ae75e2e8036b148fa658b58808ce46becec6dcf841d985c08bf84d85e5a997f",
+      "created_at": "2026-09-18T23:16:02.587679",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 10.5,
+          "end_t": 14.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c04_stress_mental_health)",
+          "timestamp": "2026-09-18T23:19:26.896525"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 10.5,
+          "end_t": 14.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c04_stress_mental_health)",
+          "timestamp": "2026-09-18T23:20:53.482532"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 11.0,
+          "end_t": 14.0,
+          "duration": 3.0,
+          "notes": "Build: Gun_9_20260919_015800_9693c133 (cut c04_stress_mental_health)",
+          "timestamp": "2026-09-19T01:58:05.084186"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 11.0,
+          "end_t": 14.0,
+          "duration": 3.0,
+          "notes": "Build: Gun_9_20260919_015849_fb822149 (cut c04_stress_mental_health)",
+          "timestamp": "2026-09-19T01:58:53.941376"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7198065": {
+      "provider": "pexels",
+      "asset_id": "7198065",
+      "media_type": "video",
+      "description": "Cut c05_eye_screen_reflection B-roll",
+      "query": "close up eye pupil looking screen light",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c05_eye_screen_reflection"
+      ],
+      "file_hash": "765548fd72480dda625a563ae8d3130c592defd2d50bcb3908ee05f0c0ef375b",
+      "created_at": "2026-09-18T23:16:06.873203",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 14.0,
+          "end_t": 18.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c05_eye_screen_reflection)",
+          "timestamp": "2026-09-18T23:19:26.921538"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 14.0,
+          "end_t": 18.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c05_eye_screen_reflection)",
+          "timestamp": "2026-09-18T23:20:53.507086"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_31112120": {
+      "provider": "pexels",
+      "asset_id": "31112120",
+      "media_type": "video",
+      "description": "Cut c06_hourglass_passing_time B-roll",
+      "query": "hourglass sand falling time",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c06_hourglass_passing_time"
+      ],
+      "file_hash": "fb8496aaeebf69d9ccd9e2512293bdcd7fa3e0f401f218ef980d7cd9cad492a4",
+      "created_at": "2026-09-18T23:16:11.017908",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 18.0,
+          "end_t": 22.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c06_hourglass_passing_time)",
+          "timestamp": "2026-09-18T23:19:26.942229"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 18.0,
+          "end_t": 22.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c06_hourglass_passing_time)",
+          "timestamp": "2026-09-18T23:20:53.527179"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 18.0,
+          "end_t": 21.5,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260919_015800_9693c133 (cut c06_hourglass_passing_time)",
+          "timestamp": "2026-09-19T01:58:05.099789"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 18.0,
+          "end_t": 21.5,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260919_015849_fb822149 (cut c06_hourglass_passing_time)",
+          "timestamp": "2026-09-19T01:58:53.960963"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_8682965": {
+      "provider": "pexels",
+      "asset_id": "8682965",
+      "media_type": "video",
+      "description": "Cut c07_office_distracted_worker B-roll",
+      "query": "office worker overwhelmed computer typing",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c07_office_distracted_worker"
+      ],
+      "file_hash": "9eafabab03075b6cb37fea0de81f81428c7f80cddb2762294331f1ae65c02dfd",
+      "created_at": "2026-09-18T23:16:22.370615",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 22.0,
+          "end_t": 25.5,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c07_office_distracted_worker)",
+          "timestamp": "2026-09-18T23:19:26.990322"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 22.0,
+          "end_t": 25.5,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c07_office_distracted_worker)",
+          "timestamp": "2026-09-18T23:20:53.575733"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 21.5,
+          "end_t": 25.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260919_015800_9693c133 (cut c07_office_distracted_worker)",
+          "timestamp": "2026-09-19T01:58:05.135191"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 21.5,
+          "end_t": 25.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260919_015849_fb822149 (cut c07_office_distracted_worker)",
+          "timestamp": "2026-09-19T01:58:54.003627"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7986626": {
+      "provider": "pexels",
+      "asset_id": "7986626",
+      "media_type": "video",
+      "description": "Cut c08_couple_couch_phones B-roll",
+      "query": "couple on couch looking at smartphones",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c08_couple_couch_phones"
+      ],
+      "file_hash": "6d93f05c0bc0c9f9fc0f7c87c855e978bae274e608dc98f8c05af7fae60d9f4f",
+      "created_at": "2026-09-18T23:16:27.683073",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 25.5,
+          "end_t": 29.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c08_couple_couch_phones)",
+          "timestamp": "2026-09-18T23:19:27.010999"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 25.5,
+          "end_t": 29.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c08_couple_couch_phones)",
+          "timestamp": "2026-09-18T23:20:53.595663"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 28.5,
+          "end_t": 31.5,
+          "duration": 3.0,
+          "notes": "Build: Gun_9_20260919_015800_9693c133 (cut c08_couple_couch_phones)",
+          "timestamp": "2026-09-19T01:58:05.153066"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 28.5,
+          "end_t": 31.5,
+          "duration": 3.0,
+          "notes": "Build: Gun_9_20260919_015849_fb822149 (cut c08_couple_couch_phones)",
+          "timestamp": "2026-09-19T01:58:54.022929"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_16538871": {
+      "provider": "pexels",
+      "asset_id": "16538871",
+      "media_type": "video",
+      "description": "Cut c09_solitary_unsuccessful_walk B-roll",
+      "query": "lonely man walking rain night city street",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c09_solitary_unsuccessful_walk"
+      ],
+      "file_hash": "6ca03ce6a97c7535fdcb15d2050b9aa352fe09b4fd70027c4fd6daf5a8940529",
+      "created_at": "2026-09-18T23:16:30.175994",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 29.0,
+          "end_t": 33.5,
+          "duration": 4.5,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c09_solitary_unsuccessful_walk)",
+          "timestamp": "2026-09-18T23:19:27.026776"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 29.0,
+          "end_t": 33.5,
+          "duration": 4.5,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c09_solitary_unsuccessful_walk)",
+          "timestamp": "2026-09-18T23:20:53.612381"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 31.5,
+          "end_t": 34.5,
+          "duration": 3.0,
+          "notes": "Build: Gun_9_20260919_015800_9693c133 (cut c09_solitary_unsuccessful_walk)",
+          "timestamp": "2026-09-19T01:58:05.165051"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 31.5,
+          "end_t": 34.5,
+          "duration": 3.0,
+          "notes": "Build: Gun_9_20260919_015849_fb822149 (cut c09_solitary_unsuccessful_walk)",
+          "timestamp": "2026-09-19T01:58:54.035419"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_35003022": {
+      "provider": "pexels",
+      "asset_id": "35003022",
+      "media_type": "video",
+      "description": "Cut c10_neural_brain_cognition B-roll",
+      "query": "neural network brain digital glowing technology",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c10_neural_brain_cognition"
+      ],
+      "file_hash": "995f20f38f4cb68a54db77e61245a835f163c695543b4bf1e6ca87a14633a7a6",
+      "created_at": "2026-09-18T23:16:32.348678",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 33.5,
+          "end_t": 38.0,
+          "duration": 4.5,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c10_neural_brain_cognition)",
+          "timestamp": "2026-09-18T23:19:27.040479"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 33.5,
+          "end_t": 38.0,
+          "duration": 4.5,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c10_neural_brain_cognition)",
+          "timestamp": "2026-09-18T23:20:53.625275"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 34.5,
+          "end_t": 38.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_9_20260919_015800_9693c133 (cut c10_neural_brain_cognition)",
+          "timestamp": "2026-09-19T01:58:05.175114"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 34.5,
+          "end_t": 38.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_9_20260919_015849_fb822149 (cut c10_neural_brain_cognition)",
+          "timestamp": "2026-09-19T01:58:54.046234"
+        },
+        {
+          "day": "Gun_10",
+          "start_t": 23.5,
+          "end_t": 28.5,
+          "duration": 5.0,
+          "notes": "Build: Gun_10_20260919_023953_d58213da (cut c03_brain_intelligence_scan)",
+          "timestamp": "2026-09-19T02:39:58.284704"
+        },
+        {
+          "day": "Gun_10",
+          "start_t": 23.5,
+          "end_t": 28.5,
+          "duration": 5.0,
+          "notes": "Build: Gun_10_20260919_024100_fbd930a2 (cut c03_brain_intelligence_scan)",
+          "timestamp": "2026-09-19T02:41:05.917459"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 24.5,
+          "end_t": 28.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_164722_61da899a (cut c04_brain_dopamine_neurons)",
+          "timestamp": "2026-09-19T16:47:30.694567"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 24.5,
+          "end_t": 28.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_165344_785753f7 (cut c04_brain_dopamine_neurons)",
+          "timestamp": "2026-09-19T16:53:52.321280"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_19452742": {
+      "provider": "pexels",
+      "asset_id": "19452742",
+      "media_type": "video",
+      "description": "Cut c11_global_city_timelapse B-roll",
+      "query": "aerial city night lights traffic timelapse drone",
+      "tags": [
+        "podcast_experiment",
+        "jonathan_haidt",
+        "c11_global_city_timelapse"
+      ],
+      "file_hash": "e3899f7e6b873edbf0cdf93fd8e3d7546e65687b04774a0121a5df97d19fd771",
+      "created_at": "2026-09-18T23:16:35.351605",
+      "used_in": [
+        {
+          "day": "Gun_9",
+          "start_t": 38.0,
+          "end_t": 42.6,
+          "duration": 4.6,
+          "notes": "Build: Gun_9_20260918_231919_e3504169 (cut c11_global_city_timelapse)",
+          "timestamp": "2026-09-18T23:19:27.058152"
+        },
+        {
+          "day": "Gun_9",
+          "start_t": 38.0,
+          "end_t": 42.6,
+          "duration": 4.6,
+          "notes": "Build: Gun_9_20260918_232046_e63f9195 (cut c11_global_city_timelapse)",
+          "timestamp": "2026-09-18T23:20:53.643816"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_8347701": {
+      "provider": "pexels",
+      "asset_id": "8347701",
+      "media_type": "video",
+      "description": "Build: Gun_10_20260919_023953_d58213da (cut c01_corporate_office_workers)",
+      "query": "",
+      "tags": [],
+      "file_hash": "50ecf62944f89010c29c546d14b00d5cec8a29e4226433409ee049522ec4876f",
+      "created_at": "2026-09-19T02:39:58.247028",
+      "used_in": [
+        {
+          "day": "Gun_10",
+          "start_t": 4.5,
+          "end_t": 8.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_10_20260919_023953_d58213da (cut c01_corporate_office_workers)",
+          "timestamp": "2026-09-19T02:39:58.253344"
+        },
+        {
+          "day": "Gun_10",
+          "start_t": 4.5,
+          "end_t": 8.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_10_20260919_024100_fbd930a2 (cut c01_corporate_office_workers)",
+          "timestamp": "2026-09-19T02:41:05.894031"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_31485697": {
+      "provider": "pexels",
+      "asset_id": "31485697",
+      "media_type": "video",
+      "description": "Build: Gun_10_20260919_023953_d58213da (cut c02_smartphone_distracted_worker)",
+      "query": "",
+      "tags": [],
+      "file_hash": "00de5c2c0f1c6785c1940ddc89672a399cffddd22ec60e82342ed57ced82fffa",
+      "created_at": "2026-09-19T02:39:58.265306",
+      "used_in": [
+        {
+          "day": "Gun_10",
+          "start_t": 13.5,
+          "end_t": 18.5,
+          "duration": 5.0,
+          "notes": "Build: Gun_10_20260919_023953_d58213da (cut c02_smartphone_distracted_worker)",
+          "timestamp": "2026-09-19T02:39:58.271542"
+        },
+        {
+          "day": "Gun_10",
+          "start_t": 13.5,
+          "end_t": 18.5,
+          "duration": 5.0,
+          "notes": "Build: Gun_10_20260919_024100_fbd930a2 (cut c02_smartphone_distracted_worker)",
+          "timestamp": "2026-09-19T02:41:05.903439"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_9080632": {
+      "provider": "pexels",
+      "asset_id": "9080632",
+      "media_type": "video",
+      "description": "Build: Gun_10_20260919_023953_d58213da (cut c04_stressed_headache_overwhelmed)",
+      "query": "",
+      "tags": [],
+      "file_hash": "a3ae4ce28209f4d8afe280f34f89fd5c219babbad47b20929d0c97a821c9ff0e",
+      "created_at": "2026-09-19T02:39:58.380753",
+      "used_in": [
+        {
+          "day": "Gun_10",
+          "start_t": 28.5,
+          "end_t": 34.0,
+          "duration": 5.5,
+          "notes": "Build: Gun_10_20260919_023953_d58213da (cut c04_stressed_headache_overwhelmed)",
+          "timestamp": "2026-09-19T02:39:58.387056"
+        },
+        {
+          "day": "Gun_10",
+          "start_t": 28.5,
+          "end_t": 34.0,
+          "duration": 5.5,
+          "notes": "Build: Gun_10_20260919_024100_fbd930a2 (cut c04_stressed_headache_overwhelmed)",
+          "timestamp": "2026-09-19T02:41:05.969554"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7597753": {
+      "provider": "pexels",
+      "asset_id": "7597753",
+      "media_type": "video",
+      "description": "Build: Gun_10_20260919_023953_d58213da (cut c05_smoke_rising_cinematic)",
+      "query": "",
+      "tags": [],
+      "file_hash": "75684064b1deb2da4231ca44f9526f247a78f3db0422abb30d4166df7ff425a9",
+      "created_at": "2026-09-19T02:39:58.446926",
+      "used_in": [
+        {
+          "day": "Gun_10",
+          "start_t": 41.5,
+          "end_t": 47.0,
+          "duration": 5.5,
+          "notes": "Build: Gun_10_20260919_023953_d58213da (cut c05_smoke_rising_cinematic)",
+          "timestamp": "2026-09-19T02:39:58.453482"
+        },
+        {
+          "day": "Gun_10",
+          "start_t": 41.5,
+          "end_t": 47.0,
+          "duration": 5.5,
+          "notes": "Build: Gun_10_20260919_024100_fbd930a2 (cut c05_smoke_rising_cinematic)",
+          "timestamp": "2026-09-19T02:41:06.002593"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7984179": {
+      "provider": "pexels",
+      "asset_id": "7984179",
+      "media_type": "video",
+      "description": "Build: Gun_10_20260919_023953_d58213da (cut c06_social_media_phone_scroll)",
+      "query": "",
+      "tags": [],
+      "file_hash": "64ed260912074adfc37dd4c88ecb1f65433703e8aeb4f98c15f0064c05eb55dd",
+      "created_at": "2026-09-19T02:39:58.537114",
+      "used_in": [
+        {
+          "day": "Gun_10",
+          "start_t": 47.0,
+          "end_t": 52.5,
+          "duration": 5.5,
+          "notes": "Build: Gun_10_20260919_023953_d58213da (cut c06_social_media_phone_scroll)",
+          "timestamp": "2026-09-19T02:39:58.543786"
+        },
+        {
+          "day": "Gun_10",
+          "start_t": 47.0,
+          "end_t": 52.5,
+          "duration": 5.5,
+          "notes": "Build: Gun_10_20260919_024100_fbd930a2 (cut c06_social_media_phone_scroll)",
+          "timestamp": "2026-09-19T02:41:06.047722"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_12894327": {
+      "provider": "pexels",
+      "asset_id": "12894327",
+      "media_type": "video",
+      "description": "Build: Gun_10_20260919_023953_d58213da (cut c07_deep_work_single_focus)",
+      "query": "",
+      "tags": [],
+      "file_hash": "571bf898bb927b1ca06cdc8465ac303893255e3a1105d73c466e5dc4aae4b317",
+      "created_at": "2026-09-19T02:39:58.575701",
+      "used_in": [
+        {
+          "day": "Gun_10",
+          "start_t": 52.5,
+          "end_t": 56.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_10_20260919_023953_d58213da (cut c07_deep_work_single_focus)",
+          "timestamp": "2026-09-19T02:39:58.582193"
+        },
+        {
+          "day": "Gun_10",
+          "start_t": 52.5,
+          "end_t": 56.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_10_20260919_024100_fbd930a2 (cut c07_deep_work_single_focus)",
+          "timestamp": "2026-09-19T02:41:06.068170"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_8086494": {
+      "provider": "pexels",
+      "asset_id": "8086494",
+      "media_type": "video",
+      "description": "Build: Gun_11_20260919_164722_61da899a (cut c01_procrastinating_desk_student)",
+      "query": "",
+      "tags": [],
+      "file_hash": "5e3a34462988e65a1d6d8f98e06a8092177c82d1d0abda8a6fd044bb1b5bacec",
+      "created_at": "2026-09-19T16:47:30.500361",
+      "used_in": [
+        {
+          "day": "Gun_11",
+          "start_t": 4.5,
+          "end_t": 8.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_164722_61da899a (cut c01_procrastinating_desk_student)",
+          "timestamp": "2026-09-19T16:47:30.510007"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 4.5,
+          "end_t": 8.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_165344_785753f7 (cut c01_procrastinating_desk_student)",
+          "timestamp": "2026-09-19T16:53:52.248100"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 4.5,
+          "end_t": 8.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_171742_6c21defb (cut c01_procrastinating_desk_student)",
+          "timestamp": "2026-09-19T17:17:50.276967"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 4.5,
+          "end_t": 8.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_172018_0b26298d (cut c01_procrastinating_desk_student)",
+          "timestamp": "2026-09-19T17:20:26.153215"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 4.5,
+          "end_t": 8.5,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_172252_133ca990 (cut c01_procrastinating_desk_student)",
+          "timestamp": "2026-09-19T17:22:59.976588"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_10567473": {
+      "provider": "pexels",
+      "asset_id": "10567473",
+      "media_type": "video",
+      "description": "Build: Gun_11_20260919_164722_61da899a (cut c02_putting_phone_away)",
+      "query": "",
+      "tags": [],
+      "file_hash": "1c3fef85fb5670b421356ed6cd407d08f80e4714ba7cacaf8c1e398e8a60876f",
+      "created_at": "2026-09-19T16:47:30.593257",
+      "used_in": [
+        {
+          "day": "Gun_11",
+          "start_t": 13.0,
+          "end_t": 17.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_164722_61da899a (cut c02_putting_phone_away)",
+          "timestamp": "2026-09-19T16:47:30.602451"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 13.0,
+          "end_t": 17.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_165344_785753f7 (cut c02_putting_phone_away)",
+          "timestamp": "2026-09-19T16:53:52.261269"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_5740707": {
+      "provider": "pexels",
+      "asset_id": "5740707",
+      "media_type": "video",
+      "description": "Build: Gun_11_20260919_164722_61da899a (cut c03_staring_at_blank_wall)",
+      "query": "",
+      "tags": [],
+      "file_hash": "2ffde922760f532f909ce9f1aa0a0522396c4bbe2365613e68a0b039250d9568",
+      "created_at": "2026-09-19T16:47:30.663149",
+      "used_in": [
+        {
+          "day": "Gun_11",
+          "start_t": 20.0,
+          "end_t": 24.5,
+          "duration": 4.5,
+          "notes": "Build: Gun_11_20260919_164722_61da899a (cut c03_staring_at_blank_wall)",
+          "timestamp": "2026-09-19T16:47:30.671918"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 20.0,
+          "end_t": 24.5,
+          "duration": 4.5,
+          "notes": "Build: Gun_11_20260919_165344_785753f7 (cut c03_staring_at_blank_wall)",
+          "timestamp": "2026-09-19T16:53:52.297566"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6549985": {
+      "provider": "pexels",
+      "asset_id": "6549985",
+      "media_type": "video",
+      "description": "Build: Gun_11_20260919_164722_61da899a (cut c05_deep_focus_work_flow)",
+      "query": "",
+      "tags": [],
+      "file_hash": "d5d67f3e70ece942ae60b5294f233f2ada60bd7ddc43d558e5aecd44cc4c8f4b",
+      "created_at": "2026-09-19T16:47:30.729310",
+      "used_in": [
+        {
+          "day": "Gun_11",
+          "start_t": 28.5,
+          "end_t": 32.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_11_20260919_164722_61da899a (cut c05_deep_focus_work_flow)",
+          "timestamp": "2026-09-19T16:47:30.738064"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 28.5,
+          "end_t": 32.0,
+          "duration": 3.5,
+          "notes": "Build: Gun_11_20260919_165344_785753f7 (cut c05_deep_focus_work_flow)",
+          "timestamp": "2026-09-19T16:53:52.347433"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 28.5,
+          "end_t": 31.5,
+          "duration": 3.0,
+          "notes": "Build: Gun_11_20260919_171742_6c21defb (cut c05_deep_focus_work_flow)",
+          "timestamp": "2026-09-19T17:17:50.426277"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 28.5,
+          "end_t": 31.5,
+          "duration": 3.0,
+          "notes": "Build: Gun_11_20260919_172018_0b26298d (cut c05_deep_focus_work_flow)",
+          "timestamp": "2026-09-19T17:20:26.254493"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 28.5,
+          "end_t": 31.5,
+          "duration": 3.0,
+          "notes": "Build: Gun_11_20260919_172252_133ca990 (cut c05_deep_focus_work_flow)",
+          "timestamp": "2026-09-19T17:23:00.058549"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_8810534": {
+      "provider": "pexels",
+      "asset_id": "8810534",
+      "media_type": "video",
+      "description": "Build: Gun_11_20260919_171742_6c21defb (cut c02_putting_phone_away)",
+      "query": "",
+      "tags": [],
+      "file_hash": "e3a244402ebb38e2de94f927c338199fd196c45ae9a76df9520d0688414eadc5",
+      "created_at": "2026-09-19T17:17:50.307203",
+      "used_in": [
+        {
+          "day": "Gun_11",
+          "start_t": 13.0,
+          "end_t": 17.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_171742_6c21defb (cut c02_putting_phone_away)",
+          "timestamp": "2026-09-19T17:17:50.318355"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 13.0,
+          "end_t": 17.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_172018_0b26298d (cut c02_putting_phone_away)",
+          "timestamp": "2026-09-19T17:20:26.177366"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 13.0,
+          "end_t": 17.0,
+          "duration": 4.0,
+          "notes": "Build: Gun_11_20260919_172252_133ca990 (cut c02_putting_phone_away)",
+          "timestamp": "2026-09-19T17:22:59.989807"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_6382073": {
+      "provider": "pexels",
+      "asset_id": "6382073",
+      "media_type": "video",
+      "description": "Build: Gun_11_20260919_171742_6c21defb (cut c03_staring_at_blank_wall)",
+      "query": "",
+      "tags": [],
+      "file_hash": "a1ce64ffb016856785bdb82f48b4926a48d7fac1af1eb36e077c0f70b72d0dd6",
+      "created_at": "2026-09-19T17:17:50.390001",
+      "used_in": [
+        {
+          "day": "Gun_11",
+          "start_t": 20.0,
+          "end_t": 24.5,
+          "duration": 4.5,
+          "notes": "Build: Gun_11_20260919_171742_6c21defb (cut c03_staring_at_blank_wall)",
+          "timestamp": "2026-09-19T17:17:50.405398"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 20.0,
+          "end_t": 24.5,
+          "duration": 4.5,
+          "notes": "Build: Gun_11_20260919_172018_0b26298d (cut c03_staring_at_blank_wall)",
+          "timestamp": "2026-09-19T17:20:26.224588"
+        },
+        {
+          "day": "Gun_11",
+          "start_t": 20.0,
+          "end_t": 24.5,
+          "duration": 4.5,
+          "notes": "Build: Gun_11_20260919_172252_133ca990 (cut c03_staring_at_blank_wall)",
+          "timestamp": "2026-09-19T17:23:00.035271"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_15019286": {
+      "provider": "pexels",
+      "asset_id": "15019286",
+      "media_type": "video",
+      "description": "Build: Gun_12_20260919_181743_3609d99e (cut c01_fog_walking)",
+      "query": "",
+      "tags": [],
+      "file_hash": "6842a4613e7ab1bed1defd276bfe202ecfbf6038a7bf5bb1f7df0a02c4308e95",
+      "created_at": "2026-09-19T18:17:49.748464",
+      "used_in": [
+        {
+          "day": "Gun_12",
+          "start_t": 4.4,
+          "end_t": 11.5,
+          "duration": 7.1,
+          "notes": "Build: Gun_12_20260919_181743_3609d99e (cut c01_fog_walking)",
+          "timestamp": "2026-09-19T18:17:49.766622"
+        },
+        {
+          "day": "Gun_12",
+          "start_t": 4.5,
+          "end_t": 11.5,
+          "duration": 7.0,
+          "notes": "Build: Gun_12_20260919_183105_972f75fd (cut c01_fog_walking)",
+          "timestamp": "2026-09-19T18:31:11.011838"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_7252715": {
+      "provider": "pexels",
+      "asset_id": "7252715",
+      "media_type": "video",
+      "description": "Build: Gun_12_20260919_181743_3609d99e (cut c02_writing_strategy)",
+      "query": "",
+      "tags": [],
+      "file_hash": "5f8bb5f22500dbb644522e20e33f12acafe3266ac44ad30e567266ba92f3b5c4",
+      "created_at": "2026-09-19T18:17:49.795199",
+      "used_in": [
+        {
+          "day": "Gun_12",
+          "start_t": 16.0,
+          "end_t": 22.5,
+          "duration": 6.5,
+          "notes": "Build: Gun_12_20260919_181743_3609d99e (cut c02_writing_strategy)",
+          "timestamp": "2026-09-19T18:17:49.806372"
+        },
+        {
+          "day": "Gun_12",
+          "start_t": 16.2,
+          "end_t": 22.2,
+          "duration": 6.0,
+          "notes": "Build: Gun_12_20260919_183105_972f75fd (cut c02_writing_strategy)",
+          "timestamp": "2026-09-19T18:31:11.031068"
+        }
+      ],
+      "status": "approved"
+    },
+    "pexels_13566476": {
+      "provider": "pexels",
+      "asset_id": "13566476",
+      "media_type": "video",
+      "description": "Build: Gun_12_20260919_181743_3609d99e (cut c03_clock_timelapse)",
+      "query": "",
+      "tags": [],
+      "file_hash": "4648e9dd459140f85ca358fa4d370ec20f9341e66234ae2b9c93b76579c72a65",
+      "created_at": "2026-09-19T18:17:49.867446",
+      "used_in": [
+        {
+          "day": "Gun_12",
+          "start_t": 27.5,
+          "end_t": 34.5,
+          "duration": 7.0,
+          "notes": "Build: Gun_12_20260919_181743_3609d99e (cut c03_clock_timelapse)",
+          "timestamp": "2026-09-19T18:17:49.878059"
+        },
+        {
+          "day": "Gun_12",
+          "start_t": 28.2,
+          "end_t": 34.4,
+          "duration": 6.2,
+          "notes": "Build: Gun_12_20260919_183105_972f75fd (cut c03_clock_timelapse)",
+          "timestamp": "2026-09-19T18:31:11.078617"
+        }
+      ],
+      "status": "approved"
+    }
+  },
+  "rejections": [
+    {
+      "provider": "pexels",
+      "asset_id": "990182",
+      "query": "smartphone addiction",
+      "reason": "Artificial 3D robotic hand with glowing neon chains; failed realism criteria",
+      "timestamp": "2026-09-18T01:50:59.923286"
+    },
+    {
+      "provider": "giphy",
+      "asset_id": "430198",
+      "query": "scrolling phone fast",
+      "reason": "Cartoon anime character raging on keyboard; failed tone and aesthetic standard",
+      "timestamp": "2026-09-18T01:50:59.924340"
+    }
+  ]
+}

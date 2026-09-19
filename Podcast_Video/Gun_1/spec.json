@@ -1,0 +1,41 @@
+{
+  "day": 1,
+  "series": "Podcast_Video",
+  "category": "Scientific Video Essay / Long-Form Podcast",
+  "speaker": "Dr. Anna Lembke (Stanford Medicine) & Steven Bartlett (DOAC)",
+  "title_tr": "Dopamin Tuzağı: Beyniniz Neden Çöktü?",
+  "title_en": "The Dopamine Trap: How Abundance Broke Us",
+  "duration_seconds": 218.12,
+  "aspect_ratio": "16:9",
+  "resolution": "1920x1080",
+  "fps": 25,
+  "audio": {
+    "standard": "EBU R128",
+    "integrated_lufs": -14.04,
+    "true_peak_dbfs": -1.0,
+    "bgm_gain": 0.38,
+    "soundtrack": "Multi-movement dynamic score (Ambient -> Tension -> Eternity)"
+  },
+  "visuals": {
+    "total_scenes": 41,
+    "orientation": "landscape",
+    "sources": ["Pexels 4K/HD", "Pixabay 4K/HD"],
+    "static_images_count": 0,
+    "dynamic_videos_count": 41,
+    "anti_freeze_compliance": true
+  },
+  "subtitles": {
+    "total_blocks": 41,
+    "style": "16:9 Cinematic Pill Badge (#0A0A0E @ 90% opacity, gold border)",
+    "highlight_color": "#FACC15",
+    "languages": ["tr", "en"]
+  },
+  "deliverables": {
+    "tr_video": "Gun_1_Podcast_Video.mp4",
+    "en_video": "Gun_1_Podcast_Video_EN.mp4",
+    "tr_cover": "Gun_1_Kapak.jpg",
+    "en_cover": "Gun_1_Kapak_EN.jpg",
+    "tr_metadata": "YAYIN_BILGILERI.md",
+    "en_metadata": "YAYIN_BILGILERI_EN.md"
+  }
+}

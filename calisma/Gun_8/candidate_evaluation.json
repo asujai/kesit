@@ -1,0 +1,96 @@
+{
+  "campaign_goal": "viral_awareness",
+  "selected_candidate": "cand_438.6_467.6",
+  "candidates": [
+    {
+      "id": "cand_438.6_467.6",
+      "start": 438.64,
+      "end": 467.58,
+      "duration": 28.94,
+      "hook_text": "What's the harm?\"",
+      "punchline_text": "and let it into our lives.",
+      "scores": {
+        "hook_power": 9.0,
+        "punchline_power": 6.5,
+        "standalone_context": 7.5,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 7.35,
+      "full_text_sample": "What's the harm?\" Again, I look back and I say: this objection also is nonsense. In this case, what it misses is what I think is a very impo...",
+      "status": "ACCEPTED",
+      "rationale": "Top-ranked segment with highest combined hook (9.0/10) and punchline (6.5/10) score from transcript."
+    },
+    {
+      "id": "cand_163.0_192.4",
+      "start": 163.03,
+      "end": 192.41,
+      "duration": 29.38,
+      "hook_text": "That's not a hermit,",
+      "punchline_text": "My reaction to that objection is I think that is nonsense.",
+      "scores": {
+        "hook_power": 7.5,
+        "punchline_power": 6.5,
+        "standalone_context": 7.5,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 6.83,
+      "full_text_sample": "That's not a hermit, that's actually a hipster web developer down from 8th Street; I'm not sure. Hipster or hermit? Sometimes it's hard to t...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (6.83 vs 7.35)."
+    },
+    {
+      "id": "cand_628.6_658.1",
+      "start": 628.57,
+      "end": 658.15,
+      "duration": 29.58,
+      "hook_text": "So there's real cost to social media use;",
+      "punchline_text": "there can be a few difficult weeks.",
+      "scores": {
+        "hook_power": 7.5,
+        "punchline_power": 6.5,
+        "standalone_context": 7.5,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 6.83,
+      "full_text_sample": "So there's real cost to social media use; which means when you're trying to decide, \"Should I use this or not?\", saying it's harmless is not...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (6.83 vs 7.35)."
+    },
+    {
+      "id": "cand_647.9_676.3",
+      "start": 647.91,
+      "end": 676.31,
+      "duration": 28.4,
+      "hook_text": "People often ask,",
+      "punchline_text": "There's two things I can report back from the world of no social media use.",
+      "scores": {
+        "hook_power": 7.5,
+        "punchline_power": 6.5,
+        "standalone_context": 7.5,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 6.83,
+      "full_text_sample": "People often ask, \"OK, but what is life like without social media?\" That can actually be a little bit scary to think about. According to peo...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (6.83 vs 7.35)."
+    },
+    {
+      "id": "cand_768.6_818.2",
+      "start": 768.57,
+      "end": 818.24,
+      "duration": 49.67,
+      "hook_text": "Nonsense: it's a slot machine in your phone.",
+      "punchline_text": "I just ask that you direct your comments towards Twitter.",
+      "scores": {
+        "hook_power": 6.5,
+        "punchline_power": 6.5,
+        "standalone_context": 8.5,
+        "niche_alignment": 5.0
+      },
+      "composite_score": 6.67,
+      "full_text_sample": "Nonsense: it's a slot machine in your phone. We can discard with this notion that you won't get a job without it. Nonsense: anything a six-y...",
+      "status": "REJECTED",
+      "rationale": "Alternative candidate with lower composite score (6.67 vs 7.35)."
+    }
+  ]
+}

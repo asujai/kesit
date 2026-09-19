@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "id": "gun_1_sosyal_medya",
+    "day": "Gun_1",
+    "title": "Sosyal Medya Aslında Bir Kumarhane mi? Sonsuz Kaydırma Tuzağı",
+    "topic": "Sosyal Medya Bağımlılığı, Davranışsal Tasarım ve Sonsuz Kaydırma",
+    "speaker": "Sosyal Medya Analizi",
+    "transcript_path": "calisma/Gun_1/transcript.txt",
+    "provenance": {
+      "source_video": {
+        "raw_video_path": "calisma/Gun_1/clean_raw_v4.mp4",
+        "in_point": 0.0,
+        "out_point": 41.08,
+        "duration": 41.08
+      },
+      "candidate": {
+        "selection_mode": "agent_editorial",
+        "in_point": 0.0,
+        "out_point": 41.08,
+        "duration": 41.08,
+        "rationale": "Analysis of infinite scrolling behavioral loops and casino mechanics behind modern social apps."
+      }
+    }
+  },
+  "source": {
+    "raw_video_path": "calisma/Gun_1/clean_raw_v4.mp4",
+    "in_point": 0.0,
+    "out_point": 41.08,
+    "fps": 30,
+    "target_width": 1080,
+    "target_height": 1920
+  },
+  "audio": {
+    "bgm_path": "assets/audio/music2_ambient.m4a",
+    "voice_gain": 1.0,
+    "bgm_gain": 0.14,
+    "target_lufs": -14.0,
+    "fade_out_duration": 0.73
+  },
+  "watermark": {
+    "enabled": false
+  },
+  "cuts": [
+    {
+      "id": "c01_casino",
+      "source_file": "calisma/Gun_1/stock_casino.mp4",
+      "in_point": 0.0,
+      "start_t": 5.5,
+      "end_t": 7.8,
+      "speed": 1.0
+    },
+    {
+      "id": "c02_addict",
+      "source_file": "calisma/Gun_1/broll_addict_7824433.mp4",
+      "in_point": 0.0,
+      "start_t": 7.8,
+      "end_t": 12.0,
+      "speed": 1.0
+    },
+    {
+      "id": "c03_bed",
+      "source_file": "calisma/Gun_1/broll_dark_bed_7986737.mp4",
+      "in_point": 0.0,
+      "start_t": 19.5,
+      "end_t": 23.4,
+      "speed": 1.0
+    },
+    {
+      "id": "c04_scroll",
+      "source_file": "calisma/Gun_1/pexels_social_4k.mp4",
+      "in_point": 0.0,
+      "start_t": 23.4,
+      "end_t": 27.5,
+      "speed": 1.0
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_01",
+      "start": 0.05,
+      "end": 1.65,
+      "text": "Bu biraz kumara benziyor yani",
+      "highlight": "kumara benziyor"
+    },
+    {
+      "id": "sub_02",
+      "start": 1.85,
+      "end": 4.1,
+      "text": "dediğim gibi masumane\nbir şekilde oturuyorsunuz",
+      "highlight": "masumane"
+    },
+    {
+      "id": "sub_03",
+      "start": 4.3,
+      "end": 6.2,
+      "text": "hani küçük küçük\nbaşlamak gibi",
+      "highlight": "küçük küçük"
+    },
+    {
+      "id": "sub_04",
+      "start": 6.45,
+      "end": 9.3,
+      "text": "ama çarka girdiğinizde\nmutlaka kumarhane",
+      "highlight": "kumarhane"
+    },
+    {
+      "id": "sub_05",
+      "start": 9.5,
+      "end": 11.65,
+      "text": "yani işte Facebook,\nInstagram vesaire",
+      "highlight": "Facebook, Instagram"
+    },
+    {
+      "id": "sub_06",
+      "start": 11.8,
+      "end": 14.0,
+      "text": "bunların sahipleri olan\nşirketler kazanıyor",
+      "highlight": "şirketler kazanıyor"
+    },
+    {
+      "id": "sub_07",
+      "start": 14.2,
+      "end": 15.8,
+      "text": "Bunlar kumarhane gibi,",
+      "highlight": "kumarhane"
+    },
+    {
+      "id": "sub_08",
+      "start": 16.05,
+      "end": 19.35,
+      "text": "dediğim gibi sistemi bu şekilde\nzaten dizayn ediyorlar",
+      "highlight": "dizayn ediyorlar"
+    },
+    {
+      "id": "sub_09",
+      "start": 19.6,
+      "end": 23.2,
+      "text": "Çünkü öyle ki, uygulamaları\nkullanırken hiçbir zorluk çekmiyoruz",
+      "highlight": "hiçbir zorluk"
+    },
+    {
+      "id": "sub_10",
+      "start": 23.3,
+      "end": 26.5,
+      "text": "her şey kolaylaştırılıyor,\nbu özellikle infinite scroll denilen",
+      "highlight": "infinite scroll"
+    },
+    {
+      "id": "sub_11",
+      "start": 26.85,
+      "end": 29.5,
+      "text": "hani sınırsız bir şekilde\nsonsuz bir akış olması",
+      "highlight": "sonsuz bir akış"
+    },
+    {
+      "id": "sub_12",
+      "start": 29.5,
+      "end": 31.85,
+      "text": "yani sayfa sayfa,\nparagraf paragraf",
+      "highlight": "sayfa sayfa"
+    },
+    {
+      "id": "sub_13",
+      "start": 32.1,
+      "end": 34.25,
+      "text": "bölünmüş, kesilmiş şekilde\ndeğil de",
+      "highlight": "kesilmiş şekilde"
+    },
+    {
+      "id": "sub_14",
+      "start": 34.5,
+      "end": 36.8,
+      "text": "sürekli bir akışın olması\nkurgulanmış bir şey",
+      "highlight": "sürekli bir akışın"
+    },
+    {
+      "id": "sub_15",
+      "start": 36.8,
+      "end": 38.8,
+      "text": "Hiçbir sürtünme\nve zorluk yok",
+      "highlight": "Hiçbir sürtünme"
+    },
+    {
+      "id": "sub_16",
+      "start": 39.3,
+      "end": 40.35,
+      "text": "Sizi bu bağımlı yapıyor!",
+      "highlight": "bağımlı yapıyor!"
+    }
+  ],
+  "publish": {
+    "youtube": {
+      "title": "Sosyal Medya Aslında Bir Kumarhane mi? 🎰 #Shorts",
+      "title_1": "Sosyal Medya Aslında Bir Kumarhane mi? 🎰 #Shorts",
+      "title_2": "Telefonu Elinden Bırakamamanın Gizli Sebebi 📱 #Shorts",
+      "title_3": "Sonsuz Kaydırma (Doomscroll) Tuzağı! ⚠️ #Shorts",
+      "description": "Sosyal medya uygulamalarını kullanırken neden zamanın nasıl geçtiğini anlamıyoruz? Tıpkı bir kumarhanedeki rulet çarkı gibi, Facebook, Instagram ve TikTok da hiçbir sürtünme veya zorluk hissettirmeden sonsuz bir akış sunmak üzere özel olarak dizayn ediliyor.\n\n#SosyalMedya #Bağımlılık #Psikoloji #DijitalDetoks #Shorts #Teknoloji",
+      "tags": [
+        "sosyal medya bağımlılığı",
+        "doomscrolling",
+        "dijital detoks",
+        "instagram algoritması",
+        "tiktok bağımlılığı",
+        "rulet masası",
+        "sonsuz kaydırma",
+        "psikoloji",
+        "shorts"
+      ],
+      "pinned_comment": "Günde ortalama kaç saatiniz Reels veya Shorts kaydırarak geçiyor? Kendinize karşı dürüst olun, sürenizi yoruma yazın 👇"
+    },
+    "youtube_en": {
+      "title_1": "Is Social Media Designed Like a Casino? 🎰 #Shorts",
+      "title_2": "The Infinite Scroll Trap: Why You Can't Stop Scrolling 📱",
+      "title_3": "The Casino in Your Pocket: How Feeds Hook Your Brain ⚠️",
+      "description": "Why do hours vanish when scrolling through social media?\n\nJust like the roulette wheel in a casino, platforms like TikTok, Instagram, and Facebook are engineered with zero friction. Discover how the 'infinite scroll' mechanism bypasses your brain's natural stopping cues to keep you hooked.\n\n#socialmedia #addiction #psychology #digitaldetox #shorts #screentime #dopamine",
+      "tags": [
+        "social media addiction",
+        "doomscrolling",
+        "infinite scroll",
+        "casino design",
+        "dopamine detox",
+        "psychology",
+        "screen time",
+        "shorts",
+        "digital wellbeing"
+      ],
+      "pinned_comment": "Be honest: How many hours a day do you spend scrolling Reels or Shorts? Share your screen time below 👇"
+    },
+    "instagram": {
+      "hook": "Sosyal medya uygulamaları neden kumarhane gibi tasarlandı? 🎰👇",
+      "caption": "Sosyal medyada saatlerin nasıl aktığını fark etmiyoruz bile. Facebook, Instagram ve TikTok, beynimizin durma mekanizmasını devre dışı bırakmak için sıfır sürtünme ve sonsuz akışla kurgulandı.",
+      "hashtags": "#sosyalmedya #dijitaldetoks #psikoloji #bağımlılık #doomscrolling #shorts #reels",
+      "cta": "Kendini korumak ve farkındalık kazanmak için kaydet ve bir arkadaşınla paylaş!"
+    }
+  }
+}
